@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="id1" tvg-name="ABC News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/ABC_News_24_logo.png" group-title="Australian",ABC News 24
 http://iphonestreaming.abc.net.au/news24/news24.m3u8
 
-#EXTINF:-1,tvg-id="Nine" tvg-name="9 Sydney" tvg-logo="http://www.literacyplanet.com/wordmania/assets/images/partners/nine.png" group-title="Australian",9 Sydney
+#EXTINF:-1,tvg-id="Nine" tvg-name="9 Sydney" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Nine2012_Glossed_Logo.png" group-title="Australian",9 Sydney
 https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master.m3u8
 
 #EXTINF:-1,tvg-id="id1" tvg-name="9 Melbourne" tvg-logo="http://www.literacyplanet.com/wordmania/assets/images/partners/nine.png" group-title="Australian",9 Melbourne
