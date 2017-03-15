@@ -1,0 +1,20 @@
+#EXTM3U
+#
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS_2015.png" group-title="Australian", SBS
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/43_100.m3u8
+
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/SBS_2_2015_logo.png" group-title="Australian", SBS 2
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr/47_100.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS%20FOOD%20LOGO.png" group-title="Australian", SBS Food
+http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/55_100.m3u8
+
+
+
+
+
+
+#EXTINF:-1, tvg-logo="http://www.literacyplanet.com/wordmania/assets/images/partners/nine.png" group-title="Australian", 9 Melb
+https://9nowch9livehls-i.akamaihd.net/hls/live/250962/melbourne/master4.m3u8
+
