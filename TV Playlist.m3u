@@ -132,9 +132,7 @@ http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4628_av-p.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="France 24 EN HD" tvg-logo="https://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" group-title="International News",France 24 En HD
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-
 #EXTINF:-1, tvg-logo="https://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo.jpg" group-title="International News", Al Jazeera
-
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/320px-Cnn.svg.png" group-title="International News", CNN
@@ -161,13 +159,11 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
 #EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/06/euronews-en-400x400-logos.png" group-title="International News",Euronews English
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 
-
 #EXTINF:-1,tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/8/80/CNA-logo.gif/revision/latest?cb=20131011055440" group-title="International News", Channel News Asia
 http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TRT_World_logosu.png/320px-TRT_World_logosu.png"group- title="International News",TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
 
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/i/5gtqdJOvhGdh-6WRO2CTpw/mq1.jpg?v=51eb6d22"group- title="International News", Press TV Iran
 http://178.32.255.199:1935/live/ptven/playlist.m3u8
@@ -206,12 +202,6 @@ http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="International News",RT Documentary
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Newsmax_TV_Logo.png/320px-Newsmax_TV_Logo.png" group-title="International News", Newsmax TV
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
 
@@ -226,6 +216,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:0, tvg-language="English" tvg-country="US" tvg-id="CBSN" tvg-logo="https://pbs.twimg.com/profile_images/530311535550152704/Q5pSZZk6.jpeg" group-title="International News", CBSN SD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+
 #EXTINF:0 tvg-name="News X" tvg-language="English" tvg-country="IN" tvg-id="News X" tvg-logo="http://www.poeyrprize.in/wp-content/uploads/2014/09/NewsX-logo.jpg" group-title="News",News X (News) (IN) (English)
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
 

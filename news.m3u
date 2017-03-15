@@ -1,0 +1,84 @@
+#EXTM3U
+#
+#EXTINF:-1 tvg-id="id1" tvg-name="ABC News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/ABC_News_24_logo.png" group-title="Australian",ABC News 24
+http://iphonestreaming.abc.net.au/news24/news24.m3u8
+
+EXTINF:-1 tvg-id="id1" tvg-name="France 24 EN HD" tvg-logo="https://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" group-title="International News",France 24 En HD
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo.jpg" group-title="International News", Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:0 tvg-name="CBSN News HD" tvg-language="English" tvg-country="US" tvg-id="CBSN" tvg-logo="https://yt3.ggpht.com/-NSs-ufs2ZJU/AAAAAAAAAAI/AAAAAAAAAAA/bb7gM6EYgns/s88-c-k-no/photo.jpg" group-title="International News",CBSN
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="International News", Russia Today
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
+
+#EXTINF:-1,tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/db/Rtenewsnownewlogo.png" group-title="International News", RTE News Ireland
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tpg.sctv" tvg-name="DW-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="Group 1",DW-TV
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+
+#EXTINF:-1, tvg-name="Euronews English" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/06/euronews-en-400x400-logos.png" group-title="International News",Euronews (News) (UK) (English)
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+
+#EXTINF:-1,tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/8/80/CNA-logo.gif/revision/latest?cb=20131011055440" group-title="International News", Channel News Asia
+http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TRT_World_logosu.png/320px-TRT_World_logosu.png"group- title="International News",TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/i/5gtqdJOvhGdh-6WRO2CTpw/mq1.jpg?v=51eb6d22"group- title="International News", Press TV Iran
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2014/05/08/ndtv.jpg"group- title="International News", NDTV 247 India
+http://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cf33a595d606d2b8fa4f3f2d64309634.png" group-title="International News", CNN IBN India
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
+
+#EXTINF:-1, tvg-logo="http://lh5.googleusercontent.com/-fmTnMYq-_80/UReqI805oLI/AAAAAAAADpc/fBUubm_xl68/s200/ptv-world-logo.png"group- title="International News", PTV Pakistan
+http://app.pakistanvision.tv:1935/live/8090/player.m3u8
+
+#EXTINF:0 tvg-name="TVC News" tvg-language="English" tvg-country="NG" tvg-id="TVC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/TVC_News_Africa.jpg" group-title="International News",TVC News Nigeria 
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/arirangworld.png" group-title="International News", Arirang World
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/arirangworld.png", Arirang UN
+http://amdlive.ctnd.com.edgesuite.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.freeetv.com/images/reydddd/arirang.png" group-title="International News", Arirang Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/201px-RT_America_Logo.png" group-title="International News", Russia Today America
+http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="International News", Russia Today UK
+http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="International News",RT Documentary
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Newsmax_TV_Logo.png/320px-Newsmax_TV_Logo.png" group-title="International News", Newsmax TV
+http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
+
+#EXTINF:-1, tvg-id="id1" tvg-name="ABC News US" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528" group-title="International News", ABC News US HD
+http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
+
+#EXTINF:0 tvg-name="News X" tvg-language="English" tvg-country="IN" tvg-id="News X" tvg-logo="http://www.poeyrprize.in/wp-content/uploads/2014/09/NewsX-logo.jpg" group-title="News",News X (News) (IN) (English)
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+
+#EXTINF:0 tvg-name="Bloomberg" tvg-language="English" tvg-country="US" tvg-id="Bloomberg" tvg-logo="http://www.novacable.com/images/logo_Bloomberg_TV.gif" group-title="News",Bloomberg (News) (US) (English)
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:0 tvg-name="C-Span 2" tvg-language="English" tvg-country="US" tvg-id="C-Span 2" tvg-logo="https://www.getsatellite.com/channels/cspan2.png" group-title="News",C-Span 2 (News) (US) (English)
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-name="C-Span 3" tvg-language="English" tvg-country="US" tvg-id="C-Span 3" tvg-logo="https://fiber.storage.googleapis.com/channels/logos/cspan3.png" group-title="News",C-Span 3 (News) (US) (English)
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-name="C-Span" tvg-language="English" tvg-country="US" tvg-id="C-Span" tvg-logo="http://firstladies.c-span.org/Images/WebSkin/FL_WebHeader_cspanLogo.png" group-title="News",C-Span (News) (US) (English)
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0, TWiT Live
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
