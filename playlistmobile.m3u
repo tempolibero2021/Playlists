@@ -11,10 +11,8 @@ http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr
 http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/55_100.m3u8
 
 
-
-
-
-
 #EXTINF:-1, tvg-logo="http://www.literacyplanet.com/wordmania/assets/images/partners/nine.png" group-title="Australian", 9 Melb
 https://9nowch9livehls-i.akamaihd.net/hls/live/250962/melbourne/master4.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo.jpg" group-title="International News", Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
