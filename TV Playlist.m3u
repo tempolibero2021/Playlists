@@ -27,7 +27,7 @@ https://sevenwestmedia01-i.akamaihd.net/hls/live/224827/SYD2/master.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="7 Mate Syd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian" , 7 Mate Syd
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master.m3u8
 
-#EXTINF:-1 tvg-id="7flix" tvg-name="7 Flix Syd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="Australian",7 Flix Syd
+#EXTINF:-1 tvg-id="7flix" tvg-name="7 Flix Syd" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Syd
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224857/SYD6/master.m3u8
 
 #EXTINF:-1,tvg-id="Nine Life Sydney" tvg-name="9 Life Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian",9 Life Syd
@@ -54,7 +54,7 @@ https://sevenwestmedia01-i.akamaihd.net/hls/live/224826/MEL2/master_high.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="7 Mate Mel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Melb
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224839/MEL3/master_high.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="7 Flix Mel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="Australian",7 Flix Melb
+#EXTINF:-1 tvg-id="id1" tvg-name="7 Flix Mel" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Melb
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224856/MEL6/master.m3u8
 
 #EXTINF:-1,tvg-id="Nine Life" tvg-name="9 Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian",9 Life Melb
@@ -81,7 +81,7 @@ https://sevenwestmedia01-i.akamaihd.net/hls/live/224828/BRI2/master.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="7 Mate Bris" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Bris
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224841/BRI3/master.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="7 Flix Bris" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="Australian",7 Flix Bris
+#EXTINF:-1 tvg-id="id1" tvg-name="7 Flix Bris" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Bris
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224858/BRI6/master.m3u8
 
 #EXTINF:-1,tvg-id="Nine Life Brisbane" tvg-name="9 Life Brisbane" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian",9 Life Brisb
@@ -107,7 +107,7 @@ https://sevenwestmedia01-i.akamaihd.net/hls/live/224830/PER2/master.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="7 Mate Per" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Per
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224843/PER3/master.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="7 Flix Per" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="Australian",7 Flix Per
+#EXTINF:-1 tvg-id="id1" tvg-name="7 Flix Per" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Per
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224860/PER6/master.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png", 9 Life Perth
@@ -134,7 +134,7 @@ https://sevenwestmedia01-i.akamaihd.net/hls/live/224829/ADE2/master_high.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="7 Mate Adl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Adl
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224842/ADE3/master_high.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="7 Flix Adl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="Australian",7 Flix Adl
+#EXTINF:-1 tvg-id="id1" tvg-name="7 Flix Adl" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Adl
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224859/ADE6/master.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian", 9 Life Adel
@@ -173,7 +173,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="International News", Russia Today
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index.m3u8
 
-#EXTINF:-1 tvg-id="tpg.sctv" tvg-name="DW-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="Group 1",DW-TV
+#EXTINF:-1 tvg-id="tpg.sctv" tvg-name="DW-TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DWTV.png" group-title="International News", DW-TV
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 
 #EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/06/euronews-en-400x400-logos.png" group-title="International News",Euronews English
@@ -182,7 +182,7 @@ rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TRT_World_logosu.png/320px-TRT_World_logosu.png"group- title="International News",TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.ytimg.com/i/5gtqdJOvhGdh-6WRO2CTpw/mq1.jpg?v=51eb6d22"group- title="International News", Press TV Iran
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="International News", Press TV Iran
 http://178.32.255.199:1935/live/ptven/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/320px-Cnn.svg.png" group-title="International News", CNN
@@ -411,7 +411,7 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 #EXTINF:0, Dubai one SD
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_b750000.m3u8
 
-#EXTINF:0, tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1f/2UE_Radio_Logo.png/revision/latest?cb=20140209214742" group-title="Australian" ,2UE Live
+#EXTINF:0, tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="Australian" ,2UE Webcam
 http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/3AW693logo.svg/320px-3AW693logo.svg.png" group-title="Australian" ,3AW Melbourne
@@ -481,7 +481,7 @@ https://sevenwestmedia01-i.akamaihd.net/hls/live/224822/WBY1/master_high.m3u8
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224835/WBY2/master_high.m3u8
 #EXTINF:1,7MATE Widebay
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224848/WBY3/master_high.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="7 Flix QLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="Australian",7 Flix QLD
+#EXTINF:-1 tvg-id="id1" tvg-name="7 Flix QLD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix QLD
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224861/QLD6/master.m3u8
 
 #EXTINF:1, CTV Fishing Mel
@@ -530,14 +530,26 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1f/2UE_Radio_Logo.png/revision/latest?cb=20140209214742", 2UE Sydney
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg", 2UE Talking Lifestyle Sydney
 http://shout01.stream.hostworks.com.au/2ue_mp3
 
-#EXTINF:-1 group-title="Radio" radio="true"  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c5/2GB_Radio_Logo.png/revision/latest/scale-to-width-down/240?cb=20140209214355", 2GB Sydney
+#EXTINF:-1 group-title="Radio" radio="true"  tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg", 2GB Sydney
 http://shoutcast.2gb.com/2gb
 
 #EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png", 2SM Sydney
 http://144.140.228.109:8220/mp3
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/2RPH_logo_2010.png", 2RPH Reading Service Newcastle
+http://64.85.165.155:8000/stream/2/
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/2RPH_logo_2010.png", 2RPH Reading Service Sydney
+http://64.85.165.155:8000/stream/1/
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg", 666 ABC Canberra
+http://abc.net.au/res/streaming/audio/aac/local_canberra.pls
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/3AW693logo.svg/320px-3AW693logo.svg.png", 3AW Melbourne
+http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
 
 #EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/6PR_882_Logo.jpg", 6PR Perth
 http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8
