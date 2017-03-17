@@ -6,10 +6,10 @@ https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="7 Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Sydney
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224814/SYD1/master.m3u8
 
-#EXTINF:0, tvg-id="SBS tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS_2015.png" group-title="Australian", SBS
+#EXTINF:0, tvg-id="SBS tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/sbs_white_transparent.png" group-title="Australian", SBS
 http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
 
-#EXTINF:0, tvg-id="SBS 2 tvg-name="SBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/SBS_2_2015_logo.png" group-title="Australian", SBS 2
+#EXTINF:0, tvg-id="SBS 2 tvg-name="SBS 2" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/sbs_viceland_transparentwhite.png" group-title="Australian", SBS 2 Viceland
 http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
 
 #EXTINF:-1,tvg-id="SBS Food" tvg-name="SBS Food Network" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS%20FOOD%20LOGO.png" group-title="Australian", SBS Food
@@ -414,7 +414,7 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_b750000.m3u8
 #EXTINF:0, tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="Australian" ,2UE Webcam
 http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/3AW693logo.svg/320px-3AW693logo.svg.png" group-title="Australian" ,3AW Melbourne
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg" group-title="Australian" ,3AW Melbourne
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/index_150_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/4BC-brand.png" group-title="Australian" ,4BC Brisbane
@@ -530,50 +530,59 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 
 
 
+
+
+
+
+
+
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg", 2UE Talking Lifestyle Sydney
 http://shout01.stream.hostworks.com.au/2ue_mp3
 
-#EXTINF:-1 group-title="Radio" radio="true"  tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg", 2GB Sydney
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg", 2GB Sydney
 http://shoutcast.2gb.com/2gb
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png", 2SM Sydney
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png", 2SM Sydney
 http://144.140.228.109:8220/mp3
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/2RPH_logo_2010.png", 2RPH Reading Service Newcastle
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/2RPH_logo_2010.png", 2RPH Reading Service Newcastle
 http://64.85.165.155:8000/stream/2/
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/2RPH_logo_2010.png", 2RPH Reading Service Sydney
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/2RPH_logo_2010.png", 2RPH Reading Service Sydney
 http://64.85.165.155:8000/stream/1/
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg", 666 ABC Canberra
-http://abc.net.au/res/streaming/audio/aac/local_canberra.pls
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/3AW693logo.svg/320px-3AW693logo.svg.png", 3AW Melbourne
-http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/6PR_882_Logo.jpg", 6PR Perth
-http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="http://www.fiveaa.com.au/sites/all/themes/custom/fiveaa_skin/logo.png", Fiveaa Adelaide
-http://streaming.novaentertainment.com.au/fiveaa
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Logo_radio_2CC_Canberra.jpg/220px-Logo_radio_2CC_Canberra.jpg", 2CC Canberra
-http://208.109.101.179:8800/2ccACT52Hos.aac
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1186774495/702_-_Twitter_400x400.jpg", 702 ABC Sydney
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1186774495/702_-_Twitter_400x400.jpg", 702 ABC Sydney
 http://live-radio02.mediahubaustralia.com/2LRW/aac/
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="http://iscale.iheart.com/catalog/live/7110?ops=fit(240%2C240)", ABC Newsradio
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg", 666 ABC Canberra
+http://abc.net.au/res/streaming/audio/aac/local_canberra.pls
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg", 3AW Melbourne
+http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/6PR_882_Logo.jpg", 6PR Perth
+http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.fiveaa.com.au/sites/all/themes/custom/fiveaa_skin/logo.png", Fiveaa Adelaide
+http://streaming.novaentertainment.com.au/fiveaa
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Logo_radio_2CC_Canberra.jpg/220px-Logo_radio_2CC_Canberra.jpg", 2CC Canberra
+http://208.109.101.179:8800/2ccACT52Hos.aac
+
+#EXTINF:-1 group-title="News" radio="true" tvg-logo="http://iscale.iheart.com/catalog/live/7110?ops=fit(240%2C240)", ABC Newsradio
 http://www.abc.net.au/res/streaming/audio/aac/news_radio.pls
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg", ABC Radio National
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg", ABC Radio National
 http://www.abc.net.au/res/streaming/audio/aac/radio_national.pls
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="https://i3.radionomy.com/radios/400/b420ac7e-c55f-4550-8e69-290aff352d53.jpg", Muppet Central Radio
-http://streaming.radionomy.com/MuppetCentralRadio?lang=en-US,en;q=0.5
-
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/8/84/BBC_RADIO_LONDON_%282015%29.png/revision/latest?cb=20160131172037", BBC London
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/651158457211449344/aef7xuAW.jpg", BBC London
 http://vignette3.wikia.nocookie.net/logopedia/images/8/84/BBC_RADIO_LONDON_%282015%29.png/revision/latest?cb=20160131172037
 
-#EXTINF:-1 group-title="Radio" radio="true" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b4/LBC_2014.svg/revision/latest/scale-to-width-down/315?cb=20160214220232", LBC London
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b4/LBC_2014.svg/revision/latest/scale-to-width-down/315?cb=20160214220232", LBC London
 http://ice-the.musicradio.com:80/LBC973
+
+#EXTINF:-1 group-title="Jazz" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1265314901/jazz_twitter_400x400.jpg", ABC Jazz
+http://live-radio01.mediahubaustralia.com/JAZW/aac
+
+#EXTINF:-1 group-title="Soundtrack" radio="true" tvg-logo="https://i3.radionomy.com/radios/400/b420ac7e-c55f-4550-8e69-290aff352d53.jpg", Muppet Central Radio
+http://streaming.radionomy.com/MuppetCentralRadio?lang=en-US,en;q=0.5
