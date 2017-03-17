@@ -155,7 +155,7 @@ http://manifester-wtvperth.mediafoundry.com.au/stream/wtvperth/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="Channel 44 Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/44adelaidelogo.png" group-title="Australian",Channel 44 Adelaide
 https://manifester-c44adelaide.mediafoundry.com.au/stream/c44adelaide_1/playlist.m3u8
 
-#EXTINF:0, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/a2/Fox-sports-news-hero.png/revision/latest?cb=20160621162353&format=original", Fox Sports Australia
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/fox_sports_news_white_trans.png", Fox Sports News
 http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4628_av-p.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Amgtv.PNG", AMG TV
@@ -219,7 +219,7 @@ http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/arirangworld.png", Arirang UN
 http://amdlive.ctnd.com.edgesuite.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.freeetv.com/images/reydddd/arirang.png" group-title="International News", Arirang Korea
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Arirang_Korea.jpg" group-title="International News", Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="http://www.londonlive.co.uk/assets/images/londonlive-big-logo.png" group-title="International News", London Live
@@ -238,10 +238,10 @@ http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
 
 
-#EXTINF:-1, tvg-id="id1" tvg-name="ABC News US" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528" group-title="International News", ABC News US HD
+#EXTINF:-1, tvg-id="id1" tvg-name="ABC News US" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ABC_News_white.jpg" group-title="International News", ABC News US HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8?sd=10&b=800-2500&rebase=on
 
-#EXTINF:-1 tvg-id="id1" tvg-name="ABC News US" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528" group-title="International News", ABC News US SD
+#EXTINF:-1 tvg-id="id1" tvg-name="ABC News US" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ABC_News_white.jpg" group-title="International News", ABC News US SD
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 #EXTINF:0, tvg-language="English" tvg-country="US" tvg-id="CBSN" tvg-logo="https://pbs.twimg.com/profile_images/530311535550152704/Q5pSZZk6.jpeg" group-title="International News", CBSN SD
