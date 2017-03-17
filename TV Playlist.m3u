@@ -6,13 +6,13 @@ https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="7 Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Sydney
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224814/SYD1/master.m3u8
 
-#EXTINF:0, tvg-id="SBS tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/sbs_white_transparent.png" group-title="Australian", SBS
+#EXTINF:0, tvg-id="SBS tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS_transparent_white.png" group-title="Australian", SBS
 http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
 
-#EXTINF:0, tvg-id="SBS 2 tvg-name="SBS 2" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/sbs_viceland_transparentwhite.png" group-title="Australian", SBS 2 Viceland
+#EXTINF:0, tvg-id="SBS 2 tvg-name="SBS 2" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBSViceland_stacked_whitetrans.png" group-title="Australian", SBS 2 Viceland
 http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
 
-#EXTINF:-1,tvg-id="SBS Food" tvg-name="SBS Food Network" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS%20FOOD%20LOGO.png" group-title="Australian", SBS Food
+#EXTINF:-1,tvg-id="SBS Food" tvg-name="SBS Food Network" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS_food_network_transparent_white.png" group-title="Australian", SBS Food
 http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8
 
 #EXTINF:0, tvg-id="NITV tvg-name="NITV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NITVLogoWhite.png" group-title="Australian", NITV
@@ -536,8 +536,7 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg", 2UE Talking Lifestyle Sydney
-http://shout01.stream.hostworks.com.au/2ue_mp3
+
 
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg", 2GB Sydney
 http://shoutcast.2gb.com/2gb
@@ -545,14 +544,17 @@ http://shoutcast.2gb.com/2gb
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png", 2SM Sydney
 http://144.140.228.109:8220/mp3
 
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg", 2UE Talking Lifestyle Sydney
+http://shout01.stream.hostworks.com.au/2ue_mp3
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1186774495/702_-_Twitter_400x400.jpg", 702 ABC Sydney
+http://live-radio02.mediahubaustralia.com/2LRW/aac/
+
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/2RPH_logo_2010.png", 2RPH Reading Service Newcastle
 http://64.85.165.155:8000/stream/2/
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/2RPH_logo_2010.png", 2RPH Reading Service Sydney
 http://64.85.165.155:8000/stream/1/
-
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1186774495/702_-_Twitter_400x400.jpg", 702 ABC Sydney
-http://live-radio02.mediahubaustralia.com/2LRW/aac/
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg", 666 ABC Canberra
 http://abc.net.au/res/streaming/audio/aac/local_canberra.pls
