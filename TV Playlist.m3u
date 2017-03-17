@@ -155,7 +155,7 @@ http://manifester-wtvperth.mediafoundry.com.au/stream/wtvperth/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="Channel 44 Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/44adelaidelogo.png" group-title="Australian",Channel 44 Adelaide
 https://manifester-c44adelaide.mediafoundry.com.au/stream/c44adelaide_1/playlist.m3u8
 
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/fox_sports_news_white_trans.png", Fox Sports News
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/fox_sports_news_white_trans.png", Fox Sports News 500
 http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4628_av-p.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Amgtv.PNG", AMG TV
