@@ -28,10 +28,11 @@ http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8?zone=tenplay.w
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224827/SYD2/master_high.m3u8
 
 #EXTINF:-1 tvg-id="7mate" tvg-name="7 Mate Syd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian", 7 Mate Syd
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master_high.m3u8
+https://sydneyseven-i.akamaihd.net/hls/live/263632/SYD3/master.m3u8 
 
 #EXTINF:-1 tvg-id="7flix" tvg-name="7 Flix Syd" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Syd
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224857/SYD6/master_high.m3u8
+https://sydneyseven-i.akamaihd.net/hls/live/263634/SYD6/master.m3u8 
+
 
 #EXTINF:-1,tvg-id="9Life" tvg-name="9 Life Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian",9 Life Syd
 https://9nowlifelivehls-i.akamaihd.net/hls/live/250994/sydney/master.m3u8
@@ -55,10 +56,10 @@ https://sevenwestmedia01-i.akamaihd.net/hls/live/224813/MEL1/master_high.m3u8
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224826/MEL2/master_high.m3u8
 
 #EXTINF:-1 tvg-id="7mate" tvg-name="7 Mate Melb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Melb
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224839/MEL3/master_high.m3u8
+https://melbourneseven-i.akamaihd.net/hls/live/263661/MEL3/master.m3u8 
 
 #EXTINF:-1 tvg-id="7flix" tvg-name="7 Flix Melb" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Melb
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224856/MEL6/master.m3u8
+https://melbourneseven-i.akamaihd.net/hls/live/263662/MEL6/master.m3u8 
 
 #EXTINF:-1,tvg-id="9Life" tvg-name="9 Life Melb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian",9 Life Melb
 https://9nowlifelivehls-i.akamaihd.net/hls/live/250992/melbourne/master.m3u8
@@ -82,10 +83,10 @@ https://sevenwestmedia01-i.akamaihd.net/hls/live/224815/BRI1/master_high.m3u8
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224828/BRI2/master_high.m3u8
 
 #EXTINF:-1 tvg-shift=1 tvg-id="7mate" tvg-name="7 Mate Bris" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Bris
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224841/BRI3/master_high.m3u8
+https://brisbaneseven-i.akamaihd.net/hls/live/263665/BRI3/master.m3u8 
 
 #EXTINF:-1 tvg-shift=1 tvg-id="7flix" tvg-name="7 Flix Bris" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Bris
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224858/BRI6/master_high.m3u8
+https://brisbaneseven-i.akamaihd.net/hls/live/263666/BRI6/master.m3u8 
 
 #EXTINF:-1, tvg-shift=1 tvg-id="9Life" tvg-id="9Life" tvg-id="Nine Life Brisbane" tvg-name="9 Life Brisbane" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian",9 Life Brisb
 https://9nowlifelivehls-i.akamaihd.net/hls/live/250991/brisbane/master.m3u8
@@ -95,6 +96,31 @@ https://9nowgemlivehls-i.akamaihd.net/hls/live/250971/brisbane/master.m3u8
 
 #EXTINF:-1, tvg-shift=1 tvg-id="GO" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian",  9 GO Bris
 https://9nowgolivehls-i.akamaihd.net/hls/live/250976/brisbane/master.m3u8
+
+
+#EXTINF:-1, tvg-shift=0.30 tvg-id="Nine" tvg-name="9 Adelaide" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/320?cb=20160206064408" group-title="Australian",9 Adelaide
+https://9nowch9livehls-i.akamaihd.net/hls/live/250960/adelaide/master.m3u8
+
+#EXTINF:-1 tvg-shift=0.30tvg-id="Seven" tvg-name="7 Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Adelaide
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224816/ADE1/master_high.m3u8
+
+#EXTINF:-1 tvg-shift=0.30 tvg-id="7TWO" tvg-name="7 Two Adl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/SevenTwo.svg/264px-SevenTwo.svg.png" group-title="Australian",7 Two Adl
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224829/ADE2/master_high.m3u8
+   
+#EXTINF:-1 tvg-shift=0.30 tvg-id="7mate" tvg-name="7 Mate Adl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Adl
+https://adelaideseven-i.akamaihd.net/hls/live/263669/ADE3/master.m3u8 
+
+#EXTINF:-1 tvg-shift=0.30 tvg-id="7flix" tvg-name="7 Flix Adl" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Adl
+https://adelaideseven-i.akamaihd.net/hls/live/263670/ADE6/master.m3u8 
+
+#EXTINF:-1, tvg-shift=0.30 tvg-id="9Life" tvg-name="9 Life Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian", 9 Life Adel
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250990/adelaide/master.m3u8
+
+#EXTINF:-1, tvg-shift=0.30 tvg-id="GEM" tvg-name="9 Gem Adelaide" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/48/NSD_290x170.png/revision/latest?cb=20151217135007" group-title="Australian", 9 Gem Adelaide
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250970/adelaide/master.m3u8
+
+#EXTINF:-1, tvg-shift=0.30 tvg-id="GO" tvg-name="9 GO Adelaide" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian", 9 GO Adelaide
+https://9nowgolivehls-i.akamaihd.net/hls/live/250975/adelaide/master.m3u8
 
 
 
@@ -108,10 +134,10 @@ https://sevenwestmedia01-i.akamaihd.net/hls/live/224817/PER1/master_high.m3u8
 https://sevenwestmedia01-i.akamaihd.net/hls/live/224830/PER2/master_high.m3u8
 
 #EXTINF:-1 tvg-shift=3 tvg-id="7mate" tvg-name="7 Mate Per" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Per
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224843/PER3/master_high.m3u8
+https://perthseven-i.akamaihd.net/hls/live/263676/PER3/master.m3u8 
 
 #EXTINF:-1 tvg-shift=3 tvg-id="7flix" tvg-name="7 Flix Per" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Per
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224860/PER6/master_high.m3u8
+https://perthseven-i.akamaihd.net/hls/live/263677/PER6/master.m3u8 
 
 #EXTINF:-1, tvg-shift=3 tvg-id="9Life" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png", 9 Life Perth
 https://9nowlifelivehls-i.akamaihd.net/hls/live/250993/perth/master.m3u8
@@ -123,31 +149,6 @@ https://9nowgemlivehls-i.akamaihd.net/hls/live/250973/perth/master.m3u8
 https://9nowgolivehls-i.akamaihd.net/hls/live/250978/perth/master.m3u8
 
 
-
-
-#EXTINF:-1, tvg-id="id1" tvg-name="9 Adelaide" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/52/Nine2012_Glossed_Logo.png/revision/latest/scale-to-width-down/320?cb=20160206064408" group-title="Australian",9 Adelaide
-https://9nowch9livehls-i.akamaihd.net/hls/live/250960/adelaide/master.m3u8
-
-#EXTINF:-1 tvg-id="id1" tvg-name="7 Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Adelaide
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224816/ADE1/master_high.m3u8
-
-#EXTINF:-1 tvg-id="id1" tvg-name="7 Two Adl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/SevenTwo.svg/264px-SevenTwo.svg.png" group-title="Australian",7 Two Adl
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224829/ADE2/master_high.m3u8
-   
-#EXTINF:-1 tvg-id="id1" tvg-name="7 Mate Adl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Adl
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224842/ADE3/master_high.m3u8
-
-#EXTINF:-1 tvg-id="id1" tvg-name="7 Flix Adl" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Adl
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224859/ADE6/master.m3u8
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian", 9 Life Adel
-https://9nowlifelivehls-i.akamaihd.net/hls/live/250990/adelaide/master.m3u8
-
-#EXTINF:-1, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/48/NSD_290x170.png/revision/latest?cb=20151217135007" group-title="Australian", 9 Gem Adelaide
-https://9nowgemlivehls-i.akamaihd.net/hls/live/250970/adelaide/master.m3u8
-
-#EXTINF:-1, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian",  9 GO Adelaide
-https://9nowgolivehls-i.akamaihd.net/hls/live/250975/adelaide/master.m3u8
 
 #EXTINF:-1, tvg-id="id1" tvg-name="Channel 31" tvg-logo="http://www.c31.org.au/img/logo@2x.png" group-title="Australian",Channel 31
 http://manifester-c31.mediafoundry.com.au/stream/c31melbourne/playlist.m3u8
@@ -165,7 +166,7 @@ https://manifester-c44adelaide.mediafoundry.com.au/stream/c44adelaide_1/playlist
 http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4628_av-p.m3u8
 
 #EXTINF:1, tvg-logo="https://1vq6mt4fkiyf3k4lv63b9l9o-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/racingcomlogo630x368.jpg" group-title="Australian", Racing.com
-https://sevenwestmedia01-i.akamaihd.net/hls/live/224825/MISC1/master.m3u8
+https://melbourneseven-i.akamaihd.net/hls/live/263815/RAC/master.m3u8 
 
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Australian", Sky Racing 2
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8
@@ -178,6 +179,12 @@ http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.
 
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png" group-title="New Zealand", Three NZ
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/320px-Cnn.svg.png" group-title="International News", CNN World
+http://89.38.8.131:39504 
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/320px-BBC_World_News_red.svg.png" group-title="International News", BBC World
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="id1" tvg-name="France 24 EN HD" tvg-logo="https://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" group-title="International News",France 24 En HD
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -195,16 +202,21 @@ http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="International News", CGTN (CCTV) English
-http://live.cgtn.com/manifest.m3u8
+https://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="International News", CGTN (CCTV) Documentary
 http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/320px-NHK_World.svg.png" group-title="International News", NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TRT_World_logosu.png/320px-TRT_World_logosu.png"group- title="International News",TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="International News", Press TV Iran
 http://178.32.255.199:1935/live/ptven/playlist.m3u8
+
 
 #EXTINF:0 tvg-name="CBSN News HD" tvg-language="English" tvg-country="US" tvg-id="CBSN" tvg-logo="https://yt3.ggpht.com/-NSs-ufs2ZJU/AAAAAAAAAAI/AAAAAAAAAAA/bb7gM6EYgns/s88-c-k-no/photo.jpg"group-title="International News",CBSN
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
@@ -249,13 +261,13 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_2ch/smil:arirang_2ch.smil/playlist
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Arirang_Korea.jpg" group-title="International News", Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/201px-RT_America_Logo.png" group-title="International News", Russia Today America
+#EXTINF:-1, tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/12/RT-America-News.png" group-title="International News", Russia Today America
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="International News", Russia Today UK
 http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="International News",RT Documentary
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="International News",RT Documentary
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Newsmax_TV_Logo.png/320px-Newsmax_TV_Logo.png" group-title="International News", Newsmax TV
@@ -509,15 +521,32 @@ https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/event/primary.m3u8
 #EXTINF:-1, Bloomberg  TV Live Event Asia
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/event/primary.m3u8
 
+#EXTINF:-1, Ruptly RT
+http://wpc.3443.edgecastcdn.net/hls-live/203443/eng1/eng/eng-live.m3u8
+#EXTINF:-1, RT Documentary Alt
+https://rt-doc-live-hls.secure.footprint.net/rt/doc/index.m3u8
 
 
 
+#EXTINF:-1, Euronews
+http://ewns-hls-b-cdn.hexaglobe.net/7b78f43752e527d2318ffa20e513bd7c/58fd8267/euronews_eng.smil/playlist.m3u8
+#EXTINF:-1, Euronews
+http://euronews-live-p6-cdn.hexaglobe.net/4ee7e2fb6d0fd997a85e6fd445093a94/58fd837e/euronews/ewnslivebkp_eng.smil/playlist.m3u8
+#EXTINF:-1, CGTN HD
+https://live.cgtn.com/manifest.m3u8
 
 
+
+#EXTINF:-1 group-title="Jazz" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1265314901/jazz_twitter_400x400.jpg", ABC Jazz
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 
 
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg", 2GB Sydney
 http://shoutcast.2gb.com/2gb
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg", 2GB Sydney better
+http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
+
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png", 2SM Sydney
 http://144.140.228.109:8220/mp3
@@ -535,7 +564,7 @@ http://64.85.165.155:8000/stream/2/
 http://64.85.165.155:8000/stream/1/
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg", 666 ABC Canberra
-http://abc.net.au/res/streaming/audio/aac/local_canberra.pls
+http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/index_48_a-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg", 3AW Melbourne
 http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
@@ -547,13 +576,13 @@ http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8
 http://streaming.novaentertainment.com.au/fiveaa
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Logo_radio_2CC_Canberra.jpg/220px-Logo_radio_2CC_Canberra.jpg", 2CC Canberra
-http://208.109.101.179:8800/2ccACT52Hos.aac
+http://37.59.32.115/proxy/radio2cc?mp=/stream2cc.mp3
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/abc_newsradio.jpg", ABC Newsradio
 http://www.abc.net.au/res/streaming/audio/aac/news_radio.pls
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg", ABC Radio National
-http://www.abc.net.au/res/streaming/audio/aac/radio_national.pls
+http://live-radio01.mediahubaustralia.com/2RNW/aac/
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://pbs.twimg.com/profile_images/651158457211449344/aef7xuAW.jpg", BBC London
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrldn_mf_p
