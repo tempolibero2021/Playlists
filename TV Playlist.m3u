@@ -421,6 +421,7 @@ http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/index_150_av-p.m3u8?sd
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="Australian" ,4BC Brisbane
 http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
 
+https://rt-doc-live-hls.secure.footprint.net/rt/eng/index.m3u8
 
 
 
@@ -526,6 +527,7 @@ http://wpc.3443.edgecastcdn.net/hls-live/203443/eng1/eng/eng-live.m3u8
 #EXTINF:-1, RT Documentary Alt
 https://rt-doc-live-hls.secure.footprint.net/rt/doc/index.m3u8
 
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index.m3u8
 
 
 #EXTINF:-1, Euronews
@@ -534,6 +536,41 @@ http://ewns-hls-b-cdn.hexaglobe.net/7b78f43752e527d2318ffa20e513bd7c/58fd8267/eu
 http://euronews-live-p6-cdn.hexaglobe.net/4ee7e2fb6d0fd997a85e6fd445093a94/58fd837e/euronews/ewnslivebkp_eng.smil/playlist.m3u8
 #EXTINF:-1, CGTN HD
 https://live.cgtn.com/manifest.m3u8
+
+#EXTINF:-1 tvg-id="INS" tvg-name="Insight" group-title="Pacifika" tvg-logo="https://s15.postimg.org/43rd66d5n/6trzho.png", Insight 
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8 
+
+#EXTINF:-1 tvg-id="ADSW" tvg-name="Adult_Swim" group-title="Pacifika" tvg-logo="https://s12.postimg.org/u9uxgqm7h/9dwncs.png", Adult Swim 
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+
+#EXTINF:-1 tvg-id="KITV4" tvg-name="KITV4_News_Hawaii" group-title="Pacifika" tvg-logo="https://s7.postimg.org/58ay2ky7f/78c84f.png", KITV4 News Hawaii 
+http://54.163.107.81/server/play/hearst-kitv-dfp/master.m3u8 
+
+#EXTINF:-1 tvg-id="FSTV" tvg-name="Free_Speech_TV" group-title="Pacifika" tvg-logo="https://s1.postimg.org/hn0zolwnz/wmvcsv.png", Free Speech TV 
+https://edge.free-speech-tv-live.top.comcast.net/out/u/242_3.m3u8 
+
+#EXTINF:-1 tvg-id="EURON" tvg-name="Euronews" group-title="Pacifika" tvg-logo="https://s7.postimg.org/dh411xegb/4dn212.png", Euronews 
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/4-live.m3u8 
+
+#EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN_Sydney" group-title="Pacifika" tvg-logo="https://s8.postimg.org/989biy1fp/9jkz7b.png", TEN Sydney 
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8 
+
+#EXTINF:-1 tvg-id="TENMEL" tvg-name="TEN_Melbourne" group-title="Pacifika" tvg-logo="https://s8.postimg.org/989biy1fp/9jkz7b.png", TEN Melbourne 
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8 
+
+#EXTINF:-1 tvg-id="TENBRI" tvg-name="TEN_Brisbane" group-title="Pacifika" tvg-logo="https://s8.postimg.org/989biy1fp/9jkz7b.png", TEN Brisbane 
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTVQ.m3u8 
+
+#EXTINF:-1 tvg-id="TENADE" tvg-name="TEN_Adelaide_" group-title="Pacifika" tvg-logo="https://s8.postimg.org/989biy1fp/9jkz7b.png", TEN Adelaide  
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDADS.m3u8 
+
+#EXTINF:-1 tvg-id="TENPER" tvg-name="TEN_Perth" group-title="Pacifika" tvg-logo="https://s8.postimg.org/989biy1fp/9jkz7b.png", TEN Perth 
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDNEW.m3u8 
+
+#EXTINF:-1 tvg-id="APLUS" tvg-name="Australia_Plus" group-title="Pacifika" tvg-logo="https://s28.postimg.org/kihy4awyl/4j0h84.png", Australia Plus 
+rtmp://118.97.183.196/jhos//aplus 
+
+
 
 
 
