@@ -25,7 +25,7 @@ http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-ab
 http://sbslivefvstreaming.sbs.com.au/out/u/nitv-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8
 
 #EXTINF:-1, tvg-id="TENSYD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Channel_Ten_logo_2013.png" group-title="Australian",Ten
-http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8?zone=tenplay.web.live&vid=4640806154001®ion=SDATV
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8?zone=tenplay.web.live&vid=4640806154001Â®ion=SDATV
 
 #EXTINF:-1 tvg-id="7TWOSYD" tvg-name="7 Two Syd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/SevenTwo.svg/264px-SevenTwo.svg.png" group-title="Australian",7 Two Syd
 https://sydneyseven-i.akamaihd.net/hls/live/263631/SYD2/master.m3u8
