@@ -10,7 +10,7 @@ plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png", Euronews (Youtube)
-plugin://plugin.video.youtube/play/?video_id=6a1nbPke3Jc
+plugin://plugin.video.youtube/play/?video_id=sPgqEHsONK8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/%28AUS%29_ABCnews-logo.png/revision/latest?cb=20160127035930", ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -291,22 +291,16 @@ http://yospace-cdn.networkten.com.au/video/sdnew/master.m3u8
 #EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN_Sydney" group-title="Australian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/320px-10_Peach_logo_2018.svg.png", TEN Peach Perth
 https://pubads.g.doubleclick.net/ssai/event/K_JnZMsYQPCciI-z6yVD3Q/master.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="News" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/BLOOMBERG_TV_2007.jpg/revision/latest?cb=20150309165119&format=original", Asia Bloomberg
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 
-#EXTINF:-1, Bloomberg Europe
+#EXTINF:-1 group-title="News" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/BLOOMBERG_TV_2007.jpg/revision/latest?cb=20150309165119&format=original", Bloomberg Europe
 https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
-#EXTINF:-1, Bloomberg  TV Live Event US
+#EXTINF:-1 group-title="News" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/BLOOMBERG_TV_2007.jpg/revision/latest?cb=20150309165119&format=original", Bloomberg  TV Live Event US
 https://cdn-videos.akamaized.net/btv/desktop/akamai/us/event/primary.m3u8
 
-#EXTINF:-1, Bloomberg  TV Live Event EMEA
+#EXTINF:-1 group-title="News" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/BLOOMBERG_TV_2007.jpg/revision/latest?cb=20150309165119&format=original", Bloomberg  TV Live Event EMEA
 https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/event/primary.m3u8
 
 #EXTINF:-1 tvg-id="NBC4" tvg-name="NBC4_News_Washington" group-title="News" tvg-logo="https://s23.postimg.org/jrr1la7wb/11ov7y.png", NBC4 News Washington 
@@ -330,7 +324,7 @@ https://skyliverwwa-i.akamaihd.net/hls/live/570288/skyliverwwa/sky2rw.m3u8
 #EXTINF:1 tvg-id="SKYTC" tvg-name="Sky_Thoroughbred_Central" tvg-logo="http://www.skyracing.com.au/assets/website_images/images/Logos/SR-Thumb-Thoroughbred-Central.jpg" group-title="Australian", Thoroughbred Central
 http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8
 
-#EXTINF:1 tvg-logo="https://televisionau.com/wp-content/uploads/openshop_logo.png" group-title="Australian", Open Shop
+#EXTINF:1 group-title="Shopping" tvg-logo="https://televisionau.com/wp-content/uploads/openshop_logo.png" group-title="Australian", Open Shop
 https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
 
 #EXTINF:-1 group-title="Webcams", Times Square Street View
@@ -351,7 +345,7 @@ https://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8
 #EXTINF:-1,University of California TV
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png", Expo TV
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png", Expo TV
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 
 #EXTINF:-1 group-title="News", Ruptly
@@ -364,7 +358,7 @@ https://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/index_150_av-p.m3u8?s
 https://per6prvid-lh.akamaihd.net/i/perthprvid_1@110914/master.m3u8
 
 #EXTINF:-1, group-title="Radio Cams" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg", 3AW Melbourne
-http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/index_150_av-p.m3u8?sd=10&rebase=on
+https://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 
 #EXTINF:-1, group-title="Radio Cams" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png",4BC Brisbane
 http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
@@ -377,29 +371,16 @@ https://ffxradio-lh.akamaihd.net/i/2gbvid_1@454903/index_500_av-p.m3u8?sd=10&reb
 #EXTINF:-1 group-title="News", VOA Africa
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
-#EXTINF:-1 group-title="News",Cruise 1st TV
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniqf-jG1Q_lvdSac4QK1RVORDz9-6XJV3JKZUk32A=s900-c-k-c0x00ffffff-no-rj", Cruise 1st TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
 
-
-#EXTINF:-1, tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png" group-title="International News", Fox News
+#EXTINF:-1, group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png" group-title="International News", Fox News
 https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
 
-https://videos3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8
-
-https://videos3.earthcam.com/fecnetwork/14191.flv/playlist.m3u8
-
-https://videos3.earthcam.com/fecnetwork/4717.flv/playlist.m3u8
-
-#EXTINF:-1 ,CBN News test
-https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/15d1de56-8356-47ef-94ef-aad3f17d2b59:SIN2/variant/2aaf56a9716cc9a9f28658004cb0db29/bandwidth/3394688.m3u8
 
 
-#EXTINF:-1 ,CBN News
-https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-#EXTINF:-1 ,CBN News
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
-#EXTINF:-1 ,CBN News
-https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+https://edge-823-ch-gv.filmon.com/live/5944.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe77d2163fa135e9125d3c122661d88f388fca47f1aabe3a6fa019d884fd3e0fe1fd632dcdd2a5f0bf8a62326863fdfc9b814aaf843c0cf663c3fb60d268102e3d32be1085936c7a9c72e9328a84737edd8f1f583f3a2b922c0527e7b4ae9484d53ff4d535a3f661347be5e061061db1734793853fb4f4541c74e418af05f5c39c0005431e2c6473dbfd80fc95d4ab95af
+
 #EXTINF:-1 ,CBS Miami
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 ,CBS Miami
@@ -453,7 +434,7 @@ http://51.52.156.22:8888/http/007
 
 #EXTINF:-1 ,Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Cine Film
+#EXTINF:-1 group-title="Movies" tvg-logo="https://pbs.twimg.com/profile_images/1156989253160722439/QtAY5mFt_400x400.jpg", Cine Film Iran
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/252px-Film4_logo_2018.svg.png", Film 4
 http://51.52.156.22:8888/http/008
@@ -464,7 +445,7 @@ https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
 
 
 
-
+https://rsdt-waw701-229.tvp.pl/token/video/live/39821425/20201121/1962873157/6c51eece-33bb-4d0d-93f9-eb5aa1df2547/live153.isml/live_1000k/index.m3u8
 
 
 
@@ -476,6 +457,66 @@ http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 https://ais-arn.streamguys1.com/au_033/playlist.m3u8
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Infowars_logo.png", Infowars
 https://streams.infowars.com/listen.pls?sid=1
+https://streams.infowars.com/listen.pls
+https://freespeech.akamaized.net/hls/live/2016712-b/live2/audio_0_eng/audio_0_eng.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="IT Calcio",|UK| BBC 1 HD
+http://anadol.co:25461/live/52836373/56393627/37881.m3u8
+#EXTINF:0 tvg-id="BBC2.uk" group-title="IT Calcio",|UK| BBC 2 HD
+http://anadol.co:25461/live/52836373/56393627/37882.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| BBC 3 HD
+http://anadol.co:25461/live/52836373/56393627/37883.m3u8
+#EXTINF:0 tvg-id="BBC4.uk" group-title="IT Calcio",|UK| BBC 4 HD
+http://anadol.co:25461/live/52836373/56393627/37884.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| BBC NEWS HD
+http://anadol.co:25461/live/52836373/56393627/37885.m3u8
+#EXTINF:0 tvg-id="BBC1Scotland.uk" group-title="IT Calcio",|UK| BBC 1 SCOTLAND HD
+http://anadol.co:25461/live/52836373/56393627/37886.m3u8
+#EXTINF:0 tvg-id="BBCParliament.uk" group-title="IT Calcio",|UK| BBC PARLIAMENT
+http://anadol.co:25461/live/52836373/56393627/37887.m3u8
+#EXTINF:0 tvg-id="BBC2Wales.uk" group-title="IT Calcio",|UK| BBC Two Wales
+http://anadol.co:25461/live/52836373/56393627/37888.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| BBC WORLD NEWS
+http://anadol.co:25461/live/52836373/56393627/37889.m3u8
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="IT Calcio",|UK| ITV 1 HD
+http://anadol.co:25461/live/52836373/56393627/37890.m3u8
+#EXTINF:0 tvg-id="ITV2.uk" group-title="IT Calcio",|UK| ITV 2
+http://anadol.co:25461/live/52836373/56393627/37891.m3u8
+#EXTINF:0 tvg-id="ITV2.uk" group-title="IT Calcio",|UK| ITV 2  HD
+http://anadol.co:25461/live/52836373/56393627/37892.m3u8
+#EXTINF:0 tvg-id="ITV3.uk" group-title="IT Calcio",|UK| ITV 3
+http://anadol.co:25461/live/52836373/56393627/37893.m3u8
+#EXTINF:0 tvg-id="ITV3.uk" group-title="IT Calcio",|UK| ITV 3 HD
+http://anadol.co:25461/live/52836373/56393627/37894.m3u8
+#EXTINF:0 tvg-id="ITV4.uk" group-title="IT Calcio",|UK| ITV 4
+http://anadol.co:25461/live/52836373/56393627/37895.m3u8
+#EXTINF:0 tvg-id="ITV4.uk" group-title="IT Calcio",|UK| ITV 4 HD
+http://anadol.co:25461/live/52836373/56393627/37896.m3u8
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="IT Calcio",|UK| ITV BE
+http://anadol.co:25461/live/52836373/56393627/37897.m3u8
+#EXTINF:0 tvg-id="More4.uk" group-title="IT Calcio",|UK| More4 HD
+http://anadol.co:25461/live/52836373/56393627/37898.m3u8
+#EXTINF:0 tvg-id="Quest.uk" group-title="IT Calcio",|UK| Quest
+http://anadol.co:25461/live/52836373/56393627/37899.m3u8
+#EXTINF:0 tvg-id="RTENewsNow.ie" group-title="IT Calcio",|UK| RTE News
+http://anadol.co:25461/live/52836373/56393627/37900.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| S-K-Y NEW
+http://anadol.co:25461/live/52836373/56393627/37901.m3u8
+#EXTINF:0 tvg-id="Sky1.uk" group-title="IT Calcio",|UK| SKY One
+http://anadol.co:25461/live/52836373/56393627/37902.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| S-K-Y Two
+http://anadol.co:25461/live/52836373/56393627/37903.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| S-K-YArt 1
+http://anadol.co:25461/live/52836373/56393627/37904.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| Syfy UK
+http://anadol.co:25461/live/52836373/56393627/37905.m3u8
+#EXTINF:0 tvg-id="TCM.uk" group-title="IT Calcio",|UK| TCM
+http://anadol.co:25461/live/52836373/56393627/37906.m3u8
+#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK|  E4 UK
+
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png", 2SM Sydney
 http://144.140.228.109:8220/mp3
@@ -492,7 +533,7 @@ http://live-radio01.mediahubaustralia.com/PBW/aac/
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg", 3AW Melbourne
 http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
 
-#EXTINF:-1, radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="Talk" ,4BC Brisbane
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="Talk", 4BC Brisbane
 http://bris4bcaud-lh.akamaihd.net/i/brisbanebcaud_1@110990/master.m3u8
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/5aa.png", Fiveaa Adelaide
@@ -571,19 +612,13 @@ http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
 http://euronews-02.ice.infomaniak.ch/euronews-02.aac
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sputnik_logo.svg/255px-Sputnik_logo.svg.png", Radio Sputnik Russia
-http://icecast.rian.cdnvideo.ru/rian.voiceeng
+http://audio2.video.ria.ru/voiceeng
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/DW-Radio.svg/640px-DW-Radio.svg.png", DW Radio
 http://dw-radio-english-mp3.akacast.akamaistream.net/7/779/135362/v1/gnl.akacast.akamaistream.net/dw-radio-english-mp3
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.allzicradio.com/media/radios/logo_euronews_radio_600x600px4.jpg", Radio Oman
-http://38.96.148.30:1935/live/english/playlist.m3u8
-
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOAlogo.png/320px-VOAlogo.png", VOA
-http://voa-14.akacast.akamaistream.net/7/314/322026/v1/ibb.akacast.akamaistream.net/voa-14
-
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOAlogo.png/320px-VOAlogo.png", VOA English
-http://195.27.154.158/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28?
+https://voavaudio-i.akamaihd.net/hls/live/826546/VOAV_MC1_MRG/master.m3u8
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/WRN%20Radio%20Europe.png", WRN English Europe
 http://193.42.152.215:8026/
