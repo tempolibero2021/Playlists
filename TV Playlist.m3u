@@ -1,28 +1,94 @@
 #EXTM3U
 #
-#EXTINF:-1 group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/%28AUS%29_ABCnews-logo.png/revision/latest?cb=20160127035930", ABC News (Youtube)
-plugin://plugin.video.youtube/play/?video_id=W1ilCy6XrmI   
-
-#EXTINF:-1 tvg-id="CNASIA" tvg-name="Channel NewsAsia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/190px-CNA_new_logo.svg.png" group-title="Australian",CNA (Youtube)
-plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
+#EXTINF:-1 group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/%28AUS%29_ABCnews-logo.png/revision/latest?cb=20160127035930", ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/320px-Sky-news-logo.png", Sky News UK
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png", CNN International
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/605803-BBC-World-News.png",BBC World News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+
+#EXTINF:-1,tvg-name="Russia Today" tvg-id="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="News", Russia Today
+https://rt-news.secure.footprint.net/1103.m3u8
+
+#EXTINF:-1 tvg-id="F24" tvg-name="France 24 English" tvg-logo="https://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" group-title="News",France 24 English 
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="DWTV" tvg-name="DW_News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DWTV.png" group-title="News", DW-TV
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png", Euronews 
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1, tvg-id="tv.46" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/320px-Aljazeera_eng.svg.png" group-title="News", Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png", Fox News
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png",Channel News Asia (CNA)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1, tvg-id="TRTW" tvg-name="TRT_World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/320px-TRT_World.svg.png"group- title="News",TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1, tvg-id="PRESS" tvg-name="Press_TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="News", Press TV Iran
+https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+
+#EXTINF:-1, tvg-id="CGTN" tvg-name="CGTN_News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="News", CGTN (CCTV) English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1, tvg-id="NHK" tvg-name="NHK_World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/320px-NHK_World.svg.png" group-title="News", NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="News",TeleSUR English (VE)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
+
+
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png", Euronews (Youtube)
 plugin://plugin.video.youtube/play/?video_id=sPgqEHsONK8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/%28AUS%29_ABCnews-logo.png/revision/latest?cb=20160127035930", ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/%28AUS%29_ABCnews-logo.png/revision/latest?cb=20160127035930", ABC News (Youtube)
+plugin://plugin.video.youtube/play/?video_id=W1ilCy6XrmI 
+
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhoblBHo2UPo6dQ2397JQJDoU-dhXLk5a7XyTnx=s88-c-k-c0x00ffffff-no-rj", Poland IN
+plugin://plugin.video.youtube/play/?video_id=muLv33Ca-qk
+
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh7fBW2wDMZgmU0B4b1pEYnuLzM5J9PgZwMYV4kww=s88-c-k-c0x00ffffff-no-rj", Talk Radio
+plugin://plugin.video.youtube/play/?video_id=pXrbN1QfzQc
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/320px-GB_News_Logo.svg.png", GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/205px-Global_News.svg.png", Global News Canada
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="Global" tvg-name="Global" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/200px-Global_Television_Network_Logo.svg.png" tvg-url="" group-title="News", Global Canada
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Newsmax_TV_Logo.png/320px-Newsmax_TV_Logo.png", Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1,tvg-name="Russia Today" tvg-id="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="International News", Russia Today
-https://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnioTiPV5w1BPw-LnOJ9Q3Ps6fGZlxoPa9AQCu4rqQ=s88-c-k-c0x00ffffff-no-rj", Fox Newsnow US
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/320px-Aljazeera_eng.svg.png" group-title="International News", Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmT1XG41XhND2WGZ1NGwPeJRD_2jC23Cv2VUX2LQ=s88-c-k-c0x00ffffff-no-rj", TVC News Nigeria (YT)
+plugin://plugin.video.youtube/play/?video_id=LZ9JZRHMKcs
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg", Channels News Nigeria (YT)
+plugin://plugin.video.youtube/play/?video_id=dfB0qmJo1eM
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg", Channels Business Global Nigeria (YT)
+plugin://plugin.video.youtube/play/?video_id=dfB0qmJo1eM
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png", Newsy
+https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/skynewsextra1logo.jpg", Sky News 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
@@ -33,67 +99,44 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/skynewsextra3logo.jpg", Sky News 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
-#EXTINF:-1 tvg-id="F24" tvg-name="France 24 English" tvg-logo="https://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" group-title="International News",France 24 English 
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://d285i0j5z4r2w7.cloudfront.net/channel_logos/739.png?lang=en", BBC One Scotland (Filmon)
-https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Really_logo_2013.svg/320px-Really_logo_2013.svg.png", Really (Filmon)
-https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DWTV" tvg-name="DW_News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DWTV.png" group-title="International News", DW-TV
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/EhK4XWv.jpg" group-title="USA(500)",Cheddar News,US | Cheddar News
+https://live.chdrstatic.com/cbn/primary/5.m3u8?
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOAlogo.png/320px-VOAlogo.png", VOA News
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/240px-The_Weather_Channel_logo_2005-present.svg.png", The Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:-1, tvg-id="CGTN" tvg-name="CGTN_News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="International News", CGTN (CCTV) English
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-#EXTINF:-1, tvg-id="NHK" tvg-name="NHK_World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/320px-NHK_World.svg.png" group-title="International News", NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-
-#EXTINF:-1, tvg-id="TRTW" tvg-name="TRT_World" tvg-logo="http://provide4ur.com/uploads/haberler/TRT_World.png"group- title="International News",TRT WORLD
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-
-#EXTINF:-1, tvg-id="PRESS" tvg-name="Press_TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="International News", Press TV Iran
-https://live.presstv.com/liveprs/smil:liveprs/playlist.m3u8
-
-#EXTINF:-1, tvg-id="NDTV" tvg-name="NDTV_News_24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/320px-NDTV_247.svg.png" group-title="International News", NDTV 247 India
+#EXTINF:-1, tvg-id="NDTV" tvg-name="NDTV_News_24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/320px-NDTV_247.svg.png" group-title="News", NDTV 247 India
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
-#EXTINF:-1, tvg-id="CGTNDOC" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="International News", CGTN (CCTV) Documentary
+#EXTINF:-1, tvg-id="CGTNDOC" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="News", CGTN (CCTV) Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1, tvg-id="RTENN" tvg-name="RTE_News_Now" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/db/Rtenewsnownewlogo.png" group-title="International News", RTE News Ireland
+#EXTINF:-1, tvg-id="RTENN" tvg-name="RTE_News_Now" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/db/Rtenewsnownewlogo.png" group-title="News", RTE News Ireland
 https://www.rte.ie/manifests/newsnow.m3u8
 
-#EXTINF:0 tvg-id="CBSNUS" tvg-name="CBS_News_US" tvg-language="English" tvg-country="US" tvg-logo="https://yt3.ggpht.com/-NSs-ufs2ZJU/AAAAAAAAAAI/AAAAAAAAAAA/bb7gM6EYgns/s88-c-k-no/photo.jpg"group-title="International News",CBSN
+#EXTINF:0 tvg-id="CBSNUS" tvg-name="CBS_News_US" tvg-language="English" tvg-country="US" tvg-logo="https://yt3.ggpht.com/-NSs-ufs2ZJU/AAAAAAAAAAI/AAAAAAAAAAA/bb7gM6EYgns/s88-c-k-no/photo.jpg"group-title="News",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-#EXTINF:-1, tvg-name="Timesnow India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png"group-title="International News", Timesnow India
+#EXTINF:-1, tvg-name="Timesnow India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png"group-title="News", Timesnow India
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 #EXTINF:0 tvg-name="News X" tvg-language="English" tvg-country="IN" tvg-id="News X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NewsX_Logo.png/320px-NewsX_Logo.png" group-title="News", News X India
-https://itvorigin.multitvsolution.com/hls/newsx.m3u8
+https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 
-#EXTINF:-1,tvg-name="PTV Pakistan" tvg-logo="http://lh5.googleusercontent.com/-fmTnMYq-_80/UReqI805oLI/AAAAAAAADpc/fBUubm_xl68/s200/ptv-world-logo.png"group- title="International News", PTV Pakistan
+#EXTINF:-1,tvg-name="PTV Pakistan" tvg-logo="http://lh5.googleusercontent.com/-fmTnMYq-_80/UReqI805oLI/AAAAAAAADpc/fBUubm_xl68/s200/ptv-world-logo.png"group- title="News", PTV Pakistan
 https://live.ptv.com.pk/live/ptvworld/playlist.m3u8
 
-#EXTINF:-1,tvg-name="Arirang World" tvg-id="ARITV"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/arirangworld.png" group-title="International News", Arirang World
+#EXTINF:-1,tvg-name="Arirang World" tvg-id="ARITV"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/arirangworld.png" group-title="News", Arirang World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name="RT America" tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/12/RT-America-News.png" group-title="International News", Russia Today America
+#EXTINF:-1,tvg-name="RT America" tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/12/RT-America-News.png" group-title="News", Russia Today America
 https://rt-usa.secure.footprint.net/1105.m3u8
 
-#EXTINF:-1, tvg-name="RT UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="International News", Russia Today UK
+#EXTINF:-1, tvg-name="RT UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="News", Russia Today UK
 https://rt-uk.secure.footprint.net/1106.m3u8
 
-#EXTINF:-1, tvg-name="RT Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="International News",RT Documentary
+#EXTINF:-1, tvg-name="RT Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="News",RT Documentary
 https://rt-doc.secure.footprint.net/1101.m3u8
 
 #EXTINF:0 tvg-id="BLMUS" tvg-name="Bloomberg US" tvg-language="English" tvg-country="US" tvg-id="Bloomberg" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/BLOOMBERG_TV_2007.jpg/revision/latest?cb=20150309165119&format=original" group-title="News", Bloomberg US
@@ -103,193 +146,7 @@ https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://en.ifilmtv.com/img/colorize-logo-final.png", Ifilm Iran
-https://live1.presstv.com/live/ifilmen_360p/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/240px-Logo_BFM_TV_%282019%29.png", BFM France
-https://bfmtvalive1-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
-
-#EXTINF:-1, tvg-id="9SYD" tvg-name="9 Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australian",9 Sydney
-https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
-
-#EXTINF:-1 tvg-id="7SYD" tvg-name="7 Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Sydney
-https://npc.cdn.7livecloud.io/hls/live/SYD1/masterSD.m3u8
-
-#EXTINF:-1, tvg-id="SBSNSW" tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS_transparent_white.png" group-title="Australian", SBS
-https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
-
-#EXTINF:-1, tvg-id="VICESE" tvg-name="Viceland" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBSViceland_stacked_whitetrans.png" group-title="Australian", SBS 2 Viceland
-https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
-
-#EXTINF:-1, tvg-id="FOODSE" tvg-name="SBS Food" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS%20Food.png" group-title="Australian", SBS Food
-https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
-
-#EXTINF:-1, tvg-id="SBSNSW" tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS%20World%20Movies.png" group-title="Australian", SBS World Movies
-https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
-
-#EXTINF:-1, tvg-id="NITVSE" tvg-name="NITV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NITV.jpg" group-title="Australian", NITV
-https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
-
-#EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN_Sydney" group-title="Australian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Ten_2013-.png/revision/latest?cb=20180705111341", TEN Sydney 
-https://dai.google.com/linear/hls/pb/event/kIanX1fxR7isFhfnvLSKTA/stream/4f89a7d0-854b-4a2b-aae9-8fc706e7df94:SIN/master.m3u8
-
-#EXTINF:-1 tvg-id="7TWOSYD" tvg-name="7 Two Syd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/320px-7two_logo_2020.svg.png" group-title="Australian",7 Two Syd
-https://npc.cdn.7livecloud.io/hls/live/SYD2/masterSD.m3u8
-
-#EXTINF:-1 tvg-id="7TWOSYD" tvg-name="7 Mate Syd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian", 7 Mate Syd
-https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
-
-#EXTINF:-1 tvg-id="7FLIXSYD" tvg-name="7 Flix Syd" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Syd
-https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
-
-#EXTINF:-1,tvg-id="9LIFESYD" tvg-name="9 Life Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian",9 Life Syd
-https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-
-#EXTINF:-1, tvg-name="9 Gem Sydney" tvg-id="9GEMSYD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/48/NSD_290x170.png/revision/latest?cb=20151217135007" group-title="Australian", 9 Gem Syd
-https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-
-#EXTINF:-1, tvg-name="9 GO Sydney" tvg-id="9GOSYD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian", 9 Go! Syd				
-https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-
-#EXTINF:-1, tvg-name="9 Rush Sydney" tvg-id="9RushSYD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png" group-title="Australian", 9 Rush Syd
-https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
-
-#EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN Sydney" group-title="Australian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/320px-10_Peach_logo_2018.svg.png", TEN Peach Syd
-https://dwd941bx75no0.cloudfront.net/10PeachNSW/stream.m3u8
-
-#EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN Bold Sydney" group-title="Australian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/320px-10_Bold_2018.svg.png", TEN Bold Syd
-https://d3dilkfpueg8q1.cloudfront.net/10BoldNSW/stream.m3u8
-
-#EXTINF:-1,tvg-id="9MEL" tvg-name="9 Melb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australian",9 Melb
-https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
-
-#EXTINF:-1 tvg-id="7MEL" tvg-name="7 Melbourne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Melb
-https://npc.cdn.7livecloud.io/hls/live/MEL1/masterSD.m3u8
-
-#EXTINF:-1 tvg-id="7TWOMEL" tvg-name="7 Two Melb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/320px-7two_logo_2020.svg.png" group-title="Australian",7 Two Melb
-https://npc.cdn.7livecloud.io/hls/live/MEL2/masterSD.m3u8
-
-#EXTINF:-1 tvg-id="7MATEMEL" tvg-name="7 Mate Melb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Melb
-https://live-sevennetwork.akamaized.net/hls/live/573751/MEL3/master.m3u8
-
-#EXTINF:-1 tvg-id="7FLIXMEL" tvg-name="7 Flix Melb" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Melb
-https://live-sevennetwork.akamaized.net/hls/live/573752/MEL6/master.m3u8
-
-#EXTINF:-1,tvg-id="9LIFEMEL" tvg-name="9 Life Melb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian",9 Life Melb
-https://9now-live.akamaized.net/hls/live/708947/life-mel/master.m3u8
-
-#EXTINF:-1, tvg-id="9GEMMEL" tvg-name="9 GEM Melb" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/48/NSD_290x170.png/revision/latest?cb=20151217135007" group-title="Australian", 9 Gem Melb
-https://9now-live.akamaized.net/hls/live/705331/gem-mel/master.m3u8
-
-#EXTINF:-1, tvg-id="9GOMEL" tvg-name="9 GO Melb" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian", 9 Go! Melb
-https://9now-live.akamaized.net/hls/live/708940/go-mel/master.m3u8
-
-#EXTINF:-1 tvg-id="TENMEL" tvg-name="TEN_Melbourne" group-title="Australian"tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Ten_2013-.png/revision/latest?cb=20180705111341", TEN Melbourne 
-http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8
-
-#EXTINF:-1 tvg-id="TENMEL" tvg-name="TEN_Melbourne" group-title="Australian"tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/C31_Melbourne_logo_2010.png", Channel 31
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/index_150_av-p.m3u8
-
-#EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN_Sydney" group-title="Australian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/320px-10_Peach_logo_2018.svg.png", TEN Peach Melb
-https://pubads.g.doubleclick.net/ssai/event/QTtJ0VGKQuC1U36Qv06bRg/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="9BRI" tvg-name="9 Brisbane" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australian",9 Brisbane
-https://9now-live.akamaized.net/hls/live/708955-b/ch9-bne/master.m3u8
-
-#EXTINF:-1 tvg-id="7BRI" tvg-name="7 Brisbane" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Bris
-https://npc.cdn.7livecloud.io/hls/live/BRI1/master.m3u8
-
-#EXTINF:-1 tvg-id="7TWOBRI" tvg-name="7 Two Bris" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/320px-7two_logo_2020.svg.png" group-title="Australian",7 Two Bris
-https://npc.cdn.7livecloud.io/hls/live/BRI2/master.m3u8
-
-#EXTINF:-1 tvg-id="7MATEBRI" tvg-name="7 Mate Bris" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Bris
-https://npc.cdn.7livecloud.io/hls/live/BRI3/master.m3u8
-
-#EXTINF:-1 tvg-id="7FLIXBRI" tvg-name="7 Flix Bris" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian", 7 Flix Bris
-https://npc.cdn.7livecloud.io/hls/live/BRI6/master.m3u8
-
-#EXTINF:-1 tvg-id="9LIFEBRI" tvg-id="9Life" tvg-id="Nine Life Brisbane" tvg-name="9 Life Brisbane" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian", 9 Life Brisb
-https://9now-live.akamaized.net/hls/live/708948/life-bne/master.m3u8
-
-#EXTINF:-1 tvg-id="9GEMBRI" tvg-id="9Gem Bris" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/48/NSD_290x170.png/revision/latest?cb=20151217135007" group-title="Australian",9 Gem Bris
-https://9now-live.akamaized.net/hls/live/705340/gem-bne/master.m3u8
-
-#EXTINF:-1 tvg-id="9GOBRI" tvg-id="9Go Bris" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian",9 GO Bris
-https://9now-live.akamaized.net/hls/live/708941/go-bne/master.m3u8
-
-#EXTINF:-1 tvg-id="TENBRI" tvg-name="TEN_Brisbane" group-title="Australian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Ten_2013-.png/revision/latest?cb=20180705111341", TEN Brisbane 
-http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTVQ.m3u8
-
-#EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN_Sydney" group-title="Australian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/320px-10_Peach_logo_2018.svg.png", TEN Peach Bris
-https://pubads.g.doubleclick.net/ssai/event/8CqRzmdzQfKGXskLxi3uyA/master.m3u8
-
-
-#EXTINF:-1, tvg-id="9ADE" tvg-name="9 Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australian",9 Adelaide
-https://9now-live.akamaized.net/hls/live/708960-b/ch9-adl/master.m3u8
-
-#EXTINF:-1 tvg-id="7ADE" tvg-name="7 Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Adelaide
-https://npc.cdn.7livecloud.io/hls/live/ADE1/master.m3u8
-
-#EXTINF:-1  tvg-id="7TWOADE" tvg-name="7 Two Adl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/320px-7two_logo_2020.svg.png" group-title="Australian",7 Two Adl
-https://npc.cdn.7livecloud.io/hls/live/ADE2/master.m3u8
-   
-#EXTINF:-1 tvg-id="7MATEADE" tvg-name="7 Mate Adl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Adl
-https://npc.cdn.7livecloud.io/hls/live/ADE3/master.m3u8
-
-#EXTINF:-1  tvg-id="7FLIXADE" tvg-name="7 Flix Adl" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Adl
-https://npc.cdn.7livecloud.io/hls/live/ADE6/master.m3u8
-
-#EXTINF:-1,  tvg-id="9LIFEADE" tvg-name="9 Life Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian", 9 Life Adel
-https://9now-live.akamaized.net/hls/live/708949/life-adl/master.m3u8
-
-#EXTINF:-1,  tvg-id="9GEMADE" tvg-name="9 Gem Adelaide" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/48/NSD_290x170.png/revision/latest?cb=20151217135007" group-title="Australian", 9 Gem Adelaide
-https://9now-live.akamaized.net/hls/live/705341/gem-adl/master.m3u8
-
-#EXTINF:-1,  tvg-id="9GOADE" tvg-name="9 GO Adelaide" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian", 9 GO Adelaide
-https://9now-live.akamaized.net/hls/live/708942/go-adl/master.m3u8
-
-#EXTINF:-1 tvg-id="TENADE" tvg-name="TEN_Adelaide_" group-title="Australian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Ten_2013-.png/revision/latest?cb=20180705111341", TEN Adelaide  
-http://yospace-cdn.networkten.com.au/video/sdads/master.m3u8
-
-#EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN_Sydney" group-title="Australian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/320px-10_Peach_logo_2018.svg.png", TEN Peach Adelaide
-https://pubads.g.doubleclick.net/ssai/event/yZlZBIeOT0-JHu4DPCm6eg/master.m3u8
-
-#EXTINF:-1, tvg-id="44" tvg-name="Channel 44 Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/44adelaidelogo.png" group-title="Australian", Channel 44 Adelaide
-https://bdz47wk-lh.akamaihd.net/i/bdz47wkvo0zjom_1@1017167/master.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="9PER" tvg-name="9 Perth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australian",9 Perth
-https://9now-live.akamaized.net/hls/live/708953-b/ch9-per/master.m3u8
-
-#EXTINF:-1 tvg-id="7PER" tvg-name="7 Perth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Perth
-https://npc.cdn.7livecloud.io/hls/live/PER1/master.m3u8
-
-#EXTINF:-1 tvg-id="7TWOPER" tvg-name="7 Two Per" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/320px-7two_logo_2020.svg.png" group-title="Australian",7 Two Per
-https://npc.cdn.7livecloud.io/hls/live/PER2/master.m3u8
-
-#EXTINF:-1 tvg-id="7MATEPER" tvg-name="7 Mate Per" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Per
-https://live-sevennetwork.akamaized.net/hls/live/573771/PER3/master.m3u8
-
-#EXTINF:-1 tvg-id="7FLIXPER" tvg-name="7 Flix Per" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Per
-https://npc.cdn.7livecloud.io/hls/live/PER6/master.m3u8
-
-#EXTINF:-1 tvg-id="9LIFEPER" tvg-id="9Life Perth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png", 9 Life Perth
-https://9nowlifelivehls-i.akamaihd.net/hls/live/250993/perth/master.m3u8
-
-#EXTINF:-1 tvg-id="9GEMPER" tvg-id="9Gem Perth" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/48/NSD_290x170.png/revision/latest?cb=20151217135007" group-title="Australian", 9 Gem Perth
-https://9now-live.akamaized.net/hls/live/705342/gem-per/master.m3u8
-
-#EXTINF:-1 tvg-id="9GOPER" tvg-id="9GO Perth" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian",  9 GO Perth
-https://9now-live.akamaized.net/hls/live/708939/go-per/master.m3u8
-
-#EXTINF:-1 tvg-id="TENPER" tvg-name="TEN_Perth" group-title="Australian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Ten_2013-.png/revision/latest?cb=20180705111341", TEN Perth 
-http://yospace-cdn.networkten.com.au/video/sdnew/master.m3u8 
-
-#EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN_Sydney" group-title="Australian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/320px-10_Peach_logo_2018.svg.png", TEN Peach Perth
-https://pubads.g.doubleclick.net/ssai/event/K_JnZMsYQPCciI-z6yVD3Q/master.m3u8
+https://live1.presstv.ir/live/ifilmen_720p/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/BLOOMBERG_TV_2007.jpg/revision/latest?cb=20150309165119&format=original", Asia Bloomberg
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
@@ -327,10 +184,6 @@ http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrns
 #EXTINF:1 group-title="Shopping" tvg-logo="https://televisionau.com/wp-content/uploads/openshop_logo.png" group-title="Australian", Open Shop
 https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
 
-#EXTINF:-1 group-title="Webcams", Times Square Street View
-https://videos-3.earthcam.com/fecnetwork/9974.flv/playlist.m3u8
-#EXTINF:-1 group-title="Webcams", Times Square 
-https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
 #EXTINF:-1, group-title="Webcams", Dusseldorf Airport Checkin Area
 https://stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8
 #EXTINF:-1, group-title="Webcams", Dusseldorf Airport Aircraft Handling
@@ -357,11 +210,11 @@ https://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/index_150_av-p.m3u8?s
 #EXTINF:-1 group-title="Radio Cams" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/6PR_882_Logo.jpg", 6PR Perth
 https://per6prvid-lh.akamaihd.net/i/perthprvid_1@110914/master.m3u8
 
-#EXTINF:-1, group-title="Radio Cams" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg", 3AW Melbourne
+#EXTINF:-1 group-title="Radio Cams" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg", 3AW Melbourne
 https://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 
-#EXTINF:-1, group-title="Radio Cams" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png",4BC Brisbane
-http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+#EXTINF:-1 group-title="Radio Cams" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png", 4BC Brisbane
+https://bris4bcvid-lh.akamaihd.net/i/brisbanebcvid_1@110989/master.m3u8
 
 #EXTINF:-1 group-title="Radio Cams" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2GB%20Radio%20Logo.png", 2GB Sydney
 https://ffxradio-lh.akamaihd.net/i/2gbvid_1@454903/index_500_av-p.m3u8?sd=10&rebase=on
@@ -370,16 +223,6 @@ https://ffxradio-lh.akamaihd.net/i/2gbvid_1@454903/index_500_av-p.m3u8?sd=10&reb
 
 #EXTINF:-1 group-title="News", VOA Africa
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-
-#EXTINF:-1 group-title="Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniqf-jG1Q_lvdSac4QK1RVORDz9-6XJV3JKZUk32A=s900-c-k-c0x00ffffff-no-rj", Cruise 1st TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
-
-#EXTINF:-1, group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png" group-title="International News", Fox News
-https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
-
-
-
-https://edge-823-ch-gv.filmon.com/live/5944.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe77d2163fa135e9125d3c122661d88f388fca47f1aabe3a6fa019d884fd3e0fe1fd632dcdd2a5f0bf8a62326863fdfc9b814aaf843c0cf663c3fb60d268102e3d32be1085936c7a9c72e9328a84737edd8f1f583f3a2b922c0527e7b4ae9484d53ff4d535a3f661347be5e061061db1734793853fb4f4541c74e418af05f5c39c0005431e2c6473dbfd80fc95d4ab95af
 
 #EXTINF:-1 ,CBS Miami
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
@@ -408,118 +251,252 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4
 #EXTINF:-1 ,CBSN Philly
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/320px-TV5MONDE_logo.png", TV5Monde Asie
-https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/320px-TV5MONDE_logo.png",TV5Monde Asie RU
-https://tv5asieru-i.akamaihd.net/hls/live/651800/tv5asieru/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/320px-TV5MONDE_logo.png", TV5Monde Asie France
-https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/252px-Film4_logo_2018.svg.png", BritCom
-https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/240px-CBBC_2016_logo.svg.png", CBBC
-http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/320px-ITV2_logo_2015.svg.png" ,Itv2
-http://51.52.156.22:8888/http/005
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/320px-ITV3_logo_2013.svg.png", Itv3
-http://51.52.156.22:8888/http/006
-
-#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/281/888/890/uk-freeview-channel-logo-pack-itv4-edit-icon-png-icon.jpg", itv4
-http://51.52.156.22:8888/http/007
-
-#EXTINF:-1 ,Cine Series
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://pbs.twimg.com/profile_images/1156989253160722439/QtAY5mFt_400x400.jpg", Cine Film Iran
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/252px-Film4_logo_2018.svg.png", Film 4
-http://51.52.156.22:8888/http/008
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest?cb=20200608133037",Sony Movies Action
-http://51.52.156.22:8888/http/009
-#EXTINF:-1 group-title="International" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews.jpg", Euronews
-https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
 
 
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="Movies",Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
 
-https://rsdt-waw701-229.tvp.pl/token/video/live/39821425/20201121/1962873157/6c51eece-33bb-4d0d-93f9-eb5aa1df2547/live153.isml/live_1000k/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg" tvg-url="" group-title="Movies",Hallmark Drama
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="Movies",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg" tvg-url="" group-title="Movies",Hallmark Movies & Mysteries
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W87cTZc.png" group-title="USA",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" -titgrouple="USA",ET Live (Opt-1)
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" tvg-url="" group-title="Movies",Film Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GroovyTV.gr" tvg-name="Groovy TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/0iklNh2.png" tvg-url="" group-title="Movies",Groovy TV (532p)
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Movies",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="iFILMEnglish.ir" tvg-name="iFILM English" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/GgmXZRU.png" tvg-url="" group-title="Movies",iFILM English
+https://live1.presstv.com/live/ifilmen.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-name="Kuriakos Cine" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CZViCwB.jpg" tvg-url="" group-title="Movies",Kuriakos Cine (1080p)
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Movies",Maha Movie (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Movies",Manoranjan Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 tvg-id="MaverickMovies.us" tvg-name="Maverick Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Zk5wP5K.png" tvg-url="" group-title="Movies",Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieKingdom.us" tvg-name="Movie Kingdom" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-url="" group-title="Movies",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="MoviesphereFree.us" tvg-name="Moviesphere Free" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DTXQ3Pc.png" tvg-url="" group-title="Movies",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Screamfest.us" tvg-name="Screamfest" tvg-country="US" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-url="" group-title="Movies",Screamfest (720p)
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheAsylum.us" tvg-name="The Asylum" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1pxXEtP.png" tvg-url="" group-title="Movies",The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ukKFllt.jpg" tvg-url="" group-title="Movies",The Film Detective
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Warner TV
+http://203.154.243.89:11205/
+
+#EXTINF:-1 tvg-id="Wixlar.gr" tvg-name="Wixlar" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/hfia0wN.png" tvg-url=" ,Wixlar (720p)
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1, OAN
+http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Documentary", National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/master.m3u8
+
+#EXTINF:-1 group-title="Documentary", National Geographic HD alt
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+
+
+
+
+#EXTINF:0 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/361072-FOX-Life.png",Fox Life HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/7743534-logo-discovery-.png",Discovery Channel
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#http://vnpt.vanthanh.cf:4022/rtp/232.84.1.47:8262
+#EXTINF:0 tvg-logo="http://qnet.com.vn/data/banners/zgl1380859435.png",Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/989949-BBC-Lifestyle.png",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCEARTH-HD-ABR/HTV-ABR/BBCEARTH-HD-1080p/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="UK",Family Movies
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Travel Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+
+#EXTINF:-1 tvg-name="FilmRise Forensic Files 24/7" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA FILMRISE",FilmRise Forensic Files 24/7
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-name="Comedy Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="",Comedy Channel (1080p)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-name="Sky-MoviesComedy" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",Sky-MoviesComedy
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamilyAsiaFeed.us" tvg-name="HBO Family [Asia Feed]" tvg-country="US" tvg-language="" tvg-logo="" group-title="",HBO Family [Asia Feed]
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-country="US" tvg-language="" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBOHitsAsiaFeed.us" tvg-name="HBO Hits [Asia Feed]" tvg-country="US" tvg-language="" tvg-logo="" group-title="",HBO Hits [Asia Feed]
+
+#EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-country="US" tvg-language="Russian;English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-history.png" group-title="",History
+https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
+
+#EXTINF:-1 tvg-id="OneAmericaOAN.us" tvg-name="One America (OAN)" tvg-country="US" tvg-language="" tvg-logo="" group-title="",One America (OAN)
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/G6e7Hcl.png" group-title="",One America News
+http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",One America News (720p)
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-country="US" tvg-language="" tvg-logo="" group-title="",One America News
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="One America News Network" tvg-country="US" tvg-language="" tvg-logo="" group-title="",One America News Network
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_180p30.m3u8
+
+
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="707" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="Entertainment",TLC 
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+#EXTINF:-1 tvg-id="707" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="Entertainment",TLC 
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="712" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" group-title="Entertainment", WarnerTV
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+#EXTINF:-1 tvg-id="712" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" group-title="Entertainment",WARNER TV [Usee]
+https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==warner&b=15&c=warner
+#https://nonton.site:8443/provision/pp/1533
+#http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="704" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png" group-title="Entertainment",FOX 
+#http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/22
+#https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#https://nonton.site:8443/provision/pp/95
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="704" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png" group-title="Entertainment",FOX [eMeNCi]
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+#EXTINF:-1 tvg-id="704" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png" group-title="Entertainment",Fox
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png" group-title="Entertainment",FOX LIFE
+#https://nonton.site:8443/provision/pp/94
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+
+#EXTINF:-1 tvg-id="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/137_144.png" group-title="Entertainment",Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6276.1494403757.png", 2GB Sydney alt
+http://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.m3u8
 
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6276.1494403757.png", 2GB Sydney
 http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6276.1494403757.png", 2GB Sydney AAC
+http://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.aac
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6276.1494403757.png", 2GB mp3
+http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3
+
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Sky-News-Australia.png", Sky News Australia
 https://ais-arn.streamguys1.com/au_033/playlist.m3u8
-#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Infowars_logo.png", Infowars
-https://streams.infowars.com/listen.pls?sid=1
-https://streams.infowars.com/listen.pls
-https://freespeech.akamaized.net/hls/live/2016712-b/live2/audio_0_eng/audio_0_eng.m3u8
 
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk%20Radio.png", Talk Radio UK
+http://radio.talkradio.co.uk/stream?ref=rf
 
-
-
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="IT Calcio",|UK| BBC 1 HD
-http://anadol.co:25461/live/52836373/56393627/37881.m3u8
-#EXTINF:0 tvg-id="BBC2.uk" group-title="IT Calcio",|UK| BBC 2 HD
-http://anadol.co:25461/live/52836373/56393627/37882.m3u8
-#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| BBC 3 HD
-http://anadol.co:25461/live/52836373/56393627/37883.m3u8
-#EXTINF:0 tvg-id="BBC4.uk" group-title="IT Calcio",|UK| BBC 4 HD
-http://anadol.co:25461/live/52836373/56393627/37884.m3u8
-#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| BBC NEWS HD
-http://anadol.co:25461/live/52836373/56393627/37885.m3u8
-#EXTINF:0 tvg-id="BBC1Scotland.uk" group-title="IT Calcio",|UK| BBC 1 SCOTLAND HD
-http://anadol.co:25461/live/52836373/56393627/37886.m3u8
-#EXTINF:0 tvg-id="BBCParliament.uk" group-title="IT Calcio",|UK| BBC PARLIAMENT
-http://anadol.co:25461/live/52836373/56393627/37887.m3u8
-#EXTINF:0 tvg-id="BBC2Wales.uk" group-title="IT Calcio",|UK| BBC Two Wales
-http://anadol.co:25461/live/52836373/56393627/37888.m3u8
-#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| BBC WORLD NEWS
-http://anadol.co:25461/live/52836373/56393627/37889.m3u8
-#EXTINF:0 tvg-id="ITV1London.uk" group-title="IT Calcio",|UK| ITV 1 HD
-http://anadol.co:25461/live/52836373/56393627/37890.m3u8
-#EXTINF:0 tvg-id="ITV2.uk" group-title="IT Calcio",|UK| ITV 2
-http://anadol.co:25461/live/52836373/56393627/37891.m3u8
-#EXTINF:0 tvg-id="ITV2.uk" group-title="IT Calcio",|UK| ITV 2  HD
-http://anadol.co:25461/live/52836373/56393627/37892.m3u8
-#EXTINF:0 tvg-id="ITV3.uk" group-title="IT Calcio",|UK| ITV 3
-http://anadol.co:25461/live/52836373/56393627/37893.m3u8
-#EXTINF:0 tvg-id="ITV3.uk" group-title="IT Calcio",|UK| ITV 3 HD
-http://anadol.co:25461/live/52836373/56393627/37894.m3u8
-#EXTINF:0 tvg-id="ITV4.uk" group-title="IT Calcio",|UK| ITV 4
-http://anadol.co:25461/live/52836373/56393627/37895.m3u8
-#EXTINF:0 tvg-id="ITV4.uk" group-title="IT Calcio",|UK| ITV 4 HD
-http://anadol.co:25461/live/52836373/56393627/37896.m3u8
-#EXTINF:0 tvg-id="ITVBe.uk" group-title="IT Calcio",|UK| ITV BE
-http://anadol.co:25461/live/52836373/56393627/37897.m3u8
-#EXTINF:0 tvg-id="More4.uk" group-title="IT Calcio",|UK| More4 HD
-http://anadol.co:25461/live/52836373/56393627/37898.m3u8
-#EXTINF:0 tvg-id="Quest.uk" group-title="IT Calcio",|UK| Quest
-http://anadol.co:25461/live/52836373/56393627/37899.m3u8
-#EXTINF:0 tvg-id="RTENewsNow.ie" group-title="IT Calcio",|UK| RTE News
-http://anadol.co:25461/live/52836373/56393627/37900.m3u8
-#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| S-K-Y NEW
-http://anadol.co:25461/live/52836373/56393627/37901.m3u8
-#EXTINF:0 tvg-id="Sky1.uk" group-title="IT Calcio",|UK| SKY One
-http://anadol.co:25461/live/52836373/56393627/37902.m3u8
-#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| S-K-Y Two
-http://anadol.co:25461/live/52836373/56393627/37903.m3u8
-#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| S-K-YArt 1
-http://anadol.co:25461/live/52836373/56393627/37904.m3u8
-#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK| Syfy UK
-http://anadol.co:25461/live/52836373/56393627/37905.m3u8
-#EXTINF:0 tvg-id="TCM.uk" group-title="IT Calcio",|UK| TCM
-http://anadol.co:25461/live/52836373/56393627/37906.m3u8
-#EXTINF:0 tvg-id="ext" group-title="IT Calcio",|UK|  E4 UK
-
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://cdn-radiotime-logos.tunein.com/s17569q.png", LBC London
+http://media-sov.musicradio.com:80/LBCLondon
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png", 2SM Sydney
 http://144.140.228.109:8220/mp3
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Infowars_logo.png", Infowars
+https://freespeech.akamaized.net/hls/live/2016712-b/live2/audio_0_eng/audio_0_eng.m3u8
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png/revision/latest/scale-to-width-down/240?cb=20170602060843", 702 ABC Sydney
 http://abcradiolivehls-lh.akamaihd.net/i/localsydney_1@327264/master.m3u8
@@ -537,13 +514,10 @@ http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
 http://bris4bcaud-lh.akamaihd.net/i/brisbanebcaud_1@110990/master.m3u8
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/5aa.png", Fiveaa Adelaide
-http://19273.live.streamtheworld.com/FIVEAA_AAC48.aac?src=redirect
+http://streaming.novaentertainment.com.au/fiveaa
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/6pr.png", 6PR Perth
 http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8
-
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk%20Radio.png", Talk Radio UK
-http://radio.talkradio.co.uk/stream?ref=rf
 
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://ichef.bbci.co.uk/images/ic/480x270/p01w5zxg.jpg", BBC Radio Manchester
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmanc_mf_p
