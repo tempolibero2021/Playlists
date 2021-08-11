@@ -1,97 +1,94 @@
 #EXTM3U
 #
-#EXTINF:-1 group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/%28AUS%29_ABCnews-logo.png/revision/latest?cb=20160127035930", ABC News
+#EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ABC_News_AU_Logo.png", ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/320px-Sky-news-logo.png", Sky News UK
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/320px-Sky-news-logo.png", Sky News UK
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png", CNN International
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_International_Logo.png", CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/605803-BBC-World-News.png",BBC World News
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 
-#EXTINF:-1,tvg-name="Russia Today" tvg-id="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="News", Russia Today
+#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="Russia Today" tvg-id="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="News", Russia Today
 https://rt-news.secure.footprint.net/1103.m3u8
 
-#EXTINF:-1 tvg-id="F24" tvg-name="France 24 English" tvg-logo="https://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" group-title="News",France 24 English 
+#EXTINF:-1 tvg-country="FR" tvg-language="English" tvg-id="F24" tvg-name="France 24 English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/France_24_logo.png" group-title="News",France 24 English 
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-id="DWTV" tvg-name="DW_News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DWTV.png" group-title="News", DW-TV
+#EXTINF:-1 tvg-country="DE" tvg-language="English" tvg-id="DWTV" tvg-name="DW_News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News", DW-TV
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png", Euronews 
+#EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png", Euronews 
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1, tvg-id="tv.46" tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/320px-Aljazeera_eng.svg.png" group-title="News", Al Jazeera
+#EXTINF:-1, tvg-country="QA" tvg-language="English" tvg-id="tv.46" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png", Fox News
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png", Fox News
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_Logo.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png",Channel News Asia (CNA)
+#EXTINF:-1 tvg-country="SG" tvg-language="English" group-title="News" tvg-id="tv.cna" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNA_Logo.png",Channel News Asia (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1, tvg-id="TRTW" tvg-name="TRT_World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/320px-TRT_World.svg.png"group- title="News",TRT WORLD
+#EXTINF:-1 tvg-country="TR" tvg-language="English" group-title="News" tvg-id="TRTW" tvg-name="TRT_World" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TRT_World_Logo_Shadow.png"group- title="News",TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1, tvg-id="PRESS" tvg-name="Press_TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="News", Press TV Iran
+#EXTINF:-1 tvg-country="IR" tvg-language="English" group-title="News" tvg-id="PRESS" tvg-name="Press_TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="News", Press TV Iran
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 
-#EXTINF:-1, tvg-id="CGTN" tvg-name="CGTN_News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="News", CGTN (CCTV) English
+#EXTINF:-1 tvg-country="CN" tvg-language="English" group-title="News" tvg-id="CGTN" tvg-name="CGTN_News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/240px-CGTN.png" group-title="News", CGTN (CCTV) English
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1, tvg-id="NHK" tvg-name="NHK_World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/320px-NHK_World.svg.png" group-title="News", NHK World
+#EXTINF:-1 tvg-country="JP" tvg-language="English" group-title="News" tvg-id="NHK" tvg-name="NHK_World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/320px-NHK_World.svg.png" group-title="News", NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="News",TeleSUR English (VE)
+#EXTINF:-1 tvg-country="VE" tvg-language="English" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="News",TeleSUR English (VE)
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png", Euronews (Youtube)
+#EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png", Euronews (Youtube)
 plugin://plugin.video.youtube/play/?video_id=sPgqEHsONK8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/%28AUS%29_ABCnews-logo.png/revision/latest?cb=20160127035930", ABC News (Youtube)
+#EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ABC_News_AU_Logo.png", ABC News (Youtube)
 plugin://plugin.video.youtube/play/?video_id=W1ilCy6XrmI 
 
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhoblBHo2UPo6dQ2397JQJDoU-dhXLk5a7XyTnx=s88-c-k-c0x00ffffff-no-rj", Poland IN
+#EXTINF:-1 tvg-country="PL" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhoblBHo2UPo6dQ2397JQJDoU-dhXLk5a7XyTnx=s88-c-k-c0x00ffffff-no-rj", Poland IN (Youtube)
 plugin://plugin.video.youtube/play/?video_id=muLv33Ca-qk
 
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh7fBW2wDMZgmU0B4b1pEYnuLzM5J9PgZwMYV4kww=s88-c-k-c0x00ffffff-no-rj", Talk Radio
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh7fBW2wDMZgmU0B4b1pEYnuLzM5J9PgZwMYV4kww=s88-c-k-c0x00ffffff-no-rj", Talk Radio (Youtube)
 plugin://plugin.video.youtube/play/?video_id=pXrbN1QfzQc
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/320px-GB_News_Logo.svg.png", GB News
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/GBN_Logo.png", GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 
-
-
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/205px-Global_News.svg.png", Global News Canada
+#EXTINF:-1 tvg-country="CA" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Global_News_Logo_Transparent.png", Global News Canada
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-id="Global" tvg-name="Global" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/200px-Global_Television_Network_Logo.svg.png" tvg-url="" group-title="News", Global Canada
-https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Newsmax_TV_Logo.png/320px-Newsmax_TV_Logo.png", Newsmax
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Newsmax_Logo.png", Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnioTiPV5w1BPw-LnOJ9Q3Ps6fGZlxoPa9AQCu4rqQ=s88-c-k-c0x00ffffff-no-rj", Fox Newsnow US
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnioTiPV5w1BPw-LnOJ9Q3Ps6fGZlxoPa9AQCu4rqQ=s88-c-k-c0x00ffffff-no-rj", Fox Newsnow US
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmT1XG41XhND2WGZ1NGwPeJRD_2jC23Cv2VUX2LQ=s88-c-k-c0x00ffffff-no-rj", TVC News Nigeria (YT)
+#EXTINF:-1 tvg-country="NG" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmT1XG41XhND2WGZ1NGwPeJRD_2jC23Cv2VUX2LQ=s88-c-k-c0x00ffffff-no-rj", TVC News Nigeria (YT)
 plugin://plugin.video.youtube/play/?video_id=I2fz4SkOHOw
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg", Channels News Nigeria (YT)
+#EXTINF:-1 tvg-country="NG" tvg-language="English" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg", Channels News Nigeria (YT)
 plugin://plugin.video.youtube/play/?video_id=dfB0qmJo1eM
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg", Channels Business Global Nigeria (YT)
+#EXTINF:-1 tvg-country="NG" tvg-language="English" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg", Channels Business Global Nigeria (YT)
 plugin://plugin.video.youtube/play/?video_id=dfB0qmJo1eM
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png", Newsy
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewsNetLogo.png", NewsNet
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/skynewsextra1logo.jpg", Sky News 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
@@ -102,48 +99,59 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/skynewsextra3logo.jpg", Sky News 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/EhK4XWv.jpg" group-title="USA(500)",Cheddar News,US | Cheddar News
+#EXTINF:-1 tvg-country="US" tvg-logo="https://i.imgur.com/EhK4XWv.jpg" group-title="USA(500)",Cheddar News,US | Cheddar News
 https://live.chdrstatic.com/cbn/primary/5.m3u8?
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOAlogo.png/320px-VOAlogo.png", VOA News
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
-#EXTINF:-1, tvg-id="NDTV" tvg-name="NDTV_News_24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/320px-NDTV_247.svg.png" group-title="News", NDTV 247 India
+#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-id="NDTV" tvg-name="NDTV_News_24x7" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NDTV_24x7_Logo.png" group-title="News", NDTV 247 India
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
-#EXTINF:-1, tvg-id="CGTNDOC" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="News", CGTN (CCTV) Documentary
+#EXTINF:-1 tvg-id="CGTNDOC" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Documentary_Logo.png" group-title="News,Documentary", CGTN (CCTV) Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
+#EXTINF:-1 tvg-country="PH" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png" group-title="News", CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
-#EXTINF:0 tvg-id="CBSNUS" tvg-name="CBS_News_US" tvg-language="English" tvg-country="US" tvg-logo="https://yt3.ggpht.com/-NSs-ufs2ZJU/AAAAAAAAAAI/AAAAAAAAAAA/bb7gM6EYgns/s88-c-k-no/photo.jpg"group-title="News",CBSN
+#EXTINF:-1 tvg-id="CBSNUS" tvg-name="CBS_News_US" tvg-language="English" tvg-country="US" tvg-logo="https://yt3.ggpht.com/-NSs-ufs2ZJU/AAAAAAAAAAI/AAAAAAAAAAA/bb7gM6EYgns/s88-c-k-no/photo.jpg"group-title="News",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-#EXTINF:-1, tvg-name="Timesnow India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png"group-title="News", Timesnow India
+#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-name="Timesnow India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png"group-title="News", Timesnow India
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
-#EXTINF:0 tvg-name="News X" tvg-language="English" tvg-country="IN" tvg-id="News X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NewsX_Logo.png/320px-NewsX_Logo.png" group-title="News", News X India
+#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/India_Today_TV_Logo.png" group-title="News", India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+
+#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-name="News X" tvg-language="English" tvg-country="IN" tvg-id="News X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NewsX_Logo.png/320px-NewsX_Logo.png" group-title="News", News X India
 https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 
-#EXTINF:-1,tvg-name="PTV Pakistan" tvg-logo="http://lh5.googleusercontent.com/-fmTnMYq-_80/UReqI805oLI/AAAAAAAADpc/fBUubm_xl68/s200/ptv-world-logo.png"group- title="News", PTV Pakistan
+#EXTINF:-1 tvg-name="PTV Pakistan" tvg-logo="http://lh5.googleusercontent.com/-fmTnMYq-_80/UReqI805oLI/AAAAAAAADpc/fBUubm_xl68/s200/ptv-world-logo.png"group- title="News", PTV Pakistan
 https://live.ptv.com.pk/live/ptvworld/playlist.m3u8
 
-#EXTINF:-1,tvg-name="Arirang World" tvg-id="ARITV"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/arirangworld.png" group-title="News", Arirang World
+#EXTINF:-1 tvg-name="Arirang World" tvg-id="ARITV"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/arirangworld.png" group-title="News", Arirang World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-name="RT America" tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/12/RT-America-News.png" group-title="News", Russia Today America
+#EXTINF:-1 tvg-name="RT America" tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/12/RT-America-News.png" group-title="News", Russia Today America
 https://rt-usa.secure.footprint.net/1105.m3u8
 
-#EXTINF:-1, tvg-name="RT UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="News", Russia Today UK
+#EXTINF:-1 tvg-name="RT UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="News", Russia Today UK
 https://rt-uk.secure.footprint.net/1106.m3u8
 
-#EXTINF:-1, tvg-name="RT Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="News",RT Documentary
+#EXTINF:-1 tvg-name="RT Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="News,Documentary",RT Documentary
 https://rt-doc.secure.footprint.net/1101.m3u8
 
-#EXTINF:0 tvg-id="BLMUS" tvg-name="Bloomberg US" tvg-language="English" tvg-country="US" tvg-id="Bloomberg" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/BLOOMBERG_TV_2007.jpg/revision/latest?cb=20150309165119&format=original" group-title="News", Bloomberg US
-https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+#EXTINF:-1 tvg-id="BLMUS" tvg-name="Bloomberg US" tvg-language="English" tvg-country="US" tvg-id="Bloomberg" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/BLOOMBERG_TV_2007.jpg/revision/latest?cb=20150309165119&format=original" group-title="News", Bloomberg US
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Infowars_logo.png", Infowars 
 https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Infowars_logo.png", Infowars 2
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Infowars_logo.png", Infowars Owen Shroyer 
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://en.ifilmtv.ir/img/colorize-logo-final.png", Ifilm Iran
 https://live1.presstv.ir/live/ifilmen_720p/index.m3u8
@@ -157,22 +165,22 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/National_Geographic_Logo.png" group-title="Documentary", National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/master.m3u8
 
-#EXTINF:0 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/361072-FOX-Life.png",Fox Life HD
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/361072-FOX-Life.png",Fox Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/discovery_channel_logo.jpg",Discovery Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/discovery_channel_logo.jpg",Discovery Channel
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="707" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="Entertainment",TLC 
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://qnet.com.vn/data/banners/zgl1380859435.png",Animal Planet
+#EXTINF:-1 tvg-logo="http://qnet.com.vn/data/banners/zgl1380859435.png",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/989949-BBC-Lifestyle.png",BBC Lifestyle
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/989949-BBC-Lifestyle.png",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",BBC Earth
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV
@@ -300,7 +308,7 @@ https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4
 #EXTINF:-1 tvg-id="NBC4" tvg-name="NBC4_News_Washington" group-title="News" tvg-logo="https://s23.postimg.org/jrr1la7wb/11ov7y.png", NBC4 News Washington 
 http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 
-#EXTINF:0 tvg-id="WGN9" tvg-name="WGN9_News_Chicago" tvg-language="English" tvg-country="US"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/WGN_America_logo_2014.png/145px-WGN_America_logo_2014.png" group-title="News",WGN Chicago (News) (US) (English)
+#EXTINF:-1 tvg-id="WGN9" tvg-name="WGN9_News_Chicago" tvg-language="English" tvg-country="US"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/WGN_America_logo_2014.png/145px-WGN_America_logo_2014.png" group-title="News",WGN Chicago (News) (US) (English)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8?sd=10&rebase=on
 
 
@@ -321,6 +329,26 @@ https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/c71fb76a208a3f958f8a3163fb95aad7b30cfbff/cnnlogo.png", Reuters NOW
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Reuters TV EU
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Real America s Voice
+https://p1media-americasvoice-1.roku.wurl.com/manifest/b1ba4c5e9571b4919d24d0e97f8b7202.m3u8
+#EXTINF:-1, PBS World Channel-NEWS
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1, Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1, NBC News Now
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/c71fb76a208a3f958f8a3163fb95aad7b30cfbff/cnnlogo.png", CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1, CBC News Highlights
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1, CBN News
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
+#EXTINF:-1, CCTV+
+http://cd-live-stream.news.cctvplus.com/live/CHANNEL1_360p/playlist.m3u8
 
 
 
