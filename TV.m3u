@@ -1,0 +1,402 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/National_Geographic_Logo.png" group-title="Documentary", National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/master.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/361072-FOX-Life.png",Fox Life HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/discovery_channel_logo.jpg",Discovery Channel
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="707" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="Entertainment",TLC 
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="http://qnet.com.vn/data/banners/zgl1380859435.png",Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/989949-BBC-Lifestyle.png",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" -titgrouple="USA",ET Live (Opt-1)
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" tvg-url="" group-title="Movies",Film Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GroovyTV.gr" tvg-name="Groovy TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/0iklNh2.png" tvg-url="" group-title="Movies",Groovy TV (532p)
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Movies",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieKingdom.us" tvg-name="Movie Kingdom" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-url="" group-title="Movies",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="Screamfest.us" tvg-name="Screamfest" tvg-country="US" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-url="" group-title="Movies",Screamfest (720p)
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Warner TV
+http://203.154.243.89:11205/
+
+#EXTINF:-1 tvg-id="Wixlar.gr" tvg-name="Wixlar" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/hfia0wN.png" ,Wixlar (720p)
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="UK",Family Movies
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Travel",TVS Travel Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-name="Sky-MoviesComedy" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",Sky-MoviesComedy
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamilyAsiaFeed.us" tvg-name="HBO Family [Asia Feed]" tvg-country="US" tvg-language="" tvg-logo="" group-title="",HBO Family [Asia Feed]
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-country="US" tvg-language="" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOHitsAsiaFeed.us" tvg-name="HBO Hits [Asia Feed]" tvg-country="US" tvg-language="" tvg-logo="" group-title="",HBO Hits [Asia Feed]
+
+#EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-country="US" tvg-language="Russian;English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-history.png" group-title="",History
+https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
+
+#EXTINF:-1 tvg-id="OneAmericaOAN.us" tvg-name="One America (OAN)" tvg-country="US" tvg-language="" tvg-logo="" group-title="",One America (OAN)
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/G6e7Hcl.png" group-title="",One America News
+http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",One America News (720p)
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-country="US" tvg-language="" tvg-logo="" group-title="",One America News
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="One America News Network" tvg-country="US" tvg-language="" tvg-logo="" group-title="",One America News Network
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_180p30.m3u8
+
+#EXTINF:-1, OAN
+http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1 tvg-id="704" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png" group-title="Entertainment",Fox
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="703" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Entertainment",Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u
+
+#EXTINF:-1 tvg-name="FilmRise Forensic Files 24/7" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Crime",FilmRise Forensic Files 24/7
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://en.ifilmtv.ir/img/colorize-logo-final.png", Ifilm Iran
+https://live1.presstv.ir/live/ifilmen_720p/index.m3u8
+
+
+#EXTINF:-1 ,CBS 9 Washington DC (WUSA-HD)
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:-1 ,CBS News Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:-1 ,CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 ,CBS46 (WGCL-TV)
+https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8
+#EXTINF:-1 ,CBSN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 ,CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 ,CBSN Bay Area
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
+#EXTINF:-1 ,CBSN Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
+#EXTINF:-1 ,CBSN New Yorkfilm
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:-1 ,CBSN Philly
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
+#EXTINF:-1 tvg-id="NBC4" tvg-name="NBC4_News_Washington" group-title="News" tvg-logo="https://s23.postimg.org/jrr1la7wb/11ov7y.png", NBC4 News Washington 
+http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:-1 tvg-id="WGN9" tvg-name="WGN9_News_Chicago" tvg-language="English" tvg-country="US"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/WGN_America_logo_2014.png/145px-WGN_America_logo_2014.png" group-title="News",WGN Chicago (News) (US) (English)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1, group-title="Webcams", Dusseldorf Airport Checkin Area
+https://stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8
+#EXTINF:-1, group-title="Webcams", Dusseldorf Airport Aircraft Handling
+https://stream-5gw.1000eyes.de/cupertino/dus5abb.stream/playlist.m3u8
+#EXTINF:-1, group-title="Webcams", Dusseldorf Airport Apron
+https://stream-5gw.1000eyes.de/cupertino/dused0c.stream/playlist.m3u8
+#EXTINF:-1, group-title="Webcams", Dusseldorf Airport Runway
+https://stream-5gw.1000eyes.de/cupertino/dus5a92.stream/playlist.m3u8
+#EXTINF:-1, group-title="Webcams", Dusseldorf Airport Taxiway
+https://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8
+
+#EXTINF:-1,University of California TV
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1, Reuters TV EU
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Real America s Voice
+https://p1media-americasvoice-1.roku.wurl.com/manifest/b1ba4c5e9571b4919d24d0e97f8b7202.m3u8
+
+
+#EXTINF:-1, CBC News Highlights
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1, CBN News
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
+#EXTINF:-1, CCTV+
+http://cd-live-stream.news.cctvplus.com/live/CHANNEL1_360p/playlist.m3u8
+
+
+
+#EXTINF:-1,America's Voice (Roku)
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USBB1900002KF_20210525T051433.png" ,Real America's Voice
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
+
+#EXTINF:-1 tvg-id="5e1f7da4bc7d740009831259" tvg-chno="240" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="USA;News + Opinion",America's Voice News (Pluto)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 tvg-id="5331d5fb753499095a00045a" tvg-chno="246" tvg-logo="https://images.pluto.tv/channels/5331d5fb753499095a00045a/colorLogoPNG.png" group-title="USA;News + Opinion",TYT Network (Pluto)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USBA3000214220200730102745.png" ,TYT (Samsung)
+https://tyt-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,TYT GO (Roku)
+https://tyt-roku-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt/CDN/playlist.m3u8
+
+
+.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/66/USBA340000107_20210428T040252.png" ,BNC Go
+https://didoc69s3kqdd.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20201007T012259.png",Newsmax
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1,Euronews via Alchimie (England)
+https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="5e46fba0c43b0d00096e5ac1" tvg-chno="238" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" group-title="USA;News + Opinion",Blaze Live
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+#EXTINF:-1 tvg-id="5e7cf6c7b156d500078c5f44" tvg-chno="242" tvg-logo="https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" group-title="USA;News + Opinion",OAN Plus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5d486acc34ceb37d3c458a64" tvg-chno="244" tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="USA;News + Opinion",The First
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+#EXTINF:-1,Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8
+
+
+#EXTINF:-1,Black News Channel
+https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/playlist.m3u8
+#EXTINF:-1,One America (OAN)
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/playlist.
+#EXTINF:-1,Reuters
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6276.1494403757.png", 2GB Sydney alt
+http://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6276.1494403757.png", 2GB Sydney
+http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6276.1494403757.png", 2GB Sydney AAC
+http://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.aac
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6276.1494403757.png", 2GB mp3
+http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Sky-News-Australia.png", Sky News Australia
+https://ais-arn.streamguys1.com/au_033/playlist.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk%20Radio.png", Talk Radio UK
+http://radio.talkradio.co.uk/stream?ref=rf
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://cdn-radiotime-logos.tunein.com/s17569q.png", LBC London
+http://media-sov.musicradio.com:80/LBCLondon
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png", 2SM Sydney
+http://144.140.228.109:8220/mp3
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Infowars_logo.png", Infowars
+https://freespeech.akamaized.net/hls/live/2016712-b/live2/audio_0_eng/audio_0_eng.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png/revision/latest/scale-to-width-down/240?cb=20170602060843", 702 ABC Sydney
+http://abcradiolivehls-lh.akamaihd.net/i/localsydney_1@327264/master.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ABC%20RN%20Logo.png", ABC Radio National RN
+http://live-radio01.mediahubaustralia.com/2RNW/aac/
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/abc_newsradio.jpg", ABC News
+http://live-radio01.mediahubaustralia.com/PBW/aac/
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg", 3AW Melbourne
+http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="Talk", 4BC Brisbane
+http://bris4bcaud-lh.akamaihd.net/i/brisbanebcaud_1@110990/master.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/5aa.png", Fiveaa Adelaide
+http://streaming.novaentertainment.com.au/fiveaa
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/6pr_Perth_Logo.png", 6PR Perth
+http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://ichef.bbci.co.uk/images/ic/480x270/p01w5zxg.jpg", BBC Radio Manchester
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmanc_mf_p
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/702_logo_2014.png", 702 Talk Radio South Africa
+http://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC.mp3
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cape%20talk%20radio.png", Cape Talk Radio South Africa
+http://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/2e/ABC-Radio-Adelaide.png/revision/latest/scale-to-width-down/480?cb=20170130045654", ABC Radio Adelaide
+http://live-radio01.mediahubaustralia.com/5LRW/aac/
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/b/be/ABC-Radio-Melbourne.png/revision/latest?cb=20170130045030", 774 ABC Radio Melbourne
+http://live-radio01.mediahubaustralia.com/3LRW/aac/
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/6/6a/ABC-Radio-Brisbane.png/revision/latest/scale-to-width-down/480?cb=20170130045103", ABC Radio Brisbane
+http://live-radio01.mediahubaustralia.com/4LRW/aac/
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/8/80/ABC-Radio-Perth.png/revision/latest?cb=20170130045431", 720 ABC Radio Perth
+http://live-radio01.mediahubaustralia.com/6LRW/aac/
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/64/917ABC-logo.jpg/revision/latest?cb=20170109025228", 91.7 ABC Radio Gold Coast
+http://live-radio01.mediahubaustralia.com/4GLDW/aac/
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/2/29/ABC-Radio-Darwin.png/revision/latest?cb=20170130045158", ABC Radio Darwin
+http://live-radio01.mediahubaustralia.com/8LRW/aac/
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ABC-Radio-Hobart.png", ABC Radio Hobart
+http://live-radio01.mediahubaustralia.com/7LRW/aac/
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a6/1233ABC-logo.jpg/revision/latest?cb=20170109024803", 1233 ABC Radio Newcastle
+http://live-radio01.mediahubaustralia.com/2NEWW/aac/
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/ABC_Radio_Australia_logo.svg/240px-ABC_Radio_Australia_logo.svg.png", ABC Radio Australia
+http://abcradiolivehls-lh.akamaihd.net/i/raeng_1@433109/master.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftunein.com%2Fradio%2F2RPH-1224-s100326%2F&psig=AOvVaw2BBigXVTtlSvgQtYMTy6uo&ust=1606011191039000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiZxIjIku0CFQAAAAAdAAAAABAO", 2RPH Reading Service Newcastle
+http://64.85.165.155:8000/stream/2/
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftunein.com%2Fradio%2F2RPH-1224-s100326%2F&psig=AOvVaw2BBigXVTtlSvgQtYMTy6uo&ust=1606011191039000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiZxIjIku0CFQAAAAAdAAAAABAO", 2RPH Reading Service Sydney
+http://64.85.165.155:8000/stream/1/
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Logo_radio_2CC_Canberra.jpg/220px-Logo_radio_2CC_Canberra.jpg", 2CC Canberra
+http://37.59.32.115/proxy/radio2cc?mp=/stream2cc.mp3
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/1/17/ABC-Radio-Canberra.png/revision/latest?cb=20170130045319", 666 ABC Canberra
+http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/index_48_a-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://www.radionts.com.au/wp-content/themes/radionts/content/images/nts-logo.png", Radio NTS
+
+http://melb3awvid-lh.akamaihd.net/i/ntsmel_1@199690/master.m3u8
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://resize.abcradio.net.au/wzBm4aCqsKOdFYu02ylm33lrODo=/580x326/center/middle/http://www.abc.net.au/radio/images/service/backgrounds/ra.jpg", Radio Australia
+http://abcradiolivehls-lh.akamaihd.net/i/raasia_1@327298/master.m3u8
+
+#EXTINF:-1 group-title="Jazz" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/abcjazz_logo.jpg", ABC Jazz
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/3/376.1603643456.png", BBC London
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrldn_mf_p
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BBC_World_Service_red.svg/318px-BBC_World_Service_red.svg.png", BBC World Service
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.allzicradio.com/media/radios/logo_euronews_radio_600x600px4.jpg", Euronews Radio
+http://euronews-02.ice.infomaniak.ch/euronews-02.aac
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sputnik_logo.svg/255px-Sputnik_logo.svg.png", Radio Sputnik Russia
+http://audio2.video.ria.ru/voiceeng
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/DW-Radio.svg/640px-DW-Radio.svg.png", DW Radio
+http://dw-radio-english-mp3.akacast.akamaistream.net/7/779/135362/v1/gnl.akacast.akamaistream.net/dw-radio-english-mp3
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOAlogo.png/320px-VOAlogo.png", VOA English
+https://voavaudio-i.akamaihd.net/hls/live/826546/VOAV_MC1_MRG/master.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/WRN%20Radio%20Europe.png", WRN English Europe
+http://193.42.152.215:8026/
+
+#EXTINF:-1 group-title="Comedy" radio="true" tvg-logo="https://static-media.streema.com/media/cache/d6/a4/d6a400a7e948aa8238ef171aca3797ae.jpg", Blue Planet Pranks
+http://38.135.36.122:9610/stream
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Radio_China_International.svg/320px-Radio_China_International.svg.png", China Plus English
+http://am846-lh.akamaihd.net/i/am846_1@301569/master.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png", CNA 938 Live Singapore
+http://19183.live.streamtheworld.com:3690/938NOW_PREM_SC
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.allzicradio.com/media/radios/logo_euronews_radio_600x600px4.jpg", 	WVTF 89.1 FM Roanoke VA
+http://wvtf.streamguys1.com/radioiq-mp3-128
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png", Russia Today
+https://rt-news.secure.footprint.net/1103_64Kb.m3u8
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/WMAL-AMandFM_2014.png", WMAL Washington
+http://22213.live.streamtheworld.com/WMALFMAAC.aac
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://cdn-radiotime-logos.tunein.com/s33048q.png", KHVH 830 Honolulu HI
+http://stream.revma.ihrhls.com/zc4748/hls.m3u8
+ 
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftunein.com%2Fradio%2FIowa-Public-Radio-News-910-s23012%2F&psig=AOvVaw1EriQmIPYCkviCTA_1YQxT&ust=1606013591704000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCXmILRku0CFQAAAAAdAAAAABAD", WSUI 910 AM Iowa City IA
+http://news-stream.iowapublicradio.org/News.mp3
+
+#EXTINF:-1 group-title="Soundtrack" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s262576/images/logog.png", Muppet Central Radio
+https://str2b.openstream.co/1022?aw_0_1st.collectionid=3835&stationId=3835&publisherId=1046&k=1605890265
