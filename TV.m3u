@@ -21,7 +21,7 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV (Not Working)
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
 
@@ -237,6 +237,54 @@ https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 
 
 
+#EXTINF:-1,USA Today 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
+
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/14/USAJ4000009WG20200730102745.png" ,USA Today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-usatodaynews/CDN/playlist
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="HISTORY.us" tvg-name="HISTORY" tvg-country="US" tvg-language="English" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary",HISTORY
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 tvg-id="HISTORYChannelBestof.us" tvg-name="HISTORY Channel (Best of)" tvg-country="US" tvg-language="English" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary",HISTORY Channel (Best of) (720p)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ia9B0dcvykqfeoPpckovKdWyc7DuwlaejOKha2f6-oNfVdUdkXw4dWBIPUArMEqNljg5uvL6AiU" group-title="News",HLN (720p) [Geo-blocked]
+https://cdn87.theus6tv.tk/cable/hln.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-country="US" tvg-language="English" tvg-logo="https://styles.redditmedia.com/t5_2fmlms/styles/profileIcon_esio86lzqhh41.png" group-title="News",HLN (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-country="US" tvg-language="English" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/08/CSpan.png" group-title="Legislative",C-SPAN (720p)
+https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-country="US" tvg-language="English" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/08/CSpan.png" group-title="Legislative",C-SPAN (108p)
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-SPAN 2" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cspan2.png" group-title="Legislative",C-SPAN 2 (108p)
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="C-SPAN 3" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cspan3.png" group-title="Legislative",C-SPAN 3 (108p)
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:-1 tvg-id="ITV.uk" tvg-name="ITV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="",ITV (302p)
+http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV2 (432p)
+http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV2 (576p)
+http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV3 (432p)
+http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",ITV4 (302p)
+http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="BlazeTV.us" tvg-name="Blaze TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HcRKP5P.jpg" group-title="Entertainment",Blaze TV (720p)
+https://theblaze4.akamaized.net/hls/live/699982/theblaze/cm-dvr/master.m3u8
+#EXTINF:-1 tvg-id="CrimeTime.us" tvg-name="Crime Time" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQxKMMJ.jpg" group-title="Documentary",Crime Time (1080p)
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 
 
 
@@ -248,28 +296,51 @@ https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6276.1494403757.png", 2GB Sydney alt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2GB_Logo.png", 2GB Sydney alt
 http://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.m3u8
 
-#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6276.1494403757.png", 2GB Sydney
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2GB_Logo.png", 2GB Sydney
 http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 
-#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6276.1494403757.png", 2GB Sydney AAC
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2GB_Logo.png", 2GB Sydney AAC
 http://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.aac
 
-#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6276.1494403757.png", 2GB mp3
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2GB_Logo.png", 2GB mp3
 http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3
 
-#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Sky-News-Australia.png", Sky News Australia
+#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png", Sky News Australia
 https://ais-arn.streamguys1.com/au_033/playlist.m3u8
+https://ais-arn.streamguys1.com/au_033/playlist.m3u8?at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.AU&init_id=8169&modTime=1628866004569&pname=OrganicWeb&profileid=1577321816&territory=AU&uid=d2b7e081-e1ca-43e6-8fc7-907d17fd3c18&age=null&gender=null&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=1628866004&terminalid=161&companionAds=true&playedFrom=60&callLetters=KDNT-FL&devicename=web-desktop&stationid=8319&dist=iheart&aw_0_1st.ccaud=
+https://ais-arn.streamguys1.com/au_033/playlist.m3u8?listeningSessionID=61136f9549a10cff_202309_lrugNERS_MjA0LjkzLjI1NC4xNDA!_00000001vB4&downloadSessionID=0&at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.AU&init_id=8169&modTime=1628866004569&pname=OrganicWeb&profileid=1577321816&territory=AU&uid=d2b7e081-e1ca-43e6-8fc7-907d17fd3c18&age=null&gender=null&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=1628866004&terminalid=161&companionAds=true&playedFrom=60&callLetters=KDNT-FL&devicename=web-desktop&stationid=8319&dist=iheart&aw_0_1st.ccaud=
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk%20Radio.png", Talk Radio UK
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk_Radio_Logo.png", Talk Radio UK
 http://radio.talkradio.co.uk/stream?ref=rf
 
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://cdn-radiotime-logos.tunein.com/s17569q.png", LBC London
 http://media-sov.musicradio.com:80/LBCLondon
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png", 2SM Sydney
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2SM_Logo.png", 2SM Sydney
 http://144.140.228.109:8220/mp3
 
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Infowars_logo.png", Infowars
@@ -284,13 +355,13 @@ http://live-radio01.mediahubaustralia.com/2RNW/aac/
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/abc_newsradio.jpg", ABC News
 http://live-radio01.mediahubaustralia.com/PBW/aac/
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg", 3AW Melbourne
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3AW_Logo.png", 3AW Melbourne
 http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="Talk", 4BC Brisbane
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_Logo.png" group-title="Talk", 4BC Brisbane
 http://bris4bcaud-lh.akamaihd.net/i/brisbanebcaud_1@110990/master.m3u8
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/5aa.png", Fiveaa Adelaide
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Fiveaa_Logo.png", Fiveaa Adelaide
 http://streaming.novaentertainment.com.au/fiveaa
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/6pr_Perth_Logo.png", 6PR Perth
@@ -399,4 +470,4 @@ http://stream.revma.ihrhls.com/zc4748/hls.m3u8
 http://news-stream.iowapublicradio.org/News.mp3
 
 #EXTINF:-1 group-title="Soundtrack" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s262576/images/logog.png", Muppet Central Radio
-https://str2b.openstream.co/1022?aw_0_1st.collectionid=3835&stationId=3835&publisherId=1046&k=1605890265
+https://listen.openstream.co/3835/audio?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYyODk1Njg5NCwiaXNzIjoidGlzcnYifQ.amGCg5wiPClVa08N0jovcJQTv_l-_iv5U8tBNYnFj-o
