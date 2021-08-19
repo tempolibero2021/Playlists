@@ -10,7 +10,7 @@ https://i.mjh.nz/au/Sydney/tv.abc_news_90
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC World News
-https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Sky_News_Logo.png", Sky News UK
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
@@ -36,7 +36,7 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_Logo.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh7fBW2wDMZgmU0B4b1pEYnuLzM5J9PgZwMYV4kww=s88-c-k-c0x00ffffff-no-rj", Talk Radio TV
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk_Radio_Logo.png", Talk Radio TV
 https://newsuk-talkradiotv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Reuters_TV_Logo.png", Reuters NOW
@@ -53,6 +53,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 tvg-country="TR" tvg-language="English" group-title="News" tvg-id="TRTW" tvg-name="TRT_World" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TRT_World_Logo_Shadow.png"group- title="News",TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="AfricaNewsEnglish" tvg-name="AfricaNews English" tvg-country="EU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Africanews._Logo.png" group-title="News",AfricaNews English
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-country="IR" tvg-language="English" group-title="News" tvg-id="PRESS" tvg-name="Press_TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="News", Press TV Iran
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
@@ -75,7 +78,7 @@ plugin://plugin.video.youtube/play/?video_id=W1ilCy6XrmI
 #EXTINF:-1 tvg-country="PL" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhoblBHo2UPo6dQ2397JQJDoU-dhXLk5a7XyTnx=s88-c-k-c0x00ffffff-no-rj", Poland IN (Youtube)
 plugin://plugin.video.youtube/play/?video_id=muLv33Ca-qk
 
-#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh7fBW2wDMZgmU0B4b1pEYnuLzM5J9PgZwMYV4kww=s88-c-k-c0x00ffffff-no-rj", Talk Radio (Youtube)
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk_Radio_Logo.png", Talk Radio (Youtube)
 plugin://plugin.video.youtube/play/?video_id=pXrbN1QfzQc
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/GBN_Logo.png", GB News
@@ -209,3 +212,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/39/USAK3508713A20200730102745.png" ,WeatherNation (Samsung)
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/MSNBC_Logo.png" group-title="News",MSNBC
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
