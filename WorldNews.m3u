@@ -9,7 +9,7 @@ https://i.mjh.nz/au/Sydney/tv.abc_news_90
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_International_Logo.png", CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1, tvg-country="QA" tvg-language="English" tvg-id="tv.46" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera (Doha)
+#EXTINF:-1 tvg-country="QA" tvg-language="English" tvg-id="tv.46" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera (Qatar)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="Russia Today" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today
