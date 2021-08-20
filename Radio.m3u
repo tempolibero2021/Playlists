@@ -46,13 +46,13 @@ http://streaming.novaentertainment.com.au/fiveaa
 http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8
 
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://ichef.bbci.co.uk/images/ic/480x270/p01w5zxg.jpg", BBC Radio Manchester
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmanc_mf_p
-
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_manchester
+ 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/702_logo_2014.png", 702 Talk Radio South Africa
 http://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC.mp3
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cape%20talk%20radio.png", Cape Talk Radio South Africa
-http://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC
+http://playerservices.streamtheworld.com/m3u/CAPE_TALK.m3u
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/2e/ABC-Radio-Adelaide.png/revision/latest/scale-to-width-down/480?cb=20170130045654", ABC Radio Adelaide
 http://live-radio01.mediahubaustralia.com/5LRW/aac/
@@ -94,8 +94,8 @@ http://37.59.32.115/proxy/radio2cc?mp=/stream2cc.mp3
 http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/index_48_a-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://www.radionts.com.au/wp-content/themes/radionts/content/images/nts-logo.png", Radio NTS
-
 http://melb3awvid-lh.akamaihd.net/i/ntsmel_1@199690/master.m3u8
+
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://resize.abcradio.net.au/wzBm4aCqsKOdFYu02ylm33lrODo=/580x326/center/middle/http://www.abc.net.au/radio/images/service/backgrounds/ra.jpg", Radio Australia
 http://abcradiolivehls-lh.akamaihd.net/i/raasia_1@327298/master.m3u8
 
@@ -121,7 +121,7 @@ https://voavaudio-i.akamaihd.net/hls/live/826546/VOAV_MC1_MRG/master.m3u8
 http://193.42.152.215:8026/
 
 #EXTINF:-1 group-title="Comedy" radio="true" tvg-logo="https://static-media.streema.com/media/cache/d6/a4/d6a400a7e948aa8238ef171aca3797ae.jpg", Blue Planet Pranks
-http://38.135.36.122:9610/stream
+http://blueplanetserver.net:8000/listen.pls?sid=1
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Radio_China_International.svg/320px-Radio_China_International.svg.png", China Plus English
 http://am846-lh.akamaihd.net/i/am846_1@301569/master.m3u8
@@ -129,10 +129,10 @@ http://am846-lh.akamaihd.net/i/am846_1@301569/master.m3u8
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png", CNA 938 Live Singapore
 http://19183.live.streamtheworld.com:3690/938NOW_PREM_SC
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.allzicradio.com/media/radios/logo_euronews_radio_600x600px4.jpg", 	WVTF 89.1 FM Roanoke VA
+#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.allzicradio.com/media/radios/logo_euronews_radio_600x600px4.jpg", WVTF 89.1 FM Roanoke VA
 http://wvtf.streamguys1.com/radioiq-mp3-128
 
-#EXTINF:-1 group-title="Talk;News" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png", Russia Today
+#EXTINF:-1 group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png", Russia Today
 https://rt-news.secure.footprint.net/1103_64Kb.m3u8
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/WMAL-AMandFM_2014.png", WMAL Washington
