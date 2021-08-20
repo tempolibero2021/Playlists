@@ -96,22 +96,23 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Newsmax_Logo.png", Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnioTiPV5w1BPw-LnOJ9Q3Ps6fGZlxoPa9AQCu4rqQ=s88-c-k-c0x00ffffff-no-rj", Fox Newsnow US
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Fox_News_Now_Logo.png", Fox Newsnow US
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-country="NG" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmT1XG41XhND2WGZ1NGwPeJRD_2jC23Cv2VUX2LQ=s88-c-k-c0x00ffffff-no-rj", TVC News Nigeria (YT)
-plugin://plugin.video.youtube/play/?video_id=I2fz4SkOHOw
+#EXTINF:-1 tvg-country="NG" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TVC_News_Nigeria_Logo.png", TVC News Nigeria (YT)
+plugin://plugin.video.youtube/play/?video_id=80C00djc-gc
 
-#EXTINF:-1 tvg-country="NG" tvg-language="English" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg", Channels News Nigeria (YT)
+#EXTINF:-1 tvg-country="NG" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Channels_TV_Nigeria_Logo.png", Channels News Nigeria (YT)
 plugin://plugin.video.youtube/play/?video_id=dfB0qmJo1eM
 
-#EXTINF:-1 tvg-country="NG" tvg-language="English" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg", Channels Business Global Nigeria (YT)
+#EXTINF:-1 tvg-country="NG" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Channels_TV_Nigeria_Logo.png", Channels Business Global Nigeria (YT)
 plugin://plugin.video.youtube/play/?video_id=dfB0qmJo1eM
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png", Newsy
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8 
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewsNetLogo.png", NewsNet
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/News_Net_Logo.png", NewsNet
+https://channels-1.video.franklyinc.com/out/u/newsnetnational-live-142.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Cheddar_News_Logo.png" group-title="News",Cheddar News,US | Cheddar News
 https://live.chdrstatic.com/cbn/primary/5.m3u8?
@@ -128,14 +129,14 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-country="PH" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png" group-title="News", CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="CBSNUS" tvg-name="CBS_News_US" tvg-language="English" tvg-country="US" tvg-logo="https://yt3.ggpht.com/-NSs-ufs2ZJU/AAAAAAAAAAI/AAAAAAAAAAA/bb7gM6EYgns/s88-c-k-no/photo.jpg"group-title="News",CBSN
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="CBSNUS" tvg-name="CBS_News_US" tvg-language="English" tvg-country="US" tvg-logo="https://yt3.ggpht.com/-NSs-ufs2ZJU/AAAAAAAAAAI/AAAAAAAAAAA/bb7gM6EYgns/s88-c-k-no/photo.jpg"group-title="News", CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/USAJ17000049P_20201028T004935.png" ,ABC News Live (Samsung)
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/USAJ17000049P_20201028T004935.png", ABC News Live US (Samsung)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusabcnews/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/14/USAJ4000009WG20200730102745.png" ,USA Today
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-usatodaynews/CDN/playlist
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/14/USAJ4000009WG20200730102745.png", USA Today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-name="Timesnow India" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Times_Now_logo.png"group-title="News", Timesnow India
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
@@ -158,21 +159,11 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT America" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_America_Logo.png" group-title="News", Russia Today America
 https://rt-usa.secure.footprint.net/1105.m3u8
 
-
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT UK" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_UK_Logo.png" group-title="News", Russia Today UK
 https://rt-uk.secure.footprint.net/1106.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_Documentary_Logo_Transparent.png" group-title="News;Documentary",RT Documentary
 https://rt-doc.secure.footprint.net/1101.m3u8
-
-#EXTINF:-1 tvg-id="BLMUS" tvg-name="Bloomberg US" tvg-language="English" tvg-country="US" tvg-id="Bloomberg" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Bloomberg_Logo.png" group-title="News", Bloomberg US
-https://www.bloomberg.com/media-manifest/streams/us.m3u8
-
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/35/USAJ4300005PJ20200730102745.png" ,Yahoo! Finance
-https://yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/91/USAJ30000041W_20201208T081555.png" ,Bloomberg Quicktake (Samsung)
-https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/InfoWars_Logo.png", Infowars 
 https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
@@ -183,8 +174,17 @@ https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/InfoWars_Logo.png", Infowars Owen Shroyer 
 https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/35/USAJ4300005PJ20200730102745.png" ,Yahoo! Finance
+https://yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/SamsungTVplus_BTVplus_UHD_190x190.png?raw=true" ,Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLMUS" tvg-name="Bloomberg US" tvg-language="English" tvg-country="US" tvg-id="Bloomberg" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Bloomberg_Logo.png" group-title="News", Bloomberg US
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/91/USAJ30000041W_20201208T081555.png" ,Bloomberg Quicktake (Samsung)
+https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Bloomberg_Logo.png", Asia Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8

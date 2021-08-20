@@ -9,14 +9,8 @@ http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2GB_Logo.png", 2GB Sydney AAC
 http://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.aac
 
-#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2GB_Logo.png", 2GB mp3
-http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3
-
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png", Sky News Australia
 https://ais-arn.streamguys1.com/au_033/playlist.m3u8
-https://ais-arn.streamguys1.com/au_033/playlist.m3u8?at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.AU&init_id=8169&modTime=1628866004569&pname=OrganicWeb&profileid=1577321816&territory=AU&uid=d2b7e081-e1ca-43e6-8fc7-907d17fd3c18&age=null&gender=null&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=1628866004&terminalid=161&companionAds=true&playedFrom=60&callLetters=KDNT-FL&devicename=web-desktop&stationid=8319&dist=iheart&aw_0_1st.ccaud=
-https://ais-arn.streamguys1.com/au_033/playlist.m3u8?listeningSessionID=61136f9549a10cff_202309_lrugNERS_MjA0LjkzLjI1NC4xNDA!_00000001vB4&downloadSessionID=0&at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.AU&init_id=8169&modTime=1628866004569&pname=OrganicWeb&profileid=1577321816&territory=AU&uid=d2b7e081-e1ca-43e6-8fc7-907d17fd3c18&age=null&gender=null&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=1628866004&terminalid=161&companionAds=true&playedFrom=60&callLetters=KDNT-FL&devicename=web-desktop&stationid=8319&dist=iheart&aw_0_1st.ccaud=
-
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk_Radio_Logo.png", Talk Radio UK
 http://radio.talkradio.co.uk/stream?ref=rf
@@ -114,9 +108,6 @@ http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrldn_mf_p
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BBC_World_Service_red.svg/318px-BBC_World_Service_red.svg.png", BBC World Service
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.allzicradio.com/media/radios/logo_euronews_radio_600x600px4.jpg", Euronews Radio
-http://euronews-02.ice.infomaniak.ch/euronews-02.aac
-
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sputnik_logo.svg/255px-Sputnik_logo.svg.png", Radio Sputnik Russia
 http://audio2.video.ria.ru/voiceeng
 
@@ -141,7 +132,7 @@ http://19183.live.streamtheworld.com:3690/938NOW_PREM_SC
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.allzicradio.com/media/radios/logo_euronews_radio_600x600px4.jpg", 	WVTF 89.1 FM Roanoke VA
 http://wvtf.streamguys1.com/radioiq-mp3-128
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png", Russia Today
+#EXTINF:-1 group-title="Talk;News" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png", Russia Today
 https://rt-news.secure.footprint.net/1103_64Kb.m3u8
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/WMAL-AMandFM_2014.png", WMAL Washington
