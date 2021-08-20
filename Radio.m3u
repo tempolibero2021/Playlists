@@ -21,14 +21,17 @@ http://radio.talkradio.co.uk/stream?ref=rf
 #EXTINF:-1 group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/LBC_London_Radio_Logo.png", LBC London
 https://media-sov.musicradio.com/LBCLondon
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/LBC_News__logo.png LBC News
-http://media-ice.musicradio.com/LBC1152.m3u
+#EXTINF:-1 group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/LBC_News__logo.png", LBC News
+https://media-sov.musicradio.com/LBC1152
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_Radio_London_logo.png", BBC Radio London
 http://stream.live.vc.bbcmedia.co.uk/bbc_london
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_Service_Logo.png", BBC World Service
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+
+#EXTINF:-1 group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png", Russia Today
+https://rt-news.secure.footprint.net/1103_64Kb.m3u8
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-country="RU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Radio_Sputnik_Logo.png", Radio Sputnik Russia
 http://audio2.video.ria.ru/voiceeng
@@ -129,20 +132,11 @@ http://abcradiolivehls-lh.akamaihd.net/i/raasia_1@327298/master.m3u8
 #EXTINF:-1 group-title="Jazz" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/abcjazz_logo.jpg", ABC Jazz
 http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 
-
-
-#EXTINF:-1 group-title="Comedy" radio="true" tvg-country="US" tvg-language="English" tvg-logo="https://static-media.streema.com/media/cache/d6/a4/d6a400a7e948aa8238ef171aca3797ae.jpg", Blue Planet Pranks
-http://blueplanetserver.net:8000/listen.pls?sid=1
-
-
 #EXTINF:-1 group-title="Talk" radio="true" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png", CNA 938 Live Singapore
 http://19183.live.streamtheworld.com:3690/938NOW_PREM_SC
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.allzicradio.com/media/radios/logo_euronews_radio_600x600px4.jpg", WVTF 89.1 FM Roanoke VA
 http://wvtf.streamguys1.com/radioiq-mp3-128
-
-#EXTINF:-1 group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png", Russia Today
-https://rt-news.secure.footprint.net/1103_64Kb.m3u8
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/WMAL-AMandFM_2014.png", WMAL Washington
 http://22213.live.streamtheworld.com/WMALFMAAC.aac
@@ -152,6 +146,9 @@ http://stream.revma.ihrhls.com/zc4748/hls.m3u8
  
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftunein.com%2Fradio%2FIowa-Public-Radio-News-910-s23012%2F&psig=AOvVaw1EriQmIPYCkviCTA_1YQxT&ust=1606013591704000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCXmILRku0CFQAAAAAdAAAAABAD", WSUI 910 AM Iowa City IA
 http://news-stream.iowapublicradio.org/News.mp3
+
+#EXTINF:-1 group-title="Comedy" radio="true" tvg-country="US" tvg-language="English" tvg-logo="https://static-media.streema.com/media/cache/d6/a4/d6a400a7e948aa8238ef171aca3797ae.jpg", Blue Planet Pranks
+http://blueplanetserver.net:8000/listen.pls?sid=1
 
 #EXTINF:-1 group-title="Soundtrack" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s262576/images/logog.png", Muppet Central Radio
 https://listen.openstream.co/3835/audio?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYyODk1Njg5NCwiaXNzIjoidGlzcnYifQ.amGCg5wiPClVa08N0jovcJQTv_l-_iv5U8tBNYnFj-o
