@@ -283,13 +283,14 @@ http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:0, TWiT Live
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericasVoice.us" tvg-name="America's Voice" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="News",America's Voice (720p)
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 
 
 
 
 
-
-
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
 
 

@@ -100,6 +100,10 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 
 
+#EXTINF:-1 tvg-country="IR" tvg-language="English" group-title="News" tvg-id="PRESS" tvg-name="Press_TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="News", Press TV (Iran)
+https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+#EXTINF:-1 tvg-country="IR" tvg-language="French" group-title="News" tvg-id="PRESS" tvg-name="Press_TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="News", Press TV French(Iran)
+https://live1.presstv.ir/live/presstvfr/index.m3u8
 
 French 
 #EXTINF:-1 tvg-country="FR" tvg-language="French" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFMTV_logo.png", BFMTV France
