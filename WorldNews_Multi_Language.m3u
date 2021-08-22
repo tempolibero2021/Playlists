@@ -31,55 +31,59 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-country="CN" tvg-language="Russian" group-title="News" tvg-id="CGTN" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News", CGTN (CCTV) Russian (China)
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
-#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-name="BBC Persian" tvg-country="IR" tvg-language="Persian" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_News_Persian_logo.png" group-title="News",BBC Persian (540p)
+#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-name="BBC Persian" tvg-country="UK" tvg-language="Persian" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_News_Persian_logo.png" group-title="News",BBC Persian 
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
-
-
+#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_News_Arabic_logo.png" group-title="News",BBC Arabic
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 
 
 #EXTINF:-1 tvg-country="DE" tvg-language="English" tvg-id="DWTV" tvg-name="DW_News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News", DW-TV (Germany)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="DWArabic.de" tvg-name="DW Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Arabic (1080p)
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-name="DW Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Arabic 
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-name="DW Deutsch" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Deutsch (1080p)
+#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-name="DW Deutsch" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Deutsch 
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1 tvg-id="DWDeutschPlus.de" tvg-name="DW Deutsch+" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Deutsch+ (1080p)
+#EXTINF:-1 tvg-id="DWDeutschPlus.de" tvg-name="DW Deutsch+" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Deutsch+ 
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Español (1080p)
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 
-#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/France_24_logo.png" group-title="News",France 24 English (1080p)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-name="France 24 Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/France_24_logo.png" group-title="News",France 24 Arabic (1080p)
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/France_24_logo.png" group-title="News",France 24 English 
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-name="France 24 Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/France_24_logo.png" group-title="News",France 24 Arabic 
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/France_24_logo.png" group-title="News",France 24 Español 
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="France24Francais.fr" tvg-name="France 24 Français" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/France_24_logo.png" group-title="News",France 24 Français (1080p)
+#EXTINF:-1 tvg-id="France24Francais.fr" tvg-name="France 24 Français" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/France_24_logo.png" group-title="News",France 24 Français 
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="EuronewsDeutsch.fr" tvg-name="Euronews Deutsch" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews Deutsch (720p)
+#EXTINF:-1 tvg-id="EuronewsDeutsch.fr" tvg-name="Euronews Deutsch" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews Deutsch 
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews en Español" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews en Español (720p)
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews en Español" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews en Español 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews en Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews en Español (720p)
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews en Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews en Español 
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsenEspanolviaAlchimie.fr" tvg-name="Euronews en Español via Alchimie" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews en Español via Alchimie (720p)
+#EXTINF:-1 tvg-id="EuronewsenEspanolviaAlchimie.fr" tvg-name="Euronews en Español via Alchimie" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews en Español via Alchimie 
 https://alchimie-euronews-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews English (720p)
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews English 
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglishviaAlchimie.fr" tvg-name="Euronews English via Alchimie" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews English via Alchimie (720p)
+#EXTINF:-1 tvg-id="EuronewsEnglishviaAlchimie.fr" tvg-name="Euronews English via Alchimie" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews English via Alchimie 
 https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsFrancais.fr" tvg-name="Euronews Français" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews Français (720p)
+#EXTINF:-1 tvg-id="EuronewsFrancais.fr" tvg-name="Euronews Français" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews Français
 https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsItaliano.fr" tvg-name="Euronews Italiano" tvg-country="IT" tvg-language="Italian" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews Italiano (720p)
+#EXTINF:-1 tvg-id="EuronewsItaliano.fr" tvg-name="Euronews Italiano" tvg-country="IT" tvg-language="Italian" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews Italiano 
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsItalianoviaAlchimie.fr" tvg-name="Euronews Italiano via Alchimie" tvg-country="IT" tvg-language="Italian" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews Italiano via Alchimie (720p)
+#EXTINF:-1 tvg-id="EuronewsItalianoviaAlchimie.fr" tvg-name="Euronews Italiano via Alchimie" tvg-country="IT" tvg-language="Italian" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews Italiano via Alchimie 
 https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsPortugues.fr" tvg-name="Euronews Português" tvg-country="INT" tvg-language="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews Português (720p)
+#EXTINF:-1 tvg-id="EuronewsPortugues.fr" tvg-name="Euronews Português" tvg-country="INT" tvg-language="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png" group-title="News",Euronews Português 
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricaNewsEnglish" tvg-name="AfricaNews English" tvg-country="EU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Africanews._Logo.png" group-title="News",AfricaNews English
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricaNewsEnglish" tvg-name="AfricaNews English" tvg-country="EU" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Africanews._Logo.png" group-title="News", AfricaNews Français 
+https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -98,7 +102,8 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TRT_Haber_logo.png" group-title="News",TRT Haber
 https://tv-trthaber.live.trt.com.tr/master.m3u8
-
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TRT_Kurdi_logo.png" group-title="News",TRT Kurdi
+https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-country="IR" tvg-language="English" group-title="News" tvg-id="PRESS" tvg-name="Press_TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="News", Press TV (Iran)
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
@@ -120,5 +125,3 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
 German
 #EXTINF:-1 tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Tagesschau24_logo.png" group-title="News", Tagesschau24 (Germany)
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Tagesschau24_logo.png" group-title="News", Tagesschau24 2(Germany)
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?set-segment-duration=responsive
