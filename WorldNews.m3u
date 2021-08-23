@@ -6,7 +6,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="News"tvg-id="tv.abc_news_90" tvg-logo="https://i.mjh.nz/.images/tv.abc_news_90.png",ABC News in 90 Seconds
 https://i.mjh.nz/au/Sydney/tv.abc_news_90
 
-#EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/EarthTV_logo_transparent.png", EarthTV Classic Live(YT)
+#EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/EarthTV_logo_transparent.png", EarthTV Classic Live (YT)
 plugin://plugin.video.youtube/play/?video_id=BW6yxWvqEd0
 
 #EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/EarthTV_logo_transparent.png", EarthTV Live (YT)
@@ -41,6 +41,9 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-country="JP" tvg-language="English" group-title="News" tvg-id="NHK" tvg-name="NHK_World" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NHK_World_Japan_Logo.png" group-title="News", NHK World (Japan)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-country="CN" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNC.png" group-title="News", CNC World English (China)
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC World News (UK)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
