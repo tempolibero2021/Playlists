@@ -117,39 +117,78 @@ French
 https://bfmtvalive1-a.akamaihd.net/2a233d36eeeb4367b7b6e9fa069d9fe9/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-language="French" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TV5Monde_logo.png", TV5Monde News
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-
-#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="BFM Grand Lille" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="",BFM Grand Lille (720p)
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="BFM Grand Lille" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_GrandLille_logo.png" group-title="",BFM Grand Lille 
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-name="BFM Grand Littoral" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="",BFM Grand Littoral (720p)
+#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-name="BFM Grand Littoral" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_GrandLittoral_logo.png" group-title="",BFM Grand Littoral 
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="BFM Lyon" tvg-country="FR" tvg-language="French" tvg-logo="https://i.ibb.co/8Y3FB3B/LYON.png" group-title="",BFM Lyon (720p)
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="BFM Lyon" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_Lyon_logo.png" group-title="",BFM Lyon 
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/index_1100_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris (480p)
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_Paris_logo.png" group-title="",BFM Paris 
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="",BFMTV (720p)
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFMTV_logo.png" group-title="",BFMTV 
 
 
 
 
 
+Arabic
+#EXTINF:-1 tvg-id="AlKhalij.sa" tvg-name="Al Khalij" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="Arabic",Al Khalij (Abu Dhabi)
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHurra.iq" tvg-name="Al Hurra" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="Arabic",Al Hurra 
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-name="Al Arabiya" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya 
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-name="Al Arabiya Al Hadath" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News",Al Hadath TV 
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al Sharqiya News" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News",Al Sharqiya News 
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1419797891.m3u8?v=86757236
+#EXTINF:-1 tvg-id="IranInternational.ir" tvg-name="Iran International" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="News",Iran International 
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-id="IranInternational.uk" tvg-name="Iran International" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="News",Iran International 
+https://live.playstop.me/1816184091/index.m3u8
+#EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
+https://live2.alalam.ir/alalam.m3u8
 
+Afghanistan
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Afghanistan(45)",Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Afghanistan(45)",AF | Ariana News,Ariana News Afghanistan
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
 
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(45)",Ariana TV
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8?checkedby
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(45)",Ariana TV,Ariana TV USA
+http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8?checkedby
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(45)",Ariana TV
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic"" tvg-logo="" group-title="Afghanistan(45)",Ariana TV AFG
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/3654?checkedby
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="Afghanistan(45)",Ariana TV Int'l
+https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="Afghanistan(45)",Ariana TV National
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="", Tolo News Afghanistan (Arabic)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 
+China
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNC.png" , CNC China (Chinese)
+http://source07.v.news.cn/live/CNC_CN/playl
 
+Japan
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="Global", Nippon TV News24 Japan
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
+DPRK (North Korea)
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DPRK_Central_Television_Logo.png" group-title="News", DPRK Central Television
+https://tv.nknews.org/tvdash/stream.mpd
 
 
 Italian
-#EXTINF:-1 tvg-country="IT" tvg-language="Italian" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rai_News_24.svg/320px-Rai_News_24.svg.png" group-title="Italy", Rai News 24 
+#EXTINF:-1 tvg-country="IT" tvg-language="Italian" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Rai_News_24_logo.png" group-title="Italy", Rai News 24 
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
 
 
@@ -162,3 +201,10 @@ https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 Thai
 #EXTINF:-1 tvg-id="ThaiPBSOpt4.th" tvg-country="TH" tvg-language="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Thai_PBS_logo.png" group-title="News",Thai PBS 
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Global", NASA Public Channel
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Global", NASA Media Channel
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
