@@ -234,3 +234,12 @@ https://theblaze4.akamaized.net/hls/live/699982/theblaze/cm-dvr/master.m3u8
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_News_logo.png", BBC News (UK)
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/66/USBA340000107_20210428T040252.png" ,BNC Go - Black News Network (US)
+https://didoc69s3kqdd.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USBA3000214220200730102745.png" ,TYT
+https://tyt-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USBB1900002KF_20210525T051433.png" ,Real America's Voice
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
