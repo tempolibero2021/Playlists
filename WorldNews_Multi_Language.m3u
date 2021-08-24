@@ -178,7 +178,8 @@ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/
 
 China
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNC.png" , CNC China (Chinese)
-http://source07.v.news.cn/live/CNC_CN/playl
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+
 
 Japan
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="Global", Nippon TV News24 Japan
