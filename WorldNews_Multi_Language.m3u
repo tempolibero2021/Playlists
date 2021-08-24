@@ -113,19 +113,19 @@ https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 https://live1.presstv.ir/live/presstvfr/index.m3u8
 
 French 
-#EXTINF:-1 tvg-country="FR" tvg-language="French" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFMTV_logo.png", BFMTV France
+#EXTINF:-1 tvg-country="FR" tvg-language="French" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFMTV_logo.png", BFMTV France (French)
 https://bfmtvalive1-a.akamaihd.net/2a233d36eeeb4367b7b6e9fa069d9fe9/eu-central-1/876450610001/playlist.m3u8
-#EXTINF:-1 tvg-country="FR" tvg-language="French" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TV5Monde_logo.png", TV5Monde News
+#EXTINF:-1 tvg-country="FR" tvg-language="French" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TV5Monde_logo.png", TV5Monde News France (French)
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="BFM Grand Lille" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_GrandLille_logo.png" group-title="",BFM Grand Lille 
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="BFM Grand Lille" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_GrandLille_logo.png" group-title="",BFM Grand Lille (French)
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-name="BFM Grand Littoral" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_GrandLittoral_logo.png" group-title="",BFM Grand Littoral 
+#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-name="BFM Grand Littoral" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_GrandLittoral_logo.png" group-title="",BFM Grand Littoral (French)
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="BFM Lyon" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_Lyon_logo.png" group-title="",BFM Lyon 
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="BFM Lyon" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_Lyon_logo.png" group-title="",BFM Lyon (French)
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/index_1100_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_Paris_logo.png" group-title="",BFM Paris 
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_Paris_logo.png" group-title="",BFM Paris (French)
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFMTV_logo.png" group-title="", BFMTV 
+
 
 
 
