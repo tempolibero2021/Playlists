@@ -138,10 +138,12 @@ https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-Alam_logo.png" group-title="News", Al Alam (Iran) (Arabic)
 https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-name="Al Arabiya" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-Arabiya_logo..png" group-title="News", Al Arabiya (Saudi Arabia) (Arabic)
+#EXTINF:-1  tvg-country="SA" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-Arabiya_logo..png" group-title="News", Al Arabiya (Saudi Arabia) (Arabic)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-name="Al Arabiya Al Hadath" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/AlHadath_logo.png" group-title="News", Al Hadath TV (Saudi Arabia) (Arabic)
+#EXTINF:-1 tvg-country="SA" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/AlHadath_logo.png" group-title="News", Al Hadath TV (Saudi Arabia) (Arabic)
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="SA" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/AlEkhbariya_logo.png" group-title="News", Al Ekhbariya (Saudi Arabia) (Arabic)
+https://svs.itworkscdn.net/ekhbariyalive/ikhbariya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al Sharqiya News" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-Sharqiya_News_logo.jpg" group-title="News",Al Sharqiya News (Iraq) (Arabic)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1419797891.m3u8?v=86757236
 
@@ -167,17 +169,17 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 
 China
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNC.png" , CNC China (Chinese)
+#EXTINF:-1 tvg-country="CN" tvg-language="Chinese" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNC.png" , CNC China (Chinese)
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 
 
 Japan
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Nippon_News_24_logo.png group-title="Global", Nippon TV News24 Japan
+#EXTINF:-1 tvg-country="JP" tvg-language="Japanese" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Nippon_News_24_logo.png" group-title="Global", Nippon TV News24 Japan (Japanese)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 DPRK (North Korea)
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DPRK_Central_Television_Logo.png" group-title="News", DPRK Central Television
+#EXTINF:-1 tvg-country="KP" tvg-language="Korean" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DPRK_Central_Television_Logo.png" group-title="News", DPRK Central Television North Korea (Korean)
 https://tv.nknews.org/tvdash/stream.mpd
 
 
@@ -204,5 +206,3 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
 
-#EXTINF:-1, Al Ekhbariya
-https://svs.itworkscdn.net/ekhbariyalive/ikhbariya.smil/ikhbariya_chunks.m3u8
