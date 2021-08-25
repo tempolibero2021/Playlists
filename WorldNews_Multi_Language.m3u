@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-country="QA" tvg-language="English" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera (Qatar)
+#EXTINF:-1 tvg-country="QA" tvg-language="English" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera(English)(Qatar)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-country="QA" tvg-language="English" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera Arabic (Qatar)
+#EXTINF:-1 tvg-country="QA" tvg-language="English" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera(Arabic) (Qatar)
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-country="QA" tvg-language="English" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera Balkans (Qatar)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-country="QA" tvg-language="Arabic" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News",  Al Jazeera Mubasher (Qatar)
+#EXTINF:-1 tvg-country="QA" tvg-language="Arabic" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera Mubasher (Arabic) (Qatar)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
-#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today
+#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today (English)
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="French" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today French
 http://rt-france.secure.footprint.net/1107.m3u8
@@ -41,13 +41,13 @@ plugin://plugin.video.youtube/play/?video_id=e6x1Zokwmyo
 
 #EXTINF:-1 tvg-country="DE" tvg-language="English" tvg-id="DWTV" tvg-name="DW_News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News", DW-TV (Germany)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="DWArabic.de" tvg-name="DW Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Arabic 
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-name="DW Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Arabic (Germany)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-name="DW Deutsch" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Deutsch 
+#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-name="DW Deutsch" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Deutsch (Germany)
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1 tvg-id="DWDeutschPlus.de" tvg-name="DW Deutsch+" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Deutsch+ 
+#EXTINF:-1 tvg-id="DWDeutschPlus.de" tvg-name="DW Deutsch+" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Deutsch+ (Germany)
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Español 
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News",DW Español (Germany)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 
@@ -109,13 +109,13 @@ https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-country="IR" tvg-language="English" group-title="News" tvg-id="PRESS" tvg-name="Press_TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="News", Press TV (Iran)
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
-#EXTINF:-1 tvg-country="IR" tvg-language="French" group-title="News" tvg-id="PRESS" tvg-name="Press_TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="News", Press TV French(Iran)
+#EXTINF:-1 tvg-country="IR" tvg-language="French" group-title="News" tvg-id="PRESS" tvg-name="Press_TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png"group- title="News", Press TV French (Iran)
 https://live1.presstv.ir/live/presstvfr/index.m3u8
 
 French 
 #EXTINF:-1 tvg-country="FR" tvg-language="French" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFMTV_logo.png", BFMTV France (French)
 https://bfmtvalive1-a.akamaihd.net/2a233d36eeeb4367b7b6e9fa069d9fe9/eu-central-1/876450610001/playlist.m3u8
-#EXTINF:-1 tvg-country="FR" tvg-language="French" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TV5Monde_logo.png", TV5Monde News France (French)
+#EXTINF:-1 tvg-country="FR" tvg-language="French" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TV5Monde_Info_logo.png", TV5Monde News France (French)
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 #EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="BFM Grand Lille" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_GrandLille_logo.png" group-title="",BFM Grand Lille (French)
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
@@ -155,24 +155,14 @@ https://voavvideo-i.akamaihd.net/hls/live/850899-b/VOAV_TVMC7_MRG/master.m3u8
 
 
 Afghanistan
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Afghanistan(45)",Ariana News
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Afghanistan(45)",Ariana News Afghanistan
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Afghanistan(45)",AF | Ariana News,Ariana News Afghanistan
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
-
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(45)",Ariana TV
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8?checkedby
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(45)",Ariana TV,Ariana TV USA
-http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8?checkedby
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(45)",Ariana TV
-https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8?checkedby
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic"" tvg-logo="" group-title="Afghanistan(45)",Ariana TV AFG
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/3654?checkedby
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="Afghanistan(45)",Ariana TV Int'l
-https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8?checkedby
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="Afghanistan(45)",Ariana TV National
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(45)",Ariana TV National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(45)",Ariana TV,Ariana TV USA
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8 
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="Afghanistan(45)",Ariana TV Int'l
+https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="", Tolo News Afghanistan (Arabic)
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 
@@ -182,7 +172,7 @@ http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 
 
 Japan
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="Global", Nippon TV News24 Japan
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Nippon_News_24_logo.png group-title="Global", Nippon TV News24 Japan
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 DPRK (North Korea)
