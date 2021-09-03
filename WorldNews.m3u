@@ -19,7 +19,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="Russia Today" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today
-https://rt-news.secure.footprint.net/1103.m3u8
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-country="FR" tvg-language="English" tvg-id="F24" tvg-name="France 24 English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/France_24_logo.png" group-title="News",France 24 English 
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
@@ -64,7 +64,7 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_Logo.png" group-title="News",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/HLN_Logo.png" group-title="News",HLN (US)
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/HLN_Logo.png" group-title="News", HLN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Reuters_TV_Logo.png", Reuters NOW (US)
@@ -164,13 +164,13 @@ https://live.ptv.com.pk/live/ptvworld/playlist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT America" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_America_Logo.png" group-title="News", Russia Today America
-https://rt-usa.secure.footprint.net/1105.m3u8
+https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT UK" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_UK_Logo.png" group-title="News", Russia Today UK
-https://rt-uk.secure.footprint.net/1106.m3u8
+https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_Documentary_Logo_Transparent.png" group-title="News;Documentary",RT Documentary
-https://rt-doc.secure.footprint.net/1101.m3u8
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-country="CN" tvg-language="English" tvg-id="CGTNDOC" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Documentary_Logo.png" group-title="News;Documentary", CGTN (CCTV) Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -243,3 +243,6 @@ https://tyt-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USBB1900002KF_20210525T051433.png" ,Real America's Voice
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
+
+#EXTINF:1 tvg-country="US" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ET_Live_logo.jpg",Entertainment Tonight (English)
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
