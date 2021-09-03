@@ -4,20 +4,19 @@
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-country="QA" tvg-language="English" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera(Arabic) (Qatar)
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-country="QA" tvg-language="English" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera Balkans (Qatar)
+#EXTINF:-1 tvg-country="QA" tvg-language="English" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera Balkans (Qatar) (Bosnian;Serbian;Croatian;Montenegrin)
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-country="QA" tvg-language="Arabic" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera Mubasher (Arabic) (Qatar)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today (English)
-https://rt-news.secure.footprint.net/1103.m3u8
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="French" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today French
-http://rt-france.secure.footprint.net/1107.m3u8
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="Español"  tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today Español
-https://rt-esp.secure.footprint.net/1102.m3u8
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="Arabic" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today Arabic
-https://rt-arab.secure.footprint.net/1104.m3u8
-
+https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-country="CN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News",CGTN Arabic (China)
@@ -88,6 +87,61 @@ https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 
 
+#EXTINF:-1,EuroNews 1 (EU) English
+https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,EuroNews 8 (EU)
+https://rakuten-euronews-8-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,EuroNews 10 (EU)
+https://rakuten-euronews-10-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,EuroNews 11 (EU)
+https://rakuten-euronews-11-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,EuroNews 12 (EU)
+https://rakuten-euronews-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,EuroNews 13 (E
+#EXTINF:1 ,Euronews  (News)
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:1 ,Euronews  (News)
+https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews  (News)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
+#EXTINF:1 ,Euronews (Belguim)  (News)
+https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews (Brazil)  (News)
+https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews (Denmark)  (News)
+https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews (Finland)  (News)
+https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews (France)  (News)
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews (Ireland)  (News)
+https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews (luxemburg)  (News)
+https://rakuten-euronews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews (Mexico)  (News)
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews (Netherlands)  (News)
+https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews (Norway)  (News)
+https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews (Portugal)  (News)
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews (Sweden)  (News)
+https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews en Français (720p)  (News)
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews Español  (News)
+https://euronews-euronews-spanish-2.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews HD  (News)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
+#EXTINF:1 ,Euronews via Alchimie (England)  (News)
+https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews via Alchimie (Italy)  (News)
+https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews via Alchimie (Spain)  (News)
+https://alchimie-euronews-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,Euronews | ES  (News)
+https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Sky_News_Logo.png", Sky News (UK)
@@ -125,7 +179,8 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/index_1100_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BFM_Paris_logo.png" group-title="",BFM Paris (French)
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?rebase=on&sd=10
-
+#EXTINF:1 tvg-name="France 24 Français" tvg-country="FR" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/LN_24_logo.jpg" ,LN24 - Belgium (French)
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 
 
 
@@ -157,7 +212,7 @@ https://voavvideo-i.akamaihd.net/hls/live/850899-b/VOAV_TVMC7_MRG/master.m3u8
 
 
 Afghanistan
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Afghanistan(45)",Ariana News Afghanistan
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ariana_news_logo.jpg" group-title="Afghanistan(45)",Ariana News Afghanistan
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(45)",Ariana TV National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
@@ -165,7 +220,7 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8 
 #EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="Afghanistan(45)",Ariana TV Int'l
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="", Tolo News Afghanistan (Arabic)
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Tolo_News_logo.jpg" group-title="", Tolo News Afghanistan (Arabic)
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 
 China
@@ -184,7 +239,7 @@ https://tv.nknews.org/tvdash/stream.mpd
 
 
 Italian
-#EXTINF:-1 tvg-country="IT" tvg-language="Italian" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Rai_News_24_logo.png" group-title="Italy", Rai News 24 
+#EXTINF:-1 tvg-country="IT" tvg-language="Italian" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Rai_News_24_logo.png" group-title="Italy", Rai News 24 - Italy (Italian)
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
 
 
@@ -192,6 +247,8 @@ German
 #EXTINF:-1 tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Tagesschau24_logo.png" group-title="News", Tagesschau24 (Germany)
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 
+#EXTINF:1 tvg-country="AU" tvg-language="German" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/skynewsextra2logo.jpg", Oe24 - Austria (German)
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
 
 
 Thai
@@ -199,10 +256,121 @@ Thai
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Global", NASA Public Channel
+#EXTINF:-1  tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Global", NASA Public Channel
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Global", NASA Media Channel
+#EXTINF:-1  tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Global", NASA Media Channel
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
+
+#EXTINF:1 ,24/7 Canal de Noticias (720p)  (Spanish)
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:1 ,24/7 Canal de Noticias  (Spanish)
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+#EXTINF:1 ,3/24 (1080p)  (Catalan)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u
+#EXTINF:1 ,7 TV Andalucía  (Spanish)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835804/master.m3u8
+#EXTINF:1 ,7 TV Andalucía (Bahía)  (Spanish)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835790/master.m3u8
+#EXTINF:1 ,7 TV Andalucía (Costa Noroeste)  (Spanish)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835802/master.m3u8
+#EXTINF:1 ,7 TV Andalucía (Córdoba)  (Spanish)
+https://dcunilive265-lh.akamaihd.net/i/dclive_1@409360/master.m3u8
+#EXTINF:1 ,7 TV Andalucía (Jaén)  (Spanish)
+https://dcunilive266-lh.akamaihd.net/i/dclive_1@426886/master.m3u8
+#EXTINF:1 ,7 TV Andalucía (Jerez)  (Spanish)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835794/master.m3u8
+#EXTINF:1 ,7 TV Andalucía (Málaga)  (Spanish)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835798/master.m3u8
+#EXTINF:1 ,7 TV Andalucía (Sevilla)  (Spanish)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835800/master.m3u8
+#EXTINF:1 ,7 TV Andalucía (Sierra)  (Spanish)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835792/master.m3u8
+#EXTINF:1 ,Canal 24 horas (576p)  (Spanish)
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:1 ,Canal 26 (720p)  (Spanish)
+http://live-edge01.telecentro.net.ar/live/c26.smil/playlist.m3u8
+
+#EXTINF:1 ,360° Новости (1080p)  (Russian)
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+
+#EXTINF:1 ,Aaj Tak (720p)  (Hindi)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:1 ,ABP Asmita (720p)  (Hindi)
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
+#EXTINF:1 ,ABP Hindi (720p)  (English)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:1 ,ABP Majha (720p)  (Hindi)
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+#EXTINF:1 ,AKD Calcutta News (540p)  (Hindi)
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
+#EXTINF:1 ,Asianet News (576p)  (Malayalam)
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)
+#EXTINF:1 ,Asianet News (404p)  (English)
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:1 ,Asianet News Bangla (360p)  ()
+https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
+#EXTINF:1 ,Asianet News Kannada (360p)  ()
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+#EXTINF:1 ,Asianet News Tamil (360p)  (Tamil)
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:1 ,India News (480p)  (Hindi)
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+
+
+
+#EXTINF:1 ,Al Manar (576p)  (Arabic) Lebanon (Hezbollah)
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+#EXTINF:1 ,Al Mayadeen (576p)  (Arabic)
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/playlist.m3u8
+#EXTINF:1 ,Al Rafidain (1024p)  (Arabic)
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:1 ,Al Sharqiya News (450p)  (Arabic)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:1 ,Al Yaum TV (720p)  (Arabic)
+https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
+#EXTINF:1 ,Alaraby TV (1080p)  (Arabic)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:1 ,Dijlah (576p)  (Arabic)Iraq
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:1 ,Libya 218  (Arabic)
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+#EXTINF:1 ,Libya Al Ahrar TV  (Arabic)
+https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
+#EXTINF:1 ,Libya Al Hadath  (Arabic)
+https://master.starmena-cloud.com/hls/hd.m3u8
+#EXTINF:1 ,Libya Channel  (Arabic)
+https://master.starmena-cloud.com/hls/libyas.m3u8
+
+
+
+
+#EXTINF:1 ,Antena 3 (720p)  (Romanian)
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8
+#EXTINF:1 ,Bulgaria On Air (576p)  (Bulgarian)
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+
+#EXTINF:1 ,BeritaSatu  (Indonesian)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:1 ,BeritaSatu English  (English)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:1 ,BeritaSatu World  (Indonesian;English)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:1 ,CNN Indonesia (720p)  (Indonesian)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:1 ,Channel 2 News (720p)  (Hebrew)
+https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+
+#EXTINF:1 tvg-country="SE" tvg-language="Sweden" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Di-TV-logo.png", Di TV   (Swedish)
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="SDF" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png",SDF
+https://livestream.goinfo.it/SDFLive/sdfros/playlist.m3u8
 

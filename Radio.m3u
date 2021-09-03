@@ -15,6 +15,9 @@ http://144.140.228.109:8220/mp3
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png", Sky News Australia
 https://ais-arn.streamguys1.com/au_033/playlist.m3u8
 
+#EXTINF:-1 group-title="News" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png",  Al Jazeera (Qatar)
+https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8
+
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk_Radio_Logo.png", Talk Radio UK
 http://radio.talkradio.co.uk/stream?ref=rf
 
@@ -31,7 +34,7 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_london
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
 #EXTINF:-1 group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png", Russia Today
-https://rt-news.secure.footprint.net/1103_64Kb.m3u8
+https://rt-glb.gcdn.co/live/rtnews/playlist_64Kb.m3u8
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-country="RU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Radio_Sputnik_Logo.png", Radio Sputnik Russia
 http://audio2.video.ria.ru/voiceeng
