@@ -21,7 +21,7 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV (Not Working)
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" ,ITV (Not Working)
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
 
@@ -54,7 +54,7 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="UK",Family Movies
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg",Family Movies
 https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Travel",TVS Travel Network
@@ -191,7 +191,6 @@ https://tyt-samsungus.amagi.tv/playlist.m3u8
 https://tyt-roku-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt/CDN/playlist.m3u8
 
 
-.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/66/USBA340000107_20210428T040252.png" ,BNC Go
 https://didoc69s3kqdd.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20201007T012259.png",Newsmax

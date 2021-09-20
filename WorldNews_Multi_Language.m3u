@@ -187,11 +187,11 @@ https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 
 
 Arabic
-#EXTINF:-1 tvg-id="AlKhalij.sa" tvg-name="Al Khalij" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/AlKhali_logo.png" group-title="Arabic",Al Khalij (Abu Dhabi)
+#EXTINF:-1 tvg-id="AlKhalij.sa" tvg-name="Al Khalij" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/AlKhali_logo.png", Al Khalij (Abu Dhabi)
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1 tvg-id="AlHurra.iq" tvg-name="Al Hurra" tvg-country="US" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/AlHurra_logo.png" group-title="Arabic", Al Hurra (US) (Arabic) 
+#EXTINF:-1 tvg-id="AlHurra.iq" tvg-name="Al Hurra" tvg-country="US" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/AlHurra_logo.png", Al Hurra (US) (Arabic) 
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
-#EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-Alam_logo.png" group-title="News", Al Alam (Iran) (Arabic)
+#EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-Alam_logo.png", Al Alam (Iran) (Arabic)
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1  tvg-country="SA" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-Arabiya_logo..png" group-title="News", Al Arabiya (Saudi Arabia) (Arabic)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -199,7 +199,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="SA" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/AlEkhbariya_logo.png" group-title="News", Al Ekhbariya (Saudi Arabia) (Arabic)
 https://svs.itworkscdn.net/ekhbariyalive/ikhbariya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al Sharqiya News" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-Sharqiya_News_logo.jpg" group-title="News",Al Sharqiya News (Iraq) (Arabic)
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al Sharqiya News" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-Sharqiya_News_logo.jpg" group-title="News", Al Sharqiya News (Iraq) (Arabic)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1419797891.m3u8?v=86757236
 
 Persian
@@ -212,15 +212,15 @@ https://voavvideo-i.akamaihd.net/hls/live/850899-b/VOAV_TVMC7_MRG/master.m3u8
 
 
 Afghanistan
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ariana_news_logo.jpg" group-title="Afghanistan(45)",Ariana News Afghanistan
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ariana_news_logo.jpg",Ariana News Afghanistan
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(45)",Ariana TV National
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png",Ariana TV National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan(45)",Ariana TV,Ariana TV USA
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VbuI9n.png",Ariana TV,Ariana TV USA
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8 
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="Afghanistan(45)",Ariana TV Int'l
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://i.imgur.com/k2QKhRK.png",Ariana TV Int'l
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Tolo_News_logo.jpg" group-title="", Tolo News Afghanistan (Arabic)
+#EXTINF:0 tvg-country="AF" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Tolo_News_logo.jpg", Tolo News Afghanistan (Arabic)
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 
 China
@@ -239,7 +239,7 @@ https://tv.nknews.org/tvdash/stream.mpd
 
 
 Italian
-#EXTINF:-1 tvg-country="IT" tvg-language="Italian" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Rai_News_24_logo.png" group-title="Italy", Rai News 24 - Italy (Italian)
+#EXTINF:-1 tvg-country="IT" tvg-language="Italian" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Rai_News_24_logo.png", Rai News 24 - Italy (Italian)
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
 
 
@@ -374,3 +374,4 @@ https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_t
 #EXTINF:-1 tvg-name="SDF" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png",SDF
 https://livestream.goinfo.it/SDFLive/sdfros/playlist.m3u8
 
+http://ip:8866/channels
