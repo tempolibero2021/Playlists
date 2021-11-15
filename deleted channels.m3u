@@ -1,0 +1,265 @@
+#EXTINF:-1 tvg-id="DWTV" tvg-name="DW_News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DWTV.png" group-title="News", DW-TV
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-id="F24" tvg-name="France 24 English" tvg-logo="https://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" group-title="News",France 24 English 
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+https://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1, group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png", Euronews 
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+#EXTINF:-1, tvg-id="9SYD" tvg-name="9 Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australian",9 Sydney
+https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
+
+#EXTINF:-1 tvg-id="7SYD" tvg-name="7 Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Sydney
+https://npc.cdn.7livecloud.io/hls/live/SYD1/masterSD.m3u8
+
+#EXTINF:-1, tvg-id="SBSNSW" tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS_transparent_white.png" group-title="Australian", SBS
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
+
+#EXTINF:-1, tvg-id="VICESE" tvg-name="Viceland" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBSViceland_stacked_whitetrans.png" group-title="Australian", SBS 2 Viceland
+https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
+
+#EXTINF:-1, tvg-id="FOODSE" tvg-name="SBS Food" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS%20Food.png" group-title="Australian", SBS Food
+https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
+
+#EXTINF:-1, tvg-id="SBSNSW" tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SBS%20World%20Movies.png" group-title="Australian", SBS World Movies
+https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
+
+#EXTINF:-1, tvg-id="NITVSE" tvg-name="NITV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NITV.jpg" group-title="Australian", NITV
+https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
+
+#EXTINF:-1 tvg-id="7TWOSYD" tvg-name="7 Two Syd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/320px-7two_logo_2020.svg.png" group-title="Australian",7 Two Syd
+https://npc.cdn.7livecloud.io/hls/live/SYD2/masterSD.m3u8
+
+#EXTINF:-1 tvg-id="7TWOSYD" tvg-name="7 Mate Syd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian", 7 Mate Syd
+https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
+
+#EXTINF:-1 tvg-id="7FLIXSYD" tvg-name="7 Flix Syd" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Syd
+https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
+
+#EXTINF:-1,tvg-id="9LIFESYD" tvg-name="9 Life Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian",9 Life Syd
+https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+
+#EXTINF:-1, tvg-name="9 Gem Sydney" tvg-id="9GEMSYD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/48/NSD_290x170.png/revision/latest?cb=20151217135007" group-title="Australian", 9 Gem Syd
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+
+#EXTINF:-1, tvg-name="9 GO Sydney" tvg-id="9GOSYD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian", 9 Go! Syd				
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+
+#EXTINF:-1, tvg-name="9 Rush Sydney" tvg-id="9RushSYD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png" group-title="Australian", 9 Rush Syd
+https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
+
+#EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN Shake" group-title="Australian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/10_Shake_logo_2020.svg/320px-10_Shake_logo_2020.svg.png",TEN Shake 
+https://d1nti87v55zvqc.cloudfront.net/out/v1/8a1d942f281143e0b5d1e0b5179fc160/index.m3u8
+
+
+#EXTINF:-1,tvg-id="9MEL" tvg-name="9 Melb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australian",9 Melb
+https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
+
+#EXTINF:-1 tvg-id="7MEL" tvg-name="7 Melbourne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Melb
+https://npc.cdn.7livecloud.io/hls/live/MEL1/masterSD.m3u8
+
+#EXTINF:-1 tvg-id="7TWOMEL" tvg-name="7 Two Melb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/320px-7two_logo_2020.svg.png" group-title="Australian",7 Two Melb
+https://npc.cdn.7livecloud.io/hls/live/MEL2/masterSD.m3u8
+
+#EXTINF:-1 tvg-id="7MATEMEL" tvg-name="7 Mate Melb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Melb
+https://live-sevennetwork.akamaized.net/hls/live/573751/MEL3/master.m3u8
+
+#EXTINF:-1 tvg-id="7FLIXMEL" tvg-name="7 Flix Melb" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Melb
+https://live-sevennetwork.akamaized.net/hls/live/573752/MEL6/master.m3u8
+
+#EXTINF:-1,tvg-id="9LIFEMEL" tvg-name="9 Life Melb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian",9 Life Melb
+https://9now-live.akamaized.net/hls/live/708947/life-mel/master.m3u8
+
+#EXTINF:-1, tvg-id="9GEMMEL" tvg-name="9 GEM Melb" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/48/NSD_290x170.png/revision/latest?cb=20151217135007" group-title="Australian", 9 Gem Melb
+https://9now-live.akamaized.net/hls/live/705331/gem-mel/master.m3u8
+
+#EXTINF:-1, tvg-id="9GOMEL" tvg-name="9 GO Melb" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian", 9 Go! Melb
+https://9now-live.akamaized.net/hls/live/708940/go-mel/master.m3u8
+
+#EXTINF:-1 tvg-id="TENMEL" tvg-name="TEN_Melbourne" group-title="Australian"tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/C31_Melbourne_logo_2010.png", Channel 31
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/index_150_av-p.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="9BRI" tvg-name="9 Brisbane" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australian",9 Brisbane
+https://9now-live.akamaized.net/hls/live/708955-b/ch9-bne/master.m3u8
+
+#EXTINF:-1 tvg-id="7BRI" tvg-name="7 Brisbane" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Bris
+https://npc.cdn.7livecloud.io/hls/live/BRI1/master.m3u8
+
+#EXTINF:-1 tvg-id="7TWOBRI" tvg-name="7 Two Bris" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/320px-7two_logo_2020.svg.png" group-title="Australian",7 Two Bris
+https://npc.cdn.7livecloud.io/hls/live/BRI2/master.m3u8
+
+#EXTINF:-1 tvg-id="7MATEBRI" tvg-name="7 Mate Bris" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Bris
+https://npc.cdn.7livecloud.io/hls/live/BRI3/master.m3u8
+
+#EXTINF:-1 tvg-id="7FLIXBRI" tvg-name="7 Flix Bris" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian", 7 Flix Bris
+https://npc.cdn.7livecloud.io/hls/live/BRI6/master.m3u8
+
+#EXTINF:-1 tvg-id="9LIFEBRI" tvg-id="9Life" tvg-id="Nine Life Brisbane" tvg-name="9 Life Brisbane" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian", 9 Life Brisb
+https://9now-live.akamaized.net/hls/live/708948/life-bne/master.m3u8
+
+#EXTINF:-1 tvg-id="9GEMBRI" tvg-id="9Gem Bris" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/48/NSD_290x170.png/revision/latest?cb=20151217135007" group-title="Australian",9 Gem Bris
+https://9now-live.akamaized.net/hls/live/705340/gem-bne/master.m3u8
+
+#EXTINF:-1 tvg-id="9GOBRI" tvg-id="9Go Bris" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian",9 GO Bris
+https://9now-live.akamaized.net/hls/live/708941/go-bne/master.m3u8
+
+
+#EXTINF:-1, tvg-id="9ADE" tvg-name="9 Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australian",9 Adelaide
+https://9now-live.akamaized.net/hls/live/708960-b/ch9-adl/master.m3u8
+
+#EXTINF:-1 tvg-id="7ADE" tvg-name="7 Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Adelaide
+https://npc.cdn.7livecloud.io/hls/live/ADE1/master.m3u8
+
+#EXTINF:-1  tvg-id="7TWOADE" tvg-name="7 Two Adl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/320px-7two_logo_2020.svg.png" group-title="Australian",7 Two Adl
+https://npc.cdn.7livecloud.io/hls/live/ADE2/master.m3u8
+   
+#EXTINF:-1 tvg-id="7MATEADE" tvg-name="7 Mate Adl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Adl
+https://npc.cdn.7livecloud.io/hls/live/ADE3/master.m3u8
+
+#EXTINF:-1  tvg-id="7FLIXADE" tvg-name="7 Flix Adl" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Adl
+https://npc.cdn.7livecloud.io/hls/live/ADE6/master.m3u8
+
+#EXTINF:-1,  tvg-id="9LIFEADE" tvg-name="9 Life Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="Australian", 9 Life Adel
+https://9now-live.akamaized.net/hls/live/708949/life-adl/master.m3u8
+
+#EXTINF:-1,  tvg-id="9GEMADE" tvg-name="9 Gem Adelaide" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/48/NSD_290x170.png/revision/latest?cb=20151217135007" group-title="Australian", 9 Gem Adelaide
+https://9now-live.akamaized.net/hls/live/705341/gem-adl/master.m3u8
+
+#EXTINF:-1,  tvg-id="9GOADE" tvg-name="9 GO Adelaide" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian", 9 GO Adelaide
+https://9now-live.akamaized.net/hls/live/708942/go-adl/master.m3u8
+
+#EXTINF:-1, tvg-id="44" tvg-name="Channel 44 Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/44adelaidelogo.png" group-title="Australian", Channel 44 Adelaide
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/008ee5897af64d96b1d303d11b683b6d/manifest.m3u8?p=79&s=1622274346&e=1622274946&h=23f9cb2e30d28bd2bd768d3b6002d159
+
+
+#EXTINF:-1 tvg-id="9PER" tvg-name="9 Perth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australian",9 Perth
+https://9now-live.akamaized.net/hls/live/708953-b/ch9-per/master.m3u8
+
+#EXTINF:-1 tvg-id="7PER" tvg-name="7 Perth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Perth
+https://npc.cdn.7livecloud.io/hls/live/PER1/master.m3u8
+
+#EXTINF:-1 tvg-id="7TWOPER" tvg-name="7 Two Per" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/320px-7two_logo_2020.svg.png" group-title="Australian",7 Two Per
+https://npc.cdn.7livecloud.io/hls/live/PER2/master.m3u8
+
+#EXTINF:-1 tvg-id="7MATEPER" tvg-name="7 Mate Per" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_%28logo%29.svg/250px-7mate_%28logo%29.svg.png" group-title="Australian",7 Mate Per
+https://live-sevennetwork.akamaized.net/hls/live/573771/PER3/master.m3u8
+
+#EXTINF:-1 tvg-id="7FLIXPER" tvg-name="7 Flix Per" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5a/7flix_Chan76_LOGO_RGB.png/revision/latest/scale-to-width-down/320?cb=20160306061532" group-title="Australian",7 Flix Per
+https://npc.cdn.7livecloud.io/hls/live/PER6/master.m3u8
+
+#EXTINF:-1 tvg-id="9LIFEPER" tvg-id="9Life Perth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png", 9 Life Perth
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250993/perth/master.m3u8
+
+#EXTINF:-1 tvg-id="9GEMPER" tvg-id="9Gem Perth" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/48/NSD_290x170.png/revision/latest?cb=20151217135007" group-title="Australian", 9 Gem Perth
+https://9now-live.akamaized.net/hls/live/705342/gem-per/master.m3u8
+
+#EXTINF:-1 tvg-id="9GOPER" tvg-id="9GO Perth" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/81/G9S_290x170.png/revision/latest?cb=20151217135108" group-title="Australian",  9 GO Perth
+https://9now-live.akamaized.net/hls/live/708939/go-per/master.m3u8
+
+#EXTINF:-1 tvg-id="FSN" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/fox_sports_news_white_trans.png" group-title="Australian", Fox Sports News 500
+https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/320px-RACING.COM_logo_2016.svg.png" group-title="Australian", Racing.com
+https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Australian", Sky Racing 1
+https://skyliverwwa-i.akamaihd.net/hls/live/570288/skyliverwwa/sky1rw.m3u8
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="Australian", Sky Racing 2
+https://skyliverwwa-i.akamaihd.net/hls/live/570288/skyliverwwa/sky2rw.m3u8
+
+#EXTINF:1 tvg-id="SKYTC" tvg-name="Sky_Thoroughbred_Central" tvg-logo="http://www.skyracing.com.au/assets/website_images/images/Logos/SR-Thumb-Thoroughbred-Central.jpg" group-title="Australian", Thoroughbred Central
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8
+
+#EXTINF:1 group-title="Shopping" tvg-logo="https://televisionau.com/wp-content/uploads/openshop_logo.png" group-title="Australian", Open Shop
+https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
+
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png", Expo TV
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+
+
+#EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-name="Comedy Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="",Comedy Channel (1080p)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="Movies",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W87cTZc.png" group-title="USA",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-name="Kuriakos Cine" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CZViCwB.jpg" tvg-url="" group-title="Movies",Kuriakos Cine (1080p)
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+
+#EXTINF:-1 tvg-id="MaverickMovies.us" tvg-name="Maverick Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Zk5wP5K.png" tvg-url="" group-title="Movies",Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-country="CA" tvg-language="English" tvg-id="Global" tvg-name="Global" tvg-country="CA" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Global_News_Logo_Transparent.png" tvg-url="" group-title="News", Global Canada
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8
+
+
+
+
+
+
+
+indian?
+#EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Movies",Maha Movie (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Movies",Manoranjan Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+
+
+geoblocked?
+#EXTINF:-1 tvg-id="CBC" tvg-name="CBC" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/240px-CBC_Logo_1992-Present.svg.png" tvg-url="" group-title="News", CBC Canada
+https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="http://htvc.vn/uploads/channel/2015/02/13/1505366-logo-hbo-a.png",HBO
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=hbohd
+#EXTINF:0  tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/462892-FOX-HD.png",Fox HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0  tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/121093-FoxFamily_3.png",Fox Family Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/712174-WARNER-tv.png",Warner TV
+https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, tvg-id="Asian Food Channel" tvg-logo="http://htvc.vn/uploads/channel/2019/11/28/2139383-afn-logo-cmyk-f.png" tvg-name="Asian Food Channel (HD)",Asian Food Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX" tvg-country="US" tvg-language="" tvg-logo="" group-title="",FOX [Vietnam]
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX" tvg-country="US" tvg-language="" tvg-logo="" group-title="",FOX
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+#EXTINF:-1 tvg-id="FOXCrime.us" tvg-name="FOX Crime" tvg-country="US" tvg-language="" tvg-logo="" group-title="",FOX Crime
+https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
+
+
+#EXTINF:-1, tvg-id="RTENN" tvg-name="RTE_News_Now" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/db/Rtenewsnownewlogo.png" group-title="News", RTE News Ireland
+https://www.rte.ie/manifests/newsnow.m3u8
+#EXTINF:-1 group-title="News", Ruptly
+https://russiatoday.akamaized.net/hls/eng-strm.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="Movies",Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg" tvg-url="" group-title="Movies",Hallmark Movies & Mysteries
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg" tvg-url="" group-title="Movies",Hallmark Drama
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+
+
+
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+136 Cutrock Rd

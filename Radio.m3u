@@ -3,9 +3,6 @@
 #EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2GB_Logo.png", 2GB Sydney
 http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 
-#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2GB_Logo.png", 2GB Sydney AAC
-http://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.aac
-
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2SM_Logo.png", 2SM Sydney
 http://144.140.228.109:8220/mp3
 
