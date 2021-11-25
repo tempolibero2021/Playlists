@@ -7,10 +7,10 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://i.mjh.nz/au/Sydney/tv.abc_news_90
 
 #EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/EarthTV_logo_transparent.png", EarthTV Classic Live (YT)
-plugin://plugin.video.youtube/play/?video_id=BW6yxWvqEd0
+plugin://plugin.video.youtube/play/?video_id=3qdEMXmwTkQ
 
 #EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/EarthTV_logo_transparent.png", EarthTV Live (YT)
-plugin://plugin.video.youtube/play/?video_id=DkNTbHiNqBk
+plugin://plugin.video.youtube/play/?video_id=4t96znzCcMQ
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_International_Logo.png", CNN International (US)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -46,8 +46,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC World News (UK)
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
-
+http://84.22.33.214/bbc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Sky_News_Logo.png", Sky News (UK)
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
@@ -81,6 +80,8 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NBC_News_Now.png", NBC News Now (US)
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Newsmax_Logo.png", Newsmax (US)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -122,7 +123,7 @@ plugin://plugin.video.youtube/play/?video_id=W1ilCy6XrmI
 plugin://plugin.video.youtube/play/?video_id=muLv33Ca-qk
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk_Radio_Logo.png", Talk Radio (Youtube)
-plugin://plugin.video.youtube/play/?video_id=pXrbN1QfzQc
+plugin://plugin.video.youtube/play/?video_id=U2qUZoZPFS4
 
 #EXTINF:-1 tvg-country="CA" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Global_News_Logo_Transparent.png", Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
@@ -246,3 +247,10 @@ https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:1 tvg-country="US" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ET_Live_logo.jpg",Entertainment Tonight (English)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+
+
+ 	http://ott-cdn.ucom.am/s24/04.m3u8
+	
+	 	http://203.162.235.41:16917/
+		
+		http://84.22.33.214/bbc/tracks-v1a1/mono.m3u8
