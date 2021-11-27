@@ -114,7 +114,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-country="VE" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TeleSUR-Logo.png" group-title="News",TeleSUR English (Venezuela)
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png", Euronews (Youtube)
 plugin://plugin.video.youtube/play/?video_id=sPgqEHsONK8
