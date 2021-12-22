@@ -39,6 +39,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Euronews_logo.png", Euronews 
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-country="PL" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/tvp_world_logo.png",TVP Poland
+https://rsdt-waw1201-5.tvp.pl/token/video/live/51656539/20211222/2059871413/6c38a569-942f-407f-850f-47c8938844a8/master.m3u8
+
 #EXTINF:-1 tvg-country="TR" tvg-language="English" group-title="News" tvg-id="TRTW" tvg-name="TRT World" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TRT_World_Logo_Shadow.png"group- title="News",TRT WORLD (Turkey)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
@@ -122,7 +125,7 @@ plugin://plugin.video.youtube/play/?video_id=sPgqEHsONK8
 #EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ABC_News_AU_Logo.png", ABC News (Youtube)
 plugin://plugin.video.youtube/play/?video_id=W1ilCy6XrmI 
 
-#EXTINF:-1 tvg-country="PL" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Poland_In_logo.png", Poland IN (Youtube)
+#EXTINF:-1 tvg-country="PL" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/tvp_world_logo.png",TVP Poland (Youtube)
 plugin://plugin.video.youtube/play/?video_id=muLv33Ca-qk
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk_Radio_Logo.png", Talk Radio (Youtube)
@@ -252,8 +255,3 @@ https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
 
- 	http://ott-cdn.ucom.am/s24/04.m3u8
-	
-	 	http://203.162.235.41:16917/
-		
-		http://84.22.33.214/bbc/tracks-v1a1/mono.m3u8
