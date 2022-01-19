@@ -84,7 +84,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Fox_News_Now_Logo.png" group-title="News", Fox Newsnow (US)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Newsy_logo.png" group-title="News", Newsy (Vizio)(US)
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Newsy_Logo_new.png" group-title="News", Newsy (Vizio)(US)
 https://newsy-newsy-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/News_Net_Logo.png" group-title="News", NewsNet (US)
