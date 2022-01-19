@@ -219,11 +219,8 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/skynewsextra3logo.jpg", Sky News 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/39/USAK3508713A20200730102745.png" ,WeatherNation (Samsung)
-https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/MSNBC_Logo.png" group-title="News",MSNBC
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/39/USAK3508713A20200730102745.png" ,WeatherNation (Vizi) (US)
+https://weathernation-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BlazeTV.us" tvg-name="Blaze TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HcRKP5P.jpg" group-title="Entertainment",Blaze TV (US)
 https://theblaze4.akamaized.net/hls/live/699982/theblaze/cm-dvr/master.m3u8
@@ -292,3 +289,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnewsy/CDN/playlist.m3u8?p=r
 
 #EXTINF:-1 tvg-id="dtv_EPGNewsy" tvg-name="Newsy" tvg-logo="https://a.jsrdn.com/hls/22850/newsy/logo_20210930_191910_68.png" group-title="News & Opinion",Newsy Distrotv
 https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/MSNBC_Logo.png" group-title="News",MSNBC beta
+http://1128480543.rsc.cdn77.org/SSw93b5OMLKyrgMR5MBY9w==,1642602915/1128480543/index.m3u8
