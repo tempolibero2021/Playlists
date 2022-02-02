@@ -66,7 +66,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Reuters_TV_Logo.png" group-title="News", Reuters NOW (US)
 https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="CBSNUS" tvg-language="English" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CBSN_Logo.png"group-title="News", CBS News (US) ((Samsung)
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="CBSNUS" tvg-language="English" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CBS_News_Logo.png"group-title="News", CBS News (US)(Samsung)
 https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live&imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com%2Flive&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/USAJ17000049P_20201028T004935.png" group-title="News", ABC News Live (US) (Samsung)
@@ -135,19 +135,19 @@ https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:1 tvg-country="ID" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/logo_beritasatu.png", BeritaSatu English (Indonesia)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
-#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-name="Timesnow India" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Times_Now_logo.png" group-title="News", Timesnow India
+#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-name="Timesnow India" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Times_Now_logo.png" group-title="News", Timesnow (India)
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 #EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/India_Today_TV_Logo.png" group-title="News", India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 
-#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-name="News X" tvg-language="English" tvg-country="IN" tvg-id="News X" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NewsX_India_Logo.png" group-title="News", News X India
+#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-name="News X" tvg-language="English" tvg-country="IN" tvg-id="News X" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NewsX_India_Logo.png" group-title="News", News X (India)
 https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 
-#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Mirror_Now_India_Logo.png" group-title="News", Mirror Now India 
+#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Mirror_Now_India_Logo.png" group-title="News", Mirror Now (India)
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 
-#EXTINF:-1 tvg-name="PTV Pakistan" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/PTV_World_logo.png"group- title="News", PTV Pakistan (YT)
+#EXTINF:-1 tvg-name="PTV Pakistan" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/PTV_World_logo.png"group- title="News", PTV World Pakistan (YT)
 plugin://plugin.video.youtube/play/?video_id=bRu24WTfhWw
 
 #EXTINF:-1 tvg-country="KR" tvg-language="English" tvg-name="Arirang World" tvg-id="ARITV"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/arirangworld.png" group-title="News", Arirang World
@@ -234,18 +234,13 @@ https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:1 tvg-country="US" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ET_Live_logo.jpg",Entertainment Tonight (English)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
-
-
-#EXTINF:1 ,fox test
-https://1028107998.rsc.cdn77.org/axzj3gFRAP0_7WT8QuSPHQ==,1642338627/ls-54548-2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-country="PL" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/tvp_world_logo.png",TVP Poland (Youtube - Not Working)
 plugin://plugin.video.youtube/play/?video_id=muLv33Ca-qk
 
 #EXTINF:-1 tvg-country="PL" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/tvp_world_logo.png",TVP Poland (Not working)
 https://rsdt-waw1201-5.tvp.pl/token/video/live/51656539/20211222/2059871413/6c38a569-942f-407f-850f-47c8938844a8/master.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Fox_News__logo.png", Fox News (US)
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Fox_News__logo.png", Fox News (US) (Not working)
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NBC_News_Now.png", NBC News Now test pluto (US)
@@ -284,5 +279,3 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnewsy/CDN/playlist.m3u8?p=r
 #EXTINF:-1 tvg-id="dtv_EPGNewsy" tvg-name="Newsy" tvg-logo="https://a.jsrdn.com/hls/22850/newsy/logo_20210930_191910_68.png" group-title="News & Opinion",Newsy Distrotv
 https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
 
-#EXTINF:-1 group-title="MNC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png",Fox News Channel test
-https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
