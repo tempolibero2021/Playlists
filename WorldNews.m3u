@@ -162,16 +162,19 @@ https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_Documentary_Logo_Transparent.png" group-title="News;Documentary",RT Documentary
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-country="CN" tvg-language="English" tvg-id="CGTNDOC" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Documentary_Logo.png" group-title="News;Documentary", CGTN (CCTV) Documentary
+#EXTINF:-1 tvg-country="CN" tvg-language="English" tvg-id="CGTNDOC" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Documentary_Logo.png" group-title="News;Documentary", CGTN (CCTV) Documentary (China)
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/InfoWars_Logo.png" group-title="News", Infowars 
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/InfoWars_Logo.png" group-title="News", Infowars (US)
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/InfoWars_Logo.png" group-title="News", Infowars Alex Jones (US)
 https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/InfoWars_Logo.png" group-title="News", Infowars The American Journal
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/The_American_Journal_Logo.png" group-title="News", Infowars The American Journal (US)
 https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/InfoWars_Logo.png" group-title="News", Infowars Owen Shroyer 
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/InfoWars_Logo.png" group-title="News", Infowars Owen Shroyer (US)
 https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/35/USAJ4300005PJ20200730102745.png" group-title="News" ,Yahoo! Finance
@@ -249,7 +252,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c87
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NBC_News_Now.png", NBC News Now test samsung (US)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8?ads.caid=NBCNewsNOW&ads.csid=samsungtvplus_us_nbcnewsnow_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.xumo_channelId=9999542&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1,NBC News Now (Roku)
+#EXTINF:-1  tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NBC_News_Now.png", NBC News Now (Roku)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5459795fc9f133a519bc0bef" tvg-chno="232" tvg-logo="https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="USA",Newsy Pluto
