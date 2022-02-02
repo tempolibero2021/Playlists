@@ -6,6 +6,9 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="News"tvg-id="tv.abc_news_90" tvg-logo="https://i.mjh.nz/.images/tv.abc_news_90.png",ABC News in 90 Seconds (Australia) 
 https://i.mjh.nz/au/Sydney/tv.abc_news_90
 
+#EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Australia_Channel_Logo.png", Australia Channel (Sky News Australia)
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaustralianewschannel/playlist.m3u8
+
 #EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/EarthTV_logo_transparent.png", EarthTV Classic Live (YT)
 plugin://plugin.video.youtube/play/?video_id=3qdEMXmwTkQ
 
@@ -183,11 +186,11 @@ https://yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/SamsungTVplus_BTVplus_UHD_190x190.png?raw=true" group-title="News",Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BLMUS" tvg-name="Bloomberg US" tvg-language="English" tvg-country="US" tvg-id="Bloomberg" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Bloomberg_Logo.png" group-title="News", Bloomberg US
-https://www.bloomberg.com/media-manifest/streams/us.m3u8
-
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/91/USAJ30000041W_20201208T081555.png" group-title="News" ,Bloomberg Quicktake (Samsung)
 https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BLMUS" tvg-name="Bloomberg US" tvg-language="English" tvg-country="US" tvg-id="Bloomberg" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Bloomberg_Logo.png" group-title="News", Bloomberg US
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Bloomberg_Logo.png" group-title="News", Asia Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
