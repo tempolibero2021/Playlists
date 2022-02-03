@@ -14,17 +14,7 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="" tvg-logo="" group-title="",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-country="US" tvg-language="" tvg-logo="" group-title="",One America News (vizio)
-https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-
-#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-
-#EXTINF:-1 tvg-name="FilmRise Forensic Files 24/7" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Crime",FilmRise Forensic Files 24/7 (roku duplicate?)
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
 
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://en.ifilmtv.ir/img/colorize-logo-final.png", Ifilm Iran (Not Working?)
@@ -79,43 +69,33 @@ https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="AmericasVoice.us" tvg-name="America's Voice" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="News", America's Voice (720p)
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 
-#EXTINF:-1 tvg-id="5331d5fb753499095a00045a" tvg-chno="246" tvg-logo="https://images.pluto.tv/channels/5331d5fb753499095a00045a/colorLogoPNG.png" group-title="USA;News + Opinion",TYT Network (Pluto)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USBA3000214220200730102745.png" ,TYT (Samsung)
-https://tyt-samsungus.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/66/USBA340000107_20210428T040252.png", BNC Go
 https://didoc69s3kqdd.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20201007T012259.png",Newsmax (Samsung)
-https://newsmax-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e7cf6c7b156d500078c5f44" tvg-chno="242" tvg-logo="https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" group-title="USA;News + Opinion",OAN Plus
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-country="US" tvg-language="" tvg-logo="" group-title="",One America News (vizio)
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5d486acc34ceb37d3c458a64" tvg-chno="244" tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="USA;News + Opinion",The First
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
-#EXTINF:-1,Now This
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY.us" tvg-name="HISTORY" tvg-country="US" tvg-language="English" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg" group-title="Documentary",HISTORY
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-#EXTINF:-1 tvg-id="CrimeTime.us" tvg-name="Crime Time" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQxKMMJ.jpg" group-title="Documentary",Crime Time (1080p)
-https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 ,TWiT Live
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 ,PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 ,Camera Smile TV Network
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastcamerasmile/playlist.m3u8
 
-
-
-
-
-
+#EXTINF:-1 , Mo Laughter
+https://rebroadcast.mytvtogo.net/mytvtogo/SciFiTV4u/playlist.m3u8
 
 
 
