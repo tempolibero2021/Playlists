@@ -138,14 +138,17 @@ https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:1 tvg-country="ID" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/logo_beritasatu.png", BeritaSatu English (Indonesia)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
-#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-name="Timesnow India" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Times_Now_logo.png" group-title="News", Timesnow (India)
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-
 #EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-id="NDTV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NDTV_24x7_Logo.png" group-title="News", NDTV 247 (India)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
-#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Wion_Logo.png" group-title="News", Wion News (India) (YT)
-plugin://plugin.video.youtube/play/?video_id=1gVvSfBxdEQ
+#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Wion_Logo.png" group-title="News", Wion News (India) 
+https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
+
+#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-id="DUMMYNoEpg" tvg-name="Republic World" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Republic_World_Logo.png" group-title="News", Republic World (India)
+https://dai.google.com/linear/hls/event/buVDRAFXSy-cIVXRd8XwZg/master.m3u8
+
+#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-name="Timesnow India" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Times_Now_logo.png" group-title="News", Timesnow (India)
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 #EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/India_Today_TV_Logo.png" group-title="News", India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
@@ -254,40 +257,4 @@ https://rsdt-waw1201-5.tvp.pl/token/video/live/51656539/20211222/2059871413/6c38
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Fox_News__logo.png", Fox News (US) (Not working)
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NBC_News_Now.png", NBC News Now test pluto (US)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvpl
-
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NBC_News_Now.png", NBC News Now test samsung (US)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8?ads.caid=NBCNewsNOW&ads.csid=samsungtvplus_us_nbcnewsnow_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.xumo_channelId=9999542&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-
-#EXTINF:-1  tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NBC_News_Now.png", NBC News Now (Roku)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5459795fc9f133a519bc0bef" tvg-chno="232" tvg-logo="https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="USA",Newsy Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="USAJ3400018M0" tvg-chno="1020" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/69/USAJ3400018M0_20211012T230717.png" group-title="USA",Newsy Samsung
-https://1775a4feddb54d49b6e03fa9254b613a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Newsy-1/playlist.m3u8?ads.wurl_channel=570&ads.wurl_name=Newsy&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/928b18c7c93a8dec9b47fb8aa1cbcfeb.png" group-title="USA",Newsy Plex
-https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8?ad=plex&ad.rdid=62274240-07e7-5d94-8dc8-ef68cf19e175&ad.is_lat=0&ad.msid=com.plexapp.android&ad.an=plex&ad.idtype=&expand=plex&ad.cust_params=bidders%3Dpublica%26ip%3D%5BInsert_IP%5D%26ua%3D%5BInsert_UA%5D%26plex_token%3DXgi4yp3btGryZZ5QF7b2%26plex_id%3D5fc705dda2236e002d69f211
-
-#EXTINF:-1 tvg-id="LocalNow_EPGNewsy" tvg-name="Newsy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60b9ae4c0e289e72fd6d6765" group-title="News",Newsy Localnow
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-
-#EXTINF:-1,Newsy Roku
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-
-#EXTINF:-1,Newsy Vizio
-https://newsy-newsy-1.vizio.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,Newsy Tubi
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8
-
-#EXTINF:-1,Newsy Redbox
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnewsy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-
-#EXTINF:-1 tvg-id="dtv_EPGNewsy" tvg-name="Newsy" tvg-logo="https://a.jsrdn.com/hls/22850/newsy/logo_20210930_191910_68.png" group-title="News & Opinion",Newsy Distrotv
-https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
 
