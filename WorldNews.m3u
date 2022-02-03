@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ABC_News_AU_Logo.png", ABC News (Australia)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
+#EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Ticker_News_Logo.png", Ticker News (Australia)
+https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live/playlist.m3u8
+
 #EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="News"tvg-id="tv.abc_news_90" tvg-logo="https://i.mjh.nz/.images/tv.abc_news_90.png",ABC News in 90 Seconds (Australia) 
 https://i.mjh.nz/au/Sydney/tv.abc_news_90
 
