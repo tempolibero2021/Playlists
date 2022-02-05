@@ -1,0 +1,126 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NBC_News_Now.png", NBC News Now test pluto (US)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvpl
+
+
+
+#EXTINF:-1 tvg-id="5459795fc9f133a519bc0bef" tvg-chno="232" tvg-logo="https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="USA",Newsy Pluto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="USAJ3400018M0" tvg-chno="1020" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/69/USAJ3400018M0_20211012T230717.png" group-title="USA",Newsy Samsung
+https://1775a4feddb54d49b6e03fa9254b613a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Newsy-1/playlist.m3u8?ads.wurl_channel=570&ads.wurl_name=Newsy&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/928b18c7c93a8dec9b47fb8aa1cbcfeb.png" group-title="USA",Newsy Plex
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8?ad=plex&ad.rdid=62274240-07e7-5d94-8dc8-ef68cf19e175&ad.is_lat=0&ad.msid=com.plexapp.android&ad.an=plex&ad.idtype=&expand=plex&ad.cust_params=bidders%3Dpublica%26ip%3D%5BInsert_IP%5D%26ua%3D%5BInsert_UA%5D%26plex_token%3DXgi4yp3btGryZZ5QF7b2%26plex_id%3D5fc705dda2236e002d69f211
+
+#EXTINF:-1 tvg-id="LocalNow_EPGNewsy" tvg-name="Newsy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60b9ae4c0e289e72fd6d6765" group-title="News",Newsy Localnow
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
+#EXTINF:-1,Newsy Roku
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+
+#EXTINF:-1,Newsy Vizio
+https://newsy-newsy-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,Newsy Tubi
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8
+
+#EXTINF:-1,Newsy Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnewsy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-id="dtv_EPGNewsy" tvg-name="Newsy" tvg-logo="https://a.jsrdn.com/hls/22850/newsy/logo_20210930_191910_68.png" group-title="News & Opinion",Newsy Distrotv
+https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
+
+#EXTINF:-1 tvg-id="F24" tvg-name="France 24 English" tvg-logo="https://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" group-title="News",France 24 English 
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1, group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png", Euronews 
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+#EXTINF:-1, CNA alter
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1, Euronews alt
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1, Euronews alt 2
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+#EXTINF:-1, ausbiz
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+
+cnn int
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+cnn us 
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="GRAVITASMOVIESSTIRR.us" tvg-name="GRAVITAS MOVIES (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81IDRdRJYyL.png" tvg-url="" group-title="Movies",GRAVITAS MOVIES (STIRR)
+https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/252px-Film4_logo_2018.svg.png", BritCom
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+
+#EXTINF:-1 tvg-id="DWTV" tvg-name="DW_News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DWTV.png" group-title="News", DW-TV
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1, group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png", Euronews 
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+#EXTINF:-1 tvg-id="F24" tvg-name="France 24 English" tvg-logo="https://1.bp.blogspot.com/-60KzQJBiFoc/T-8wyoOhwrI/AAAAAAAAA9g/sL_xVUdOXHs/s320/france24_tv_english_live.jpg" group-title="News",France 24 English 
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+
+#EXTINF:-1 ,PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+
+
+
+
+bbc
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC 
+http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+
+#EXTINF:-1, CBC News Highlights
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+
+
+#EXTINF:-1, CCTV+
+http://cd-live-stream.news.cctvplus.com/live/CHANNEL1_360p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USBB1900002KF_20210525T051433.png" ,Real America's Voice
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
+
+#EXTINF:-1 tvg-id="AmericasVoice.us" tvg-name="America's Voice" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="News", America's Voice (720p)
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/66/USBA340000107_20210428T040252.png", BNC Go
+https://didoc69s3kqdd.cloudfront.net/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-country="US" tvg-language="" tvg-logo="" group-title="",One America News (vizio)
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
