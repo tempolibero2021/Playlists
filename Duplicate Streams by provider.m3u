@@ -540,7 +540,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8?p=r
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 Plex
-
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" tvg-id="5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5a7e54ee888681046719d306357620b4.png" group-title="USA",AccuWeather NOW
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=WFzLWfMBGzAfrQY9emji&channelId=6151d74593dbf246f0843f01
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af" tvg-id="5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cheddarnews_logo_dark.png" group-title="USA",Cheddar News

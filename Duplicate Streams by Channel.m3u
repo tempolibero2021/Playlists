@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NBC_News_Now.png", NBC News Now test pluto (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvpl
 
-
+Newsy
 
 #EXTINF:-1 tvg-id="5459795fc9f133a519bc0bef" tvg-chno="232" tvg-logo="https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="USA",Newsy Pluto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -39,6 +39,12 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1, group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png", Euronews 
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
+
+
+
+
+
+
 #EXTINF:-1, CNA alter
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1, Euronews alt
@@ -52,7 +58,7 @@ https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, ausbiz
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
-cnn int
+CNN International
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
@@ -60,14 +66,26 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-cnn us 
+#EXTINF:-1,CNN (Vizio)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1,CNN International (EU) (Rakuten)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DEBA33000243Z" tvg-chno="4008" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/21/DEBA33000243Z_20210113T004300.png" group-title="Germany",CNN (Samsung)
+https://315f9c42eaf242e99c5a1007999d2d8e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_CNN/playlist.m3u8?ads.wurl_channel=662&ads.wurl_name=CNN&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="CHBA1000008ZN" tvg-chno="4008" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/41/CHBA1000008ZN_20220112T014206.png" group-title="Switzerland",CNN (Samsung)
+https://994099ce85d941afa3ea3e737ac227d0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ch_CNN/playlist.m3u8?ads.wurl_channel=662&ads.wurl_name=CNN&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+CNN USA 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_Logo.png" group-title="News",CNN (US)(Not working)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="5421f71da6af422839419cb3" tvg-chno="209" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="USA",CNN (Pluto)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
@@ -115,12 +133,52 @@ https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/66/USBA340000107_20210428T040252.png", BNC Go
 https://didoc69s3kqdd.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+Oan One America News
+
+#EXTINF:-1 tvg-id="KlowdTV_EPGOAN Plus" tvg-name="OAN Plus" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/oanencore/logo_small.png" group-title="KlowdTV",OAN Plus
+https://67bf68ca230b4e82bd5ac42d46449483.mediatailor.us-west-2.amazonaws.com/v1/master/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_OAN_Plus/fast/OAN_Encore/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OneAmericaNews.us" tvg-name="One America News" tvg-country="US" tvg-language="" tvg-logo="" group-title="",One America News (vizio)
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGOAN_Plus" tvg-name="OAN Plus" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/misc/vod/oan-plus-vod.png" group-title="Airy.tv",OAN Plus
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 
-#EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 tvg-id="DUMMYoanplus" tvg-name="OAN Plus" tvg-logo="https://a.jsrdn.com/hls/22866/oan-encore/logo_20210112_225329_70.png" group-title="News & Opinion",OAN Plus (DistroTV)
+https://dai.google.com/linear/hls/event/k2Xnhxd-RKWhEPwnsyWhdw/master.m3u8
+
+#EXTINF:-1 tvg-id="LocalNow_EPGOAN Plus" tvg-name="OAN Plus" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/609b10d9015c487be1361935" group-title="News",OAN Plus (Localnow)
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+
+#EXTINF:-1,Oan (LG TV)
+https://oan-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,OAN Plus (Vizio)
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,OAN - (TCL)
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e7cf6c7b156d500078c5f44" tvg-chno="242" tvg-logo="https://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" group-title="USA",OAN Plus (Pluto)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+The First
+
+#EXTINF:-1 tvg-id="KlowdTV_EPGThe First" tvg-name="The First" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/thefirst/logo_small.png" group-title="KlowdTV",The First (KlowdTV)
+https://redseat-thefirst-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-redseat-thefirst-klowdtv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DUMMYthefirst" tvg-name="The First" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22803/the-first/logo_20200226_002705.png" group-title="News & Opinion",The First (DistroTV)
+https://dai.google.com/linear/hls/event/7u1U-TSrQI6g6V_Ul1kQvA/master.m3u8
+
+
+
+
+
+
+

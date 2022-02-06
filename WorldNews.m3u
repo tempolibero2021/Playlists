@@ -100,7 +100,7 @@ https://newsnetnational.akamaized.net/hls/live/2031673/newsnetnational_OUT/maste
 https://live.chdrstatic.com/cbn/primary/5.m3u8?
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CBN_News_logo.png" group-title="News", CBN News (US)
-https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/VOA_Logo.png" group-title="News", VOA News (US)
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
@@ -114,6 +114,9 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 tvg-country="CA" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CBC_News_Logo.png" group-title="News", CBC News (Canada)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-country="IL" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/i24NEWS_Updates_logo.png" group-title="News",i24NEWS Updates (Israel) (Plex)
+https://d3kl0e87lk5c6c.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FuelTV-Plex/baeacf0d-fca2-4578-bc6b-083e78622b19.m3u8?adMethod=3&sessionId=i24Plex&ads.plex_token=WFzLWfMBGzAfrQY9emji&ads.channel_id=61e9af453508a50f84213dd6&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.app_domain=app.plex.tv&ads.channel_name=i24News&ads.gdpr=0&ads.us_privacy=1---&ads.consent=0
+
 #EXTINF:-1 tvg-country="NG" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TVC_News_Nigeria_Logo.png" group-title="News", TVC News (Nigeria) (YT)
 plugin://plugin.video.youtube/play/?video_id=80C00djc-gc
 
@@ -122,9 +125,6 @@ plugin://plugin.video.youtube/play/?video_id=dfB0qmJo1eM
 
 #EXTINF:-1 tvg-country="NG" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Channels_TV_Nigeria_Logo.png" group-title="News", Channels Business Global (Nigeria) (YT)
 plugin://plugin.video.youtube/play/?video_id=dfB0qmJo1eM
-
-#EXTINF:-1 tvg-country="PH" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_Philippines_Logo.png" group-title="News", CNN Philippines
-https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
 #EXTINF:1 tvg-country="ID" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/logo_beritasatu.png", BeritaSatu English (Indonesia)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
@@ -251,6 +251,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/HLN_Logo.png" group-title="News", HLN (US)(Not working)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-country="PH" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_Philippines_Logo.png" group-title="News", CNN Philippines ((Not working)_
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/EarthTV_logo_transparent.png", EarthTV Classic Live (YT)
 plugin://plugin.video.youtube/play/?video_id=3qdEMXmwTkQ
