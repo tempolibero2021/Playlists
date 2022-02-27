@@ -25,7 +25,7 @@ http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 http://84.22.33.214/bbc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="World News" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_News_logo.png",BBC News UK
-https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Sky_News_Logo.png", Sky News (UK)
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
@@ -255,16 +255,16 @@ https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="USBA3700002JF" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/ET_Live_logo.jpg",Entertainment Tonight ET (English)
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
-#EXTINF:-1 tvg-country="PL" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/tvp_world_logo.png",TVP Poland (Youtube - Not Working)
-plugin://plugin.video.youtube/play/?video_id=muLv33Ca-qk
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="World News" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_News_logo.png",BBC News UK SD
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-country="PL" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/tvp_world_logo.png",TVP Poland (Not working)
-https://rsdt-waw1201-5.tvp.pl/token/video/live/51656539/20211222/2059871413/6c38a569-942f-407f-850f-47c8938844a8/master.m3u8
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="World News" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_News_logo.png",BBC News UK Full HD
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_Logo.png" group-title="News",CNN (US)(Not working)
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="CNN.us" tvg-name="CNN" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_Logo.png" group-title="News",CNN (US)(intermittent)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/HLN_Logo.png" group-title="News", HLN (US)(Not working)
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/HLN_Logo.png" group-title="News", HLN (US)(intermittent)
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-country="EU" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/EarthTV_logo_transparent.png", EarthTV Classic Live (YT)
