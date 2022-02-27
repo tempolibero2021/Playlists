@@ -15,7 +15,7 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaustralianewschannel/playli
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="GBBA33000299M" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_International_Logo.png", CNN International (US)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_International_Logo.png", CNN USA (US)
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_Logo.png", CNN USA (US)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Fox_News__logo.png", Fox News (US)
@@ -24,7 +24,7 @@ http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="World News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC World News (UK)
 http://84.22.33.214/bbc/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="World News" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC News UK
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="World News" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_News_logo.png",BBC News UK
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Sky_News_Logo.png", Sky News (UK)
@@ -242,9 +242,6 @@ https://weathernation-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="5e46fba0c43b0d00096e5ac1" tvg-name="Blaze TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HcRKP5P.jpg" group-title="News" ,Blaze TV (US)
 https://theblaze4.akamaized.net/hls/live/699982/theblaze/cm-dvr/master.m3u8
-
-#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_News_logo.png", BBC News (UK) (Not Working)
-http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USBA340000107" group-title="News" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/66/USBA340000107_20210428T040252.png" ,BNC Go - Black News Network (US)
 https://didoc69s3kqdd.cloudfront.net/playlist.m3u8
