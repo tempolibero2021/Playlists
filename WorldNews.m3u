@@ -15,20 +15,23 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaustralianewschannel/playli
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-id="GBBA33000299M" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_International_Logo.png", CNN International (US)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_International_Logo.png", CNN USA (US)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="News" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Fox_News__logo.png", Fox News (US)
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 
-#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC World News (UK)
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="World News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC World News (UK)
 http://84.22.33.214/bbc/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="World News" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC News UK
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 
 #EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Sky_News_Logo.png", Sky News (UK)
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
 #EXTINF:-1 tvg-country="QA" tvg-language="English" tvg-id="tv.46" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera (Qatar)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="Russia Today" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today
-https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-country="FR" tvg-language="English" tvg-id="KlowdTV_EPGFrance24" tvg-name="France24" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/France_24_logo.png" group-title="News",France 24 English 
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
@@ -47,6 +50,18 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-country="IR" tvg-language="English" tvg-id="PRESS" tvg-name="Press TV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/presstv.png" group-title="News", Press TV (Iran)
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USBA370000104" tvg-language="English" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CBS_News_Logo.png"group-title="News", CBS News(US) (Samsung)
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live&imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com%2Flive&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USAJ17000049P" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/USAJ17000049P_20201028T004935.png" group-title="News", ABC News Live (US) (Samsung)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USBB2200014DK" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NBC_News_Now.png" group-title="News", NBC News Now (US)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8?ads.caid=NBCNewsNOW&ads.csid=samsungtvplus_us_nbcnewsnow_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.xumo_channelId=9999542&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
+#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="Russia Today" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-country="CN" tvg-language="English" tvg-id="CGTN" tvg-name="CGTN News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News", CGTN (CCTV) English (China)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
@@ -75,23 +90,20 @@ https://newsuk-talkradiotv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/GBN_Logo.png" group-title="News", GB News (UK)
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USBA370000104" tvg-language="English" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CBS_News_Logo.png"group-title="News", CBS News(US) (Samsung)
-https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live&imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com%2Flive&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1
-
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USAJ17000049P" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/USAJ17000049P_20201028T004935.png" group-title="News", ABC News Live (US) (Samsung)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusabcnews/CDN/playlist.m3u8
-
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/PBS_World_Logo.png" group-title="News", PBS World News (US)
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
-
-#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USBB2200014DK" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NBC_News_Now.png" group-title="News", NBC News Now (US)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8?ads.caid=NBCNewsNOW&ads.csid=samsungtvplus_us_nbcnewsnow_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.xumo_channelId=9999542&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USBA300028QU" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Newsmax_Logo.png" group-title="News", Newsmax (US)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USBA300024TN" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Fox_News_Now_Logo.png" group-title="News", Fox Newsnow (US)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USBB32000103E" tvg-chno="1009" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/75/USBB32000103E_20220223T042131.png" group-title="News",CNN Replay
+https://doq6y2m748j16.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CNN-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USAJ3400011A8" tvg-chno="1015" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/USAJ3400011A820200730102745.png" group-title="USA",Bloomberg TV+ UHD
+https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USAJ3400018M0" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Newsy_Logo_new.png" group-title="News", Newsy (Redbox)(US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnewsy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
@@ -101,6 +113,9 @@ https://newsnetnational.akamaized.net/hls/live/2031673/newsnetnational_OUT/maste
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USAJ3504714A" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Cheddar_News_Logo.png" group-title="News", Cheddar News (US)
 https://live.chdrstatic.com/cbn/primary/5.m3u8?
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="5268abcd0ce20a8472000114" tvg-chno="202" tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="News", Pluto TV News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5268abcd0ce20a8472000114/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CBN_News_logo.png" group-title="News", CBN News (US)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
