@@ -172,13 +172,13 @@ plugin://plugin.video.youtube/play/?video_id=EpOTAk5QzaE
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT America" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_America_Logo.png" group-title="News", Russia Today America
-https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8
+https://rt-glb.rttv.com/live/rtusa/playlist.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT UK" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_UK_Logo.png" group-title="News", Russia Today UK
-https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
+https://rt-glb.rttv.com/live/rtuk/playlist.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_Documentary_Logo_Transparent.png" group-title="News;Documentary",RT Documentary
-https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+https://rt-glb.rttv.com/live/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-country="CN" tvg-language="English" tvg-id="CGTNDOC" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Documentary_Logo.png" group-title="News;Documentary", CGTN (CCTV) Documentary (China)
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -275,3 +275,6 @@ plugin://plugin.video.youtube/play/?video_id=4t96znzCcMQ
 
 #EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z5SATrd.png" group-title="News",Fox News Radio (720p)
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsRadio.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z5SATrd.png" group-title="News", CNBC?
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-2/Source-USTV-10000-1-slxdlg-BP-HD-4-86X4McEAF4SL_live.m3u8

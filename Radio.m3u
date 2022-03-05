@@ -1,43 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2GB_Logo.png", 2GB Sydney
+#EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2GB_Logo.png", 2GB Sydney
 http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2SM_Logo.png", 2SM Sydney
+#EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/2SM_Logo.png", 2SM Sydney
 http://144.140.228.109:8220/mp3
 
-#EXTINF:-1 group-title="Talk" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png", Sky News Australia
+#EXTINF:-1 tvg-country="AU" tvg-language="English" group-title="Talk;News" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png", Sky News Australia
 https://ais-arn.streamguys1.com/au_033/playlist.m3u8
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" radio="true" group-title="News" tvg-id="GBBA33000299M" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_International_Logo.png", CNN International Audio(US) 
+https://tunein.streamguys1.com/CNNi.m3u
 
 #EXTINF:-1 group-title="News" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png",  Al Jazeera (Qatar)
 https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk_Radio_Logo.png", Talk Radio UK
+#EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="GBBB1000002VQ" group-title="Talk" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Talk_Radio_Logo.png", Talk Radio UK
 http://radio.talkradio.co.uk/stream?ref=rf
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/LBC_London_Radio_Logo.png", LBC London
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/LBC_London_Radio_Logo.png", LBC London
 https://media-sov.musicradio.com/LBCLondon
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/LBC_News__logo.png", LBC News
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="News" radio="true" tvg-country="UK" tvg-language="English" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/LBC_News__logo.png", LBC News
 https://media-sov.musicradio.com/LBC1152
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_Radio_London_logo.png", BBC Radio London
+#EXTINF:-1 tvg-country="UK" tvg-language="English" group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_Radio_London_logo.png", BBC Radio London
 http://stream.live.vc.bbcmedia.co.uk/bbc_london
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_Service_Logo.png", BBC World Service
+#EXTINF:-1 tvg-country="UK" tvg-language="English"group-title="News" radio="true" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_Service_Logo.png", BBC World Service
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
-#EXTINF:-1 group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png", Russia Today
-https://rt-glb.gcdn.co/live/rtnews/playlist_64Kb.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="English" group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png", Russia Today (Russia)
+https://rt-glb.rttv.com/live/rtnews/playlist_64Kb.m3u8
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-country="RU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Radio_Sputnik_Logo.png", Radio Sputnik Russia
+#EXTINF:-1 tvg-country="RU" tvg-language="English" group-title="Talk" radio="true" tvg-country="RU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Radio_Sputnik_Logo.png", Radio Sputnik (Russia)
 http://audio2.video.ria.ru/voiceeng
 
 #EXTINF:-1 group-title="Talk;News" radio="true" tvg-country="DE" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png", DW Radio
 http://dw.audiostream.io/dw/1002/mp3/64/dw-radio-english
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/VOA_Logo.png", VOA English
-https://voavaudio-i.akamaihd.net/hls/live/826546/VOAV_MC1_MRG/master.m3u8
+https://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
+	
+#EXTINF:-1 tvg-country="US" tvg-language="English" radio="true" group-title="News"  tvg-logo="https://iscale.iheart.com/catalog/live/6043", NBC Newsradio(US) 
+http://stream.revma.ihrhls.com/zc6043
 
 #EXTINF:-1 group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/WRN_Radio_logo.png", WRN World Radio Network English
 http://shoutcast.wrn.org:8025/NAMAAP
