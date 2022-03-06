@@ -39,11 +39,14 @@ http://audio2.video.ria.ru/voiceeng
 #EXTINF:-1 group-title="Talk;News" radio="true" tvg-country="DE" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png", DW Radio
 http://dw.audiostream.io/dw/1002/mp3/64/dw-radio-english
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/VOA_Logo.png", VOA English
+#EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Talk" radio="true" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/VOA_Logo.png", VOA English
 https://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
 	
 #EXTINF:-1 tvg-country="US" tvg-language="English" radio="true" group-title="News"  tvg-logo="https://iscale.iheart.com/catalog/live/6043", NBC Newsradio(US) 
 http://stream.revma.ihrhls.com/zc6043
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" radio="true" group-title="News"  tvg-logo="https://www.ap.org/assets/images/framework/apple-touch-icon.png", AP Radio News
+http://apnews.streamguys1.com/apnews
 
 #EXTINF:-1 group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/WRN_Radio_logo.png", WRN World Radio Network English
 http://shoutcast.wrn.org:8025/NAMAAP
@@ -81,6 +84,9 @@ http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_Radio_Manchester_logo.png", BBC Radio Manchester
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_manchester
+
+#EXTINF:-1 group-title="Talk" radio="true" tvg-country="UK" tvg-language="English" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png", BBC Radio 4
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
  
 #EXTINF:-1 group-title="Talk" radio="true" tvg-country="ZA" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/702_Talk_Radio_South_Africa_logo.png", 702 Talk Radio South Africa
 http://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC.mp3
@@ -136,7 +142,7 @@ http://abcradiolivehls-lh.akamaihd.net/i/raasia_1@327298/master.m3u8
 #EXTINF:-1 group-title="Jazz" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/abcjazz_logo.jpg", ABC Jazz
 http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 
-#EXTINF:-1 group-title="Talk" radio="true" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png", CNA 938 Live Singapore
+#EXTINF:-1  tvg-country="SG" tvg-language="English" group-title="Talk;News" radio="true" tvg-country="DE" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNA938_Logo.jpg", CNA 938 Live Singapore
 http://19183.live.streamtheworld.com:3690/938NOW_PREM_SC
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-logo="http://www.allzicradio.com/media/radios/logo_euronews_radio_600x600px4.jpg", WVTF 89.1 FM Roanoke VA
