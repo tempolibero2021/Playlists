@@ -28,7 +28,6 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-country="FR" tvg-language="English" tvg-id="KlowdTV_EPGFrance24" tvg-name="France24" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/France_24_logo.png" group-title="News",France 24 English 
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-country="DE" tvg-language="English" tvg-id="DWTV" tvg-name="DW News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News", DW News (Germany)
@@ -131,16 +130,19 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-country="IL" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/i24NEWS_Updates_logo.png" group-title="News",i24NEWS Updates (Israel) (Plex)
-https://d3kl0e87lk5c6c.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FuelTV-Plex/baeacf0d-fca2-4578-bc6b-083e78622b19.m3u8?adMethod=3&sessionId=i24Plex&ads.plex_token=WFzLWfMBGzAfrQY9emji&ads.channel_id=61e9af453508a50f84213dd6&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.app_domain=app.plex.tv&ads.channel_name=i24News&ads.gdpr=0&ads.us_privacy=1---&ads.consent=0
+https://bcsecurelivehls-i.akamaihd.net/hls/live/1008862/207397166001/master.m3u8
 
 #EXTINF:-1 tvg-country="NG" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/TVC_News_Nigeria_Logo.png" group-title="News", TVC News (Nigeria) (YT)
-plugin://plugin.video.youtube/play/?video_id=5nwuuek1zOY
+plugin://plugin.video.youtube/play/?video_id=0CPt2_thJUQ
 
 #EXTINF:-1 tvg-country="NG" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Channels_TV_Nigeria_Logo.png" group-title="News", Channels News (Nigeria) (YT)
 plugin://plugin.video.youtube/play/?video_id=dfB0qmJo1eM
 
 #EXTINF:-1 tvg-country="NG" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Channels_TV_Nigeria_Logo.png" group-title="News", Channels Business Global (Nigeria) (YT)
 plugin://plugin.video.youtube/play/?video_id=dfB0qmJo1eM
+
+#EXTINF:-1 tvg-country="SL" tvg-language="English" tvg-logo="" group-title="News", AYV News TV (Sierra Leone)
+http://1219373429.rsc.cdn77.org/live/stream-1/playlist.m3u8
 
 #EXTINF:-1 tvg-country="PH" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_Philippines_Logo.png" group-title="News", CNN Philippines 
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
@@ -151,7 +153,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-id="NDTV" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NDTV_24x7_Logo.png" group-title="News", NDTV 247 (India)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
-#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-id="DUMMYNoEpg" tvg-name="Republic World" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Republic_World_Logo.png" group-title="News", Republic World (India) (YT)
+#EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-id="DUMMYNoEpg" tvg-name="Republic World" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Republic_World_Logo.png" group-title="News", Republic World (India)
 https://dai.google.com/linear/hls/event/buVDRAFXSy-cIVXRd8XwZg/master.m3u8
 
 #EXTINF:-1 tvg-country="IN" tvg-language="English" tvg-name="Timesnow India" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Times_Now_logo.png" group-title="News", Timesnow (India)
