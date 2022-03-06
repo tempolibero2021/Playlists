@@ -30,7 +30,7 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_london
 #EXTINF:-1 tvg-country="UK" tvg-language="English"group-title="News" radio="true" tvg-country="UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_Service_Logo.png", BBC World Service
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
-#EXTINF:-1 tvg-country="RU" tvg-language="English" group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png", Russia Today (Russia)
+#EXTINF:-1 tvg-country="RU" tvg-language="English" group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png", Russia Today (Russia) *Russian Propoganda
 https://rt-glb.rttv.com/live/rtnews/playlist_64Kb.m3u8
 
 #EXTINF:-1 tvg-country="RU" tvg-language="English" group-title="Talk" radio="true" tvg-country="RU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Radio_Sputnik_Logo.png", Radio Sputnik (Russia)

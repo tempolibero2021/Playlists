@@ -29,6 +29,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-country="FR" tvg-language="English" tvg-id="KlowdTV_EPGFrance24" tvg-name="France24" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/France_24_logo.png" group-title="News",France 24 English 
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-country="DE" tvg-language="English" tvg-id="DWTV" tvg-name="DW News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png" group-title="News", DW News (Germany)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -54,7 +55,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-id="USBB2200014DK" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NBC_News_Now.png" group-title="News", NBC News Now (US)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8?ads.caid=NBCNewsNOW&ads.csid=samsungtvplus_us_nbcnewsnow_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.xumo_channelId=9999542&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="Russia Today" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today
+#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="Russia Today" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today *State Funded Russian Propoganda
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-country="CN" tvg-language="English" tvg-id="CGTN" tvg-name="CGTN News" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News", CGTN (CCTV) English (China)
@@ -171,13 +172,13 @@ plugin://plugin.video.youtube/play/?video_id=EpOTAk5QzaE
 #EXTINF:-1 tvg-country="KR" tvg-language="English" tvg-name="Arirang World" tvg-id="ARITV"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/arirangworld.png" group-title="News", Arirang World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT America" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_America_Logo.png" group-title="News", Russia Today America
+#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT America" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_America_Logo.png" group-title="News", Russia Today America *State Funded Russian Propoganda
 https://rt-glb.rttv.com/live/rtusa/playlist.m3u8
 
-#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT UK" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_UK_Logo.png" group-title="News", Russia Today UK
+#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT UK" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_UK_Logo.png" group-title="News", Russia Today UK *State Funded Russian Propoganda
 https://rt-glb.rttv.com/live/rtuk/playlist.m3u8
 
-#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_Documentary_Logo_Transparent.png" group-title="News;Documentary",RT Documentary
+#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_Documentary_Logo_Transparent.png" group-title="News;Documentary",RT Documentary *State Funded Russian Propoganda
 https://rt-glb.rttv.com/live/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-country="CN" tvg-language="English" tvg-id="CGTNDOC" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Documentary_Logo.png" group-title="News;Documentary", CGTN (CCTV) Documentary (China)
