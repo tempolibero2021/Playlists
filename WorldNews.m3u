@@ -174,9 +174,6 @@ plugin://plugin.video.youtube/play/?video_id=EpOTAk5QzaE
 #EXTINF:-1 tvg-country="KR" tvg-language="English" tvg-name="Arirang World" tvg-id="ARITV"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/arirangworld.png" group-title="News", Arirang World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT America" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_America_Logo.png" group-title="News", Russia Today America *State Funded Russian Propoganda
-https://rt-glb.rttv.com/live/rtusa/playlist.m3u8
-
 #EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT UK" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_UK_Logo.png" group-title="News", Russia Today UK *State Funded Russian Propoganda
 https://rt-glb.rttv.com/live/rtuk/playlist.m3u8
 
