@@ -42,11 +42,17 @@ http://playoutonestreaming.com:8008/stream?DIST=TuneIn&TGT=TuneIn&maxServers=2&p
 #EXTINF:-1 tvg-country="RU" tvg-language="English" group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png", Russia Today (Russia) *Russian Propoganda
 https://rt-glb.rttv.com/live/rtnews/playlist_64Kb.m3u8
 
-#EXTINF:-1 tvg-country="RU" tvg-language="English" group-title="Talk" radio="true" tvg-country="RU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Radio_Sputnik_Logo.png", Radio Sputnik (Russia)
+#EXTINF:-1 tvg-country="RU" tvg-language="English" group-title="Talk" radio="true" tvg-country="RU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Radio_Sputnik_Logo.png", Radio Sputnik (Russia) *Russian Propoganda
 http://audio2.video.ria.ru/voiceeng
 
 #EXTINF:-1 group-title="Talk;News" radio="true" tvg-country="DE" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png", DW Radio
 http://dw.audiostream.io/dw/1002/mp3/64/dw-radio-english
+
+#EXTINF:-1  tvg-country="UK" tvg-language="English" group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/WRN_Radio_logo.png", WRN World Radio Network English (UK)
+https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
+
+#EXTINF:-1  tvg-country="PL" tvg-language="English" group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Radio_Poland_Logo.png", Radio Poland
+http://shoutcast.wrn.org:8025/NAMAAP
 
 #EXTINF:-1 tvg-country="US" tvg-language="English" group-title="Talk" radio="true" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/VOA_Logo.png", VOA English
 https://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
@@ -57,8 +63,11 @@ http://stream.revma.ihrhls.com/zc6043
 #EXTINF:-1 tvg-country="US" tvg-language="English" radio="true" group-title="News"  tvg-logo="https://www.ap.org/assets/images/framework/apple-touch-icon.png", AP Radio News
 http://apnews.streamguys1.com/apnews
 
-#EXTINF:-1 group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/WRN_Radio_logo.png", WRN World Radio Network English
-http://shoutcast.wrn.org:8025/NAMAAP
+#EXTINF:-1 tvg-country="US" tvg-language="English" radio="true" group-title="News"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NPR_Logo.png", NPR 24 Hour Program Stream (US)
+http://npr-ice.streamguys1.com/live.aac.m3u
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" radio="true" group-title="News"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Cheddar_News_Logo.png", Cheddar News (US)
+http://cheddar.streamguys1.com/live-aac
 
 #EXTINF:-1 tvg-country="IL" tvg-language="English" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/i24NEWS_Updates_logo.png" group-title="News",i24NEWS Updates (Israel)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1008862/207397166001/master_radio.m3u8
