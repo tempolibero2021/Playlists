@@ -69,8 +69,14 @@ http://npr-ice.streamguys1.com/live.aac.m3u
 #EXTINF:-1 tvg-country="US" tvg-language="English" radio="true" group-title="News"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Cheddar_News_Logo.png", Cheddar News (US)
 http://cheddar.streamguys1.com/live-aac
 
+#EXTINF:-1 tvg-country="US" tvg-language="English" radio="true" group-title="News"  tvg-logo="http://www.flascience.org/wp/wp-content/uploads/2017/05/wnyc_square_logo.png", WNYC-FM 93.9 New York Public Radio (US)
+http://fm939.wnyc.org/wnycfm
+
 #EXTINF:-1 tvg-country="IL" tvg-language="English" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/i24NEWS_Updates_logo.png" group-title="News",i24NEWS Updates (Israel)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1008862/207397166001/master_radio.m3u8
+
+#EXTINF:-1 tvg-country="IL" tvg-language="English" radio="true" tvg-logo="https://israelnewstalkradio.com/wp-content/uploads/2016/02/fox_intr_badge-smaller_red.png" group-title="News",Israel News Talk Radio (Israel)
+https://dfw.audio-stream.com/proxy/israelne?mp=/live_live
 
 #EXTINF:-1 tvg-country="IE" tvg-language="English" radio="true" group-title="News"  tvg-logo="https://www.liveradio.ie/files/images/112816/resized/140x134c/newstalk.jpg", Newstalk (Ireland) 
 http://176.124.246.11/nt

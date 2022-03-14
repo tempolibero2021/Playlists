@@ -9,26 +9,35 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-country="QA" tvg-language="Arabic" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Al-jazeera-logo.png" group-title="News", Al Jazeera Mubasher (Arabic) (Qatar)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
-#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today (English)
-https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="French" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today French
-https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="Español"  tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today Español
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-country="RU" tvg-language="Arabic" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today Arabic
-https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today (English) *State Funded Biased Propoganda
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="French" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today (French) *State Funded Biased Propoganda
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="Español"  tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today (Español) *State Funded Biased Propoganda
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="Arabic" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today (Arabic) *State Funded Biased Propoganda
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="German" tvg-id="RT" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png" group-title="News", Russia Today (German)*State Funded Biased Propoganda
+https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-name="RT UK" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_UK_Logo.png" group-title="News", Russia Today UK *State Funded Biased Propoganda
+https://rt-glb.rttv.com/live/rtuk/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_Documentary_Logo_Transparent.png" group-title="News;Documentary",RT Documentary *State Funded Biased Propoganda
+https://rt-glb.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/RT_Documentary_Logo_Transparent.png" group-title="News",RT Russia Today (Alternate) *State Funded Biased Propoganda
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 
-
-#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-country="CN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News",CGTN Arabic (China)
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-country="CN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News",CGTN Arabic (China) *State Funded Biased Propoganda
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-#EXTINF:-1 tvg-id="CGTNEnglish.cn" tvg-name="CGTN English" tvg-country="CN" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News",CGTN English (China)
+#EXTINF:-1 tvg-id="CGTNEnglish.cn" tvg-name="CGTN English" tvg-country="CN" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News",CGTN English (China) *State Funded Biased Propoganda
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
-#EXTINF:-1 tvg-id="CGTNEspanol.cn" tvg-name="CGTN Español" tvg-country="CN" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png"group-title="News",CGTN Español (China)
+#EXTINF:-1 tvg-id="CGTNEspanol.cn" tvg-name="CGTN Español" tvg-country="CN" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png"group-title="News",CGTN Español (China) *State Funded Biased Propoganda
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-country="CN" tvg-language="French" group-title="News" tvg-id="CGTN" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News", CGTN (CCTV) French (China)
+#EXTINF:-1 tvg-country="CN" tvg-language="French" group-title="News" tvg-id="CGTN" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News", CGTN (CCTV) French (China) *State Funded Biased Propoganda
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-country="CN" tvg-language="Russian" group-title="News" tvg-id="CGTN" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News", CGTN (CCTV) Russian (China)
+#EXTINF:-1 tvg-country="CN" tvg-language="Russian" group-title="News" tvg-id="CGTN" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News", CGTN (CCTV) Russian (China) *State Funded Biased Propoganda
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 tvg-id="CGTNEnglish.cn" tvg-country="CN" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CGTN_Logo.png" group-title="News",CGTN Documentary (China) *State Funded Biased Propoganda
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:-1 tvg-id="BBCPersian.uk" tvg-name="BBC Persian" tvg-country="UK" tvg-language="Persian" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_News_Persian_logo.png" group-title="News",BBC Persian 
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
