@@ -39,10 +39,11 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 tvg-country="UK" tvg-language="English" tvg-id="GBBB1000002VQ" group-title="Talk" radio="true" tvg-logo="https://content.audiospace.co/stations/145/files/nruk-medium.png", News Radio UK
 http://playoutonestreaming.com:8008/stream?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNzQxMjg4OCwiaXNzIjoidGlzcnYifQ.ND7rCX5mYXMsidBSg99SjnYS0X2_DXZ60c4hU5yrPps
 
-#EXTINF:-1 tvg-country="RU" tvg-language="English" group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png", Russia Today (Russia) *Russian Propoganda
+#EXTINF:-1 tvg-country="RU" tvg-language="English" group-title="Talk;News" radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Russia_Today_Logo.png", Russia Today (Russia) *State Funded Biased Propoganda
 https://rt-glb.rttv.com/live/rtnews/playlist_64Kb.m3u8
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-country="RU" tvg-language="English" group-title="Talk" radio="true" tvg-country="RU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Radio_Sputnik_Logo.png", Radio Sputnik (Russia) *Russian Propoganda
+#EXTINF:-1 tvg-country="RU" tvg-language="English" group-title="Talk" radio="true" tvg-country="RU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/Radio_Sputnik_Logo.png", Radio Sputnik (Russia) *State Funded Biased Propoganda
 http://audio2.video.ria.ru/voiceeng
 
 #EXTINF:-1 group-title="Talk;News" radio="true" tvg-country="DE" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/DW_TV_Logo.png", DW Radio
@@ -97,7 +98,7 @@ http://streaming.radiomyway.co.nz/zbwnalt.pls
 http://streaming.radiomyway.co.nz/zbchalt.pls
 
 #EXTINF:-1 group-title="Talk" radio="true" tvg-country="RU" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/China_Radio_International_logo.png", China Plus - China Radio International
-http://am846-lh.akamaihd.net/i/am846_1@301569/master.m3u8
+http://sk.cri.cn/am846.m3u8
 
 #EXTINF:-1 tvg-country="JP" tvg-language="English" group-title="Talk;News" radio="true"  tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/NHK_World_Japan_Logo.png", NHK World Radio (Japan)
 http://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263949/live_s.m3u8
@@ -209,3 +210,18 @@ http://blueplanetserver.net:8000/listen.pls?sid=1
 
 #EXTINF:-1 group-title="Soundtrack" radio="true" tvg-logo="https://cdn-profiles.tunein.com/s262576/images/logog.png", Muppet Central Radio
 https://listen.openstream.co/3835/audio?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYyODk1Njg5NCwiaXNzIjoidGlzcnYifQ.amGCg5wiPClVa08N0jovcJQTv_l-_iv5U8tBNYnFj-o
+
+#EXTINF:1 group-title="Broadway" radio="true" ,iHeartRadio Broadway
+https://ample.revma.ihrhls.com/zc7378/14_ypx1lharbetk02/playlist.m3u8
+
+#EXTINF:1 group-title="Broadway" radio="true" ,Sounds of Broadway
+https://streamer.radio.co/s5cd7204e5/listen
+
+#EXTINF:1 group-title="Broadway" radio="true" ,Broadway Records Radio - Showtunes and Broadway Stars
+https://ice55.securenetsystems.net/DASH75
+
+#EXTINF:1 group-title="Broadway" radio="true" ,Halloween on Broadway
+http://199.233.238.26:8036/listen.pls
+
+#EXTINF:1 group-title="Broadway" radio="true" ,RadioArt: Broadway
+https://live.radioart.com/fBroadway.mp3
